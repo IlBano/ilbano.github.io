@@ -1,108 +1,1424 @@
 @id;@type;@lat;@lon;ref:mise;brand;name;operator;idImpianto;descCarburante;prezzo;isSelf;dtComu;color
+27584689;node;45.4606985;9.1489531;11669;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11669;Benzina;1.719;1;02/08/2025 07:06:15;Yellow
+31011528;node;45.4451402;9.1198245;6436;Q8;Q8;Servizi & Gestioni Italia Srl;6436;Benzina;1.669;1;30/07/2025 01:05:25;Yellow
+31334839;node;45.4265821;9.2027266;26124;Eni;Eni;Eni Fuel S.P.A.;26124;Benzina;1.669;1;02/08/2025 00:23:05;Yellow
+196162565;node;45.6570051;8.9797065;39354;Q8;Q8;Garage Brenna S.N.C. di Brenna Gianbattista e C.;39354;Benzina;1.699;1;28/07/2025 06:58:14;Yellow
 208518509;node;44.9144077;9.1910799;21385;;Occhio al Prezzo;Bar L'Alpino di Montagna Antonella;21385;Benzina;2.15;0;27/07/2025 06:08:52;Red
+226906655;node;45.4560895;10.5229253;11528;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11528;Benzina;1.719;1;01/08/2025 01:36:40;Yellow
+226907685;node;45.4358600;9.2010980;29785;Eni;Eni;Dericca S.N.C. - Stazione di Servizio Eni - di De Luca Vincenzo e Giuseppe;29785;Benzina;1.689;1;02/08/2025 07:34:09;Yellow
+226913080;node;45.5212252;9.1497552;11675;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11675;Benzina;1.679;1;01/08/2025 08:04:09;Yellow
+226913560;node;45.5465110;8.9329790;10095;Total Erg;Erg;Gestioni Europa - Società Per Azioni;10095;Benzina;1.669;1;01/08/2025 09:06:01;Yellow
+226914720;node;45.1380244;10.0400597;29398;IP;IP;Ip Services S.R.L.;29398;Benzina;1.649;1;01/08/2025 15:01:43;Yellow
+226923165;node;45.6483168;10.2686655;11058;Agip Eni;;Polotti F.lli di Polotti Sandro e C. S.N.C.;11058;Benzina;1.679;1;02/08/2025 07:22:13;Yellow
+226925120;node;45.7423975;9.1087919;6038;;M.P.R. Sas;M.P.R. Sas di Guglielmetti Mauro & C.;6038;Benzina;1.639;1;01/08/2025 17:16:30;Yellow
+226928196;node;45.5138659;10.3052010;3999;;3G Carburanti;Immobiliare Giacomini di Giacomini Natale & C. S.n.c.;3999;Benzina;1.639;1;28/07/2025 12:15:04;Yellow
+226928560;node;45.5209135;10.2465339;37462;Api-Ip;;Stazione di Servizio Pesce Carlo;37462;Benzina;1.679;1;31/07/2025 16:29:16;Yellow
+226933346;node;45.4672220;9.1375000;19181;Esso;Esso;Brentan Daniela;19181;Benzina;1.686;1;02/08/2025 08:07:49;Yellow
+226935825;node;45.7904650;9.8258330;39533;Agip Eni;Agip;Skarburati di Rossi Gilberto e C. Snc;39533;Benzina;1.699;1;02/08/2025 07:46:11;Yellow
+226936003;node;45.7934262;9.8294077;11480;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11480;Benzina;1.689;1;29/07/2025 07:40:30;Yellow
+226936150;node;45.7941941;9.8310124;27568;Esso;Esso;Masserini Bruna & F.lli S.N.C.;27568;Benzina;1.669;1;02/08/2025 07:53:13;Yellow
+226936649;node;45.6038952;9.1530009;22380;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;22380;Benzina;1.638;1;02/08/2025 06:00:47;Yellow
+226938128;node;45.5282756;9.2548015;11684;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11684;Benzina;1.659;1;29/07/2025 07:40:28;Yellow
+226942209;node;45.7711350;9.8114707;37758;;ZERO 35;Ditta Morzenti Antonio S.R.L.;37758;Benzina;1.617;1;02/08/2025 07:28:18;Yellow
+226944922;node;45.5268875;10.5290730;14124;San Marco Petroli;San Marco Petroli;;14124;Benzina;1.709;1;31/07/2025 08:39:41;Yellow
+226945298;node;45.5625770;10.5324980;10593;Agip Eni;;Gottelli Luca;10593;Benzina;1.759;1;02/08/2025 05:25:30;Yellow
+226948412;node;45.4807010;9.1433930;9455;Eni;Eni;Autoservice Lotto Srl;9455;Benzina;1.709;1;02/08/2025 00:13:46;Yellow
+226948415;node;45.6182826;9.0817875;9344;Q8;Q8;Stafu S.N.C. di Straiano Stephen Gennaro e Furnari Tindaro;9344;Benzina;1.719;0;01/08/2025 07:47:26;Yellow
+226948427;node;45.5927650;9.6792770;54151;Eni;Agip;Gielle - S.A.S. di Guerini Fabio & C.;54151;Benzina;1.734;1;02/08/2025 06:44:11;Yellow
+226949301;node;45.3967540;9.2103661;36368;Tamoil;Tamoil;T.D.M. S.R.L.;36368;Benzina;1.659;1;01/08/2025 12:36:13;Yellow
+226949617;node;45.4004908;9.2098671;56142;IP;IP;Dm S.A.S. di Donadei Federica e C.;56142;Benzina;1.699;1;01/08/2025 18:20:06;Yellow
+226949783;node;45.6742150;9.6445534;7444;Esso;Esso;Maffi Marco;7444;Benzina;1.699;0;01/08/2025 07:04:20;Yellow
+226952224;node;45.4762530;9.0040260;20036;Q8;Q8;Servizi & Gestioni Italia S.R.L.;20036;Benzina;1.659;1;31/07/2025 01:05:43;Yellow
+226998585;node;45.4921190;9.6983100;34007;Agip;Agip;Pighizzini Giovanni;34007;Benzina;1.719;1;02/08/2025 00:26:22;Yellow
+226999970;node;45.5289631;9.5982233;43656;Eni;Eni;Eni Fuel S.p.A.;43656;Benzina;1.679;1;02/08/2025 07:44:08;Yellow
+227000655;node;45.6280840;9.6205690;31413;Esso;Esso;Trussardi Petroli Spa;31413;Benzina;1.699;1;01/08/2025 12:22:25;Yellow
+227001174;node;45.4926304;9.8060355;21233;Agip;Agip;Distributore Carburante Agip (Chiosco) di Ubbiali Gabriella;21233;Benzina;1.719;1;01/08/2025 07:15:13;Yellow
+227001340;node;45.6795501;9.6134958;4981;Eni;Eni;Ma.Pi. S.N.C. Dei F.lli Cornago;4981;Benzina;1.749;1;02/08/2025 05:08:07;Yellow
+227001341;node;45.6836149;9.7410797;5432;Agip Eni;Agip;Eni Fuel S.P.A.;5432;Benzina;1.679;1;02/08/2025 05:44:03;Yellow
+227001882;node;45.4851734;10.3087302;3530;Eni;Eni;Crescimanna Angelo;3530;Benzina;1.849;1;02/08/2025 02:08:03;Orange
+227002084;node;45.8408638;10.1402994;5728;Agip Eni;Stazione Eni 1755;Nodari Tiziano;5728;Benzina;1.699;1;02/08/2025 07:32:16;Yellow
+227002099;node;45.8279152;9.4168346;7786;Eni;Eni;Stabile Giovanni;7786;Benzina;1.679;1;02/08/2025 07:38:16;Yellow
+227002246;node;45.7969555;9.1199904;7047;Agip Eni;Eni;Trombetta Valter;7047;Benzina;1.719;1;02/08/2025 07:28:09;Yellow
+227002415;node;45.9825432;9.2231640;10862;Agip Eni;Agip;Lario Centro S.A.S. di Travella Carlo & C.;10862;Benzina;1.784;1;02/08/2025 00:20:44;Yellow
+227002422;node;45.8123877;9.0724047;37927;Eni;Eni;Zanon Paola;37927;Benzina;1.689;1;02/08/2025 07:34:30;Yellow
+227003486;node;45.2458915;9.9639276;37847;Agip Eni;Agip;Salbed-S.R.L.;37847;Benzina;1.739;1;02/08/2025 06:58:11;Yellow
+227004059;node;45.5742447;9.3944919;24292;Eni;Eni;Superservice Snc Dei F.lli Cantarelli;24292;Benzina;1.818;1;02/08/2025 00:26:17;Yellow
+227004781;node;45.3205300;9.3764450;43690;Q8;Q8;Gias S.R.L.;43690;Benzina;1.754;1;01/08/2025 14:30:09;Yellow
+227004958;node;45.4435039;9.1723220;25196;Eni;Eni;Albertini Davide;25196;Benzina;1.709;1;02/08/2025 07:40:23;Yellow
+227005363;node;45.4802808;9.1011243;42445;Agip;Agip;De Zolt Ponte Silvio Mario;42445;Benzina;1.724;1;02/08/2025 07:20:28;Yellow
+227005615;node;45.4567100;9.1223610;39911;Agip;Agip;Cali' Marco;39911;Benzina;1.699;1;02/08/2025 07:32:14;Yellow
+227006640;node;45.5580390;9.2206410;40748;Agip Eni;Eni;Fera Marco;40748;Benzina;1.714;1;02/08/2025 07:02:08;Yellow
+227007202;node;45.6584180;9.1638640;13332;Eni;Eni;Tobia Osvaldo & Figli Snc di Tobia Osvaldo & C.;13332;Benzina;1.729;1;02/08/2025 07:20:28;Yellow
+227008232;node;45.4621020;9.2761190;37831;Eni;Eni;Petrol Linate S.A.S. di Squeri Alberto & C.;37831;Benzina;1.719;1;02/08/2025 07:20:12;Yellow
+227008702;node;45.3200660;9.5101480;14608;Eni;Agip;Pagani Luciano;14608;Benzina;1.749;1;02/08/2025 07:46:09;Yellow
+227008711;node;45.6359880;9.3631090;3808;Agip Eni;Agip;Saben S.N.C. di Sala Antonio & C.;3808;Benzina;1.769;1;28/07/2025 09:31:44;Yellow
+227009504;node;45.6207298;9.1996826;32877;Eni;Eni;Scarfone Cosimo;32877;Benzina;1.719;1;02/08/2025 00:24:16;Yellow
+227010402;node;45.4349114;9.3805124;14310;Agip Eni;Eni;Lapa S.A.S. di Fioriello Pasquale e C.;14310;Benzina;1.729;1;02/08/2025 07:20:12;Yellow
+227011539;node;45.3362659;9.1080525;5395;Eni;ENI;Eni Fuel S.P.A.;5395;Benzina;1.704;1;02/08/2025 07:20:16;Yellow
+227011730;node;45.5110650;8.8637690;19250;Agip Eni;Agip;Stop & Go S.A.S. di Ferrari Alberto e C.;19250;Benzina;1.769;1;02/08/2025 07:34:26;Yellow
+227011900;node;45.3826561;9.2512121;35427;Q8;Q8;Ristorauto S.R.L.;35427;Benzina;1.799;1;01/08/2025 09:50:10;Yellow
+227012104;node;45.3833420;9.2508124;36103;Eni;Eni;Pluspetrol S.R.L.;36103;Benzina;1.799;1;02/08/2025 06:02:13;Yellow
+227012874;node;45.4008984;9.1224572;3503;Q8;Q8;Le Mans Service S.R.L.;3503;Benzina;1.799;1;01/08/2025 12:02:22;Yellow
 227013247;node;45.1014190;8.7458090;10833;Eni;Eni;Pampuri Emiliano;10833;Benzina;1.759;1;02/08/2025 06:46:16;Yellow
 227013658;node;45.1985867;9.1811840;17612;Eni;Agip;Pischedda Andrea;17612;Benzina;1.759;1;02/08/2025 00:24:51;Yellow
 227013986;node;44.9954932;8.9857142;13825;Eni;Eni;Cattani Lauretta;13825;Benzina;1.749;1;02/08/2025 00:20:15;Yellow
 227014603;node;45.3258389;8.8755964;17443;Agip;Agip;Iovane Michele;17443;Benzina;1.744;1;02/08/2025 07:32:20;Yellow
 227014961;node;45.1931029;9.1666342;30084;Eni;Agip;Pischedda Andrea;30084;Benzina;1.759;1;02/08/2025 07:32:18;Yellow
-227015438;node;45.3052351;8.8528719;58809;Eni;Eni;;58809;Benzina;1.689;1;02/08/2025 00:24:52;Green
-227549319;node;44.9991565;9.0690754;24149;;Iper;Iper Montebello S.P.A.;24149;Benzina;1.604;1;01/08/2025 17:16:01;Green
-227549320;node;44.9781488;9.0081271;13335;Total Erg;Erg;Sbarra Mauro;13335;Benzina;1.679;1;30/07/2025 07:39:27;Green
-227549325;node;44.9971095;8.9767038;22291;IP;Erg;Gestioni Europa - Società Per Azioni;22291;Benzina;1.659;1;01/08/2025 09:06:01;Green
-227552619;node;45.0078381;9.1096902;11788;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11788;Benzina;1.639;1;31/07/2025 07:05:48;Green
-227552833;node;44.9868746;8.9933781;24415;;Restiani;;24415;Benzina;1.699;1;01/08/2025 16:38:39;Green
-227553016;node;44.9949375;8.9890052;40596;IP;Api;Gruppo Sam Snc di Sudesh Kumar & C.;40596;Benzina;1.659;1;29/07/2025 08:32:14;Green
-227555087;node;44.9428496;9.0121062;7685;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;7685;Benzina;1.725;1;02/08/2025 06:00:58;Green
-227555336;node;44.9250314;9.0259578;27414;Tamoil;Tamoil;G.V. Carburanti Snc di Giangrassi R. e Viola D.;27414;Benzina;1.689;1;02/08/2025 06:58:21;Green
-227555585;node;44.9729580;9.0616180;21858;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21858;Benzina;1.725;1;02/08/2025 06:00:59;Green
-227556528;node;45.0371725;9.0486656;12979;;Indipend.;Nebbiolo Nicolino;12979;Benzina;1.66;1;01/08/2025 16:37:46;Green
-227580180;node;45.1708150;9.1442700;11786;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11786;Benzina;1.699;1;01/08/2025 08:04:09;Green
-227596313;node;45.0000100;8.9591360;26682;Tamoil;Tamoil;T.D.M. S.R.L.;26682;Benzina;1.659;1;01/08/2025 11:38:10;Green
-227598867;node;44.8242091;9.1259872;26140;Tamoil;Tamoil;Pastore Petroli - S.R.L.;26140;Benzina;1.699;1;01/08/2025 09:40:37;Green
-227599239;node;44.8249296;9.1844836;39362;Tamoil;Tamoil;T.D.M. S.R.L.;39362;Benzina;1.689;1;01/08/2025 12:09:33;Green
-227601206;node;45.0098219;8.9277552;29629;Tamoil;Tamoil;T.D.M. S.R.L.;29629;Benzina;1.659;1;01/08/2025 14:46:09;Green
-227610142;node;44.9991693;9.0919054;6453;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia Srl;6453;Benzina;1.619;1;02/08/2025 01:07:13;Green
+227015438;node;45.3052351;8.8528719;58809;Eni;Eni;;58809;Benzina;1.689;1;02/08/2025 00:24:52;Yellow
+227016933;node;46.1618081;9.7951243;34643;GP;GP;Commerciale Paganoni S.P.A.;34643;Benzina;1.619;1;02/08/2025 00:08:26;Yellow
+227018275;node;46.1636549;9.9795041;38856;Agip Eni;Eni;Cioccarelli Claudio e Figli S.N.C.;38856;Benzina;1.719;1;02/08/2025 07:32:16;Yellow
+227019765;node;45.6458873;8.7492842;4720;Agip;Area di servizio Malpensa Est;Garbini S.R.L.;4720;Benzina;1.739;1;02/08/2025 06:58:13;Yellow
+227504491;node;45.4867993;9.3303617;24841;Api-Ip;IP;Calor Systems S.P.A.;24841;Benzina;1.699;1;30/07/2025 07:47:55;Yellow
+227504709;node;45.5046250;9.3725720;11707;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11707;Benzina;1.629;1;31/07/2025 01:05:47;Yellow
+227505942;node;45.4859781;9.0803424;24021;IP;IP API;Gestioni Europa - Società Per Azioni;24021;Benzina;1.669;1;01/08/2025 09:05:11;Yellow
+227508203;node;45.6522284;8.9045886;37667;Total Erg;TotalErg;Arpi S.A.S. di Arru Melissa & C.;37667;Benzina;1.709;1;01/08/2025 16:18:38;Yellow
+227514669;node;45.5528860;9.3875120;14598;Eni;Eni;Automarket di Fumagalli & Brambilla S.N.C.;14598;Benzina;1.769;1;02/08/2025 00:14:07;Yellow
+227516453;node;45.5146210;9.1376420;24668;IP;Erg;Gestioni Europa - Società Per Azioni;24668;Benzina;1.689;1;01/08/2025 09:05:59;Yellow
+227516545;node;45.4973264;9.1798725;28631;Total Erg;@pump;Gestioni Europa - Società Per Azioni;28631;Benzina;1.799;1;01/08/2025 09:06:33;Yellow
+227516548;node;45.5264202;9.1745752;9046;TotalErg;TotalErg;Barbiero Giancarlo;9046;Benzina;1.669;1;31/07/2025 07:25:41;Yellow
+227516643;node;45.5226966;9.1747024;33491;Costantin;Costantin;Costantin Distribuzione e Servizi Srl;33491;Benzina;1.645;1;30/07/2025 10:10:38;Yellow
+227516840;node;45.4731250;9.1996010;34486;Tamoil;Tamoil;T.D.M. S.R.L.;34486;Benzina;1.829;1;01/08/2025 11:42:06;Yellow
+227516864;node;45.4358800;9.2317100;35560;Tamoil;Tamoil;T.D.M. S.R.L.;35560;Benzina;1.679;1;02/08/2025 08:24:11;Yellow
+227516881;node;45.4642109;9.1419550;36434;Tamoil;Tamoil;Planet K S.R.L. Semplificata con Unico Socio;36434;Benzina;1.649;1;01/08/2025 14:28:07;Yellow
+227517020;node;45.4832228;9.1593078;42071;Tamoil;Tamoil;T.D.M. S.R.L.;42071;Benzina;1.719;1;01/08/2025 12:36:12;Yellow
+227517123;node;45.4946050;9.1243120;33859;Tamoil;Tamoil;T.D.M. S.R.L.;33859;Benzina;1.679;1;01/08/2025 14:46:04;Yellow
+227517125;node;45.4601524;9.0959172;32685;Tamoil;Tamoil;T.D.M. S.R.L.;32685;Benzina;1.649;1;01/08/2025 12:20:03;Yellow
+227517346;node;45.5118950;9.1280166;35639;Tamoil;Tamoil;T.D.M. S.R.L.;35639;Benzina;1.679;1;01/08/2025 11:36:02;Yellow
+227517486;node;45.5228110;9.1592180;24527;Tamoil;Tamoil;T.D.M. S.R.L.;24527;Benzina;1.669;1;01/08/2025 13:00:07;Yellow
+227518596;node;45.3830521;9.1689365;8726;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;8726;Benzina;1.659;1;29/07/2025 01:05:47;Yellow
+227518788;node;45.4306749;9.1779972;12804;;Grifo;Autorimessa Frigo Snc di Frigo Riccardo Giuseppe e Giovanni;12804;Benzina;1.689;1;30/07/2025 08:23:25;Yellow
+227518909;node;45.6021911;9.2299843;22981;TE 24/24;TE 24/24;Gestioni Europa - Società Per Azioni;22981;Benzina;1.669;1;01/08/2025 09:06:39;Yellow
+227519321;node;45.5597168;9.2270364;11680;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11680;Benzina;1.649;1;01/08/2025 14:05:05;Yellow
+227519352;node;45.6828522;9.7848111;22456;;ZERO 35;Ditta Morzenti Antonio S.R.L.;22456;Benzina;1.639;1;02/08/2025 00:17:08;Yellow
+227519378;node;45.5164593;9.2255586;15522;Retitalia;Retitalia;Valandro S.N.C. di Valandro Enzo e Osvaldo;15522;Benzina;1.719;1;31/07/2025 09:03:45;Yellow
+227519387;node;45.4809886;9.2150483;19309;Api-Ip;Retitalia;Zamperlin Angelo;19309;Benzina;1.839;1;28/07/2025 14:42:34;Orange
+227519400;node;45.4560020;9.2264461;11696;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11696;Benzina;1.714;1;02/08/2025 07:06:15;Yellow
+227519402;node;45.4569156;9.2411137;22258;Keropetrol;Keropetrol;Stazione di Servizio di Turino Francesco;22258;Benzina;1.749;1;01/08/2025 16:31:15;Yellow
+227519406;node;45.4456359;9.1614456;11708;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11708;Benzina;1.699;1;02/08/2025 01:07:12;Yellow
+227519522;node;45.4830930;9.0887620;7260;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;7260;Benzina;1.669;1;02/08/2025 07:06:16;Yellow
+227519642;node;45.4715940;9.1216670;11664;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11664;Benzina;1.669;1;01/08/2025 08:04:08;Yellow
+227519711;node;45.4837170;9.1428510;11698;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11698;Benzina;1.644;1;30/07/2025 01:05:26;Yellow
+227528884;node;45.4706584;9.1519479;12654;IP;IP;De Simone Domenico;12654;Benzina;2.39;1;29/07/2025 10:47:55;Red
+227528941;node;45.5051510;9.1051770;11694;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11694;Benzina;1.684;1;30/07/2025 01:05:26;Yellow
+227528997;node;45.4952400;9.1132990;11702;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11702;Benzina;1.684;1;30/07/2025 01:05:27;Yellow
+227529001;node;45.5051180;9.1041200;18802;;Leone;;18802;Benzina;1.684;1;31/07/2025 07:58:18;Yellow
+227529004;node;45.4444760;9.1180090;11672;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11672;Benzina;1.679;1;01/08/2025 08:04:08;Yellow
+227529012;node;45.5038106;9.1641243;7908;Keropetrol;Keropetrol;Ke.Ro Impianti S.R.L.;7908;Benzina;1.699;1;02/08/2025 05:55:21;Yellow
+227529016;node;45.4966814;9.1914255;11662;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11662;Benzina;1.699;1;02/08/2025 07:06:15;Yellow
+227529322;node;45.6736750;9.6433140;14436;OIL ONE;IP;F.lli Belotti di Ovidio e Giovanni S.N.C.;14436;Benzina;1.697;1;31/07/2025 07:38:44;Yellow
+227529430;node;45.5171732;10.0702316;24755;Tamoil;;Ghi.Mar di Ghidetti Roberto e Calegari Fratelli S.n.c.;24755;Benzina;1.629;1;01/08/2025 19:46:20;Yellow
+227529445;node;45.5926296;9.8948194;11526;Q8;;Servizi & Gestioni Italia S.R.L.;11526;Benzina;1.669;1;29/07/2025 07:40:36;Yellow
+227529539;node;45.5080460;9.9444290;34490;Agip Eni;Agip;Fiorini Enrico;34490;Benzina;1.719;1;02/08/2025 00:23:34;Yellow
+227529846;node;45.5095650;9.9824520;34706;Agip Eni;Eni;Olmi Group di Olmi Tiziano;34706;Benzina;1.689;1;02/08/2025 07:38:09;Yellow
+227531776;node;45.3783180;9.1692415;30183;IP;IP;Ip Services S.R.L.;30183;Benzina;1.659;1;01/08/2025 09:01:24;Yellow
+227531791;node;45.4644140;9.2000054;17894;IP;IP;Garage Velasca S.R.L.;17894;Benzina;1.859;1;01/08/2025 10:11:34;Orange
+227535541;node;45.6056200;9.3671640;15106;Total Erg;TotalErg;Rlg S.N.C. di Ramunno Antonio & C.;15106;Benzina;1.669;0;30/07/2025 08:00:04;Yellow
+227535547;node;45.6200110;9.3711180;7999;Total Erg;TotalErg;Augello & C. S.N.C.;7999;Benzina;1.659;1;01/08/2025 13:34:31;Yellow
+227537092;node;45.6340539;9.4202925;30953;Api-Ip;IP;Ip Services S.R.L.;30953;Benzina;1.709;1;01/08/2025 15:02:53;Yellow
+227540104;node;45.6233760;9.4785890;6428;Q8;Q8;Servizi & Gestioni Italia Srl;6428;Benzina;1.689;1;01/08/2025 01:36:34;Yellow
+227540106;node;45.6173660;9.4883200;33833;Eni;Eni;Quick Service S.R.L.;33833;Benzina;1.729;1;02/08/2025 05:34:08;Yellow
+227541352;node;45.5474748;9.0312379;27031;Api-Ip;IP Matic;Ip Services S.R.L.;27031;Benzina;1.669;1;01/08/2025 09:03:02;Yellow
+227541764;node;45.5466406;9.4509596;11663;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11663;Benzina;1.689;1;02/08/2025 01:07:10;Yellow
+227543624;node;45.6198050;9.4623324;14190;Total Erg;TotalErg;2 L.C. di Luigi & Luca Colombo S.N.C.;14190;Benzina;1.709;1;01/08/2025 15:55:10;Yellow
+227545576;node;45.5522574;9.2380080;50704;;iperstaroil;;50704;Benzina;1.629;1;02/08/2025 06:15:24;Yellow
+227546292;node;45.4594997;8.8847735;56689;IP;IP;ECONOMY SRL;56689;Benzina;1.659;1;01/08/2025 13:01:31;Yellow
+227546420;node;45.4740560;8.8797473;58842;Ip;Ip;ECONOMY SRL;58842;Benzina;1.659;1;01/08/2025 13:00:35;Yellow
+227546626;node;45.4583700;8.8736581;15702;Tamoil;Tamoil;M.E.M. di Villa Massimo;15702;Benzina;1.649;1;01/08/2025 15:04:34;Yellow
+227548878;node;45.1544968;10.1004507;24150;IperStation;IperStation;Iper Montebello S.P.A.;24150;Benzina;1.649;1;01/08/2025 17:16:13;Yellow
+227549071;node;45.4970635;9.1837715;24574;Eni;Eni;Di Biase Mario;24574;Benzina;1.719;1;02/08/2025 07:10:05;Yellow
+227549319;node;44.9991565;9.0690754;24149;;Iper;Iper Montebello S.P.A.;24149;Benzina;1.604;1;01/08/2025 17:16:01;Yellow
+227549320;node;44.9781488;9.0081271;13335;Total Erg;Erg;Sbarra Mauro;13335;Benzina;1.679;1;30/07/2025 07:39:27;Yellow
+227549325;node;44.9971095;8.9767038;22291;IP;Erg;Gestioni Europa - Società Per Azioni;22291;Benzina;1.659;1;01/08/2025 09:06:01;Yellow
+227552619;node;45.0078381;9.1096902;11788;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11788;Benzina;1.639;1;31/07/2025 07:05:48;Yellow
+227552833;node;44.9868746;8.9933781;24415;;Restiani;;24415;Benzina;1.699;1;01/08/2025 16:38:39;Yellow
+227553016;node;44.9949375;8.9890052;40596;IP;Api;Gruppo Sam Snc di Sudesh Kumar & C.;40596;Benzina;1.659;1;29/07/2025 08:32:14;Yellow
+227555087;node;44.9428496;9.0121062;7685;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;7685;Benzina;1.725;1;02/08/2025 06:00:58;Yellow
+227555336;node;44.9250314;9.0259578;27414;Tamoil;Tamoil;G.V. Carburanti Snc di Giangrassi R. e Viola D.;27414;Benzina;1.689;1;02/08/2025 06:58:21;Yellow
+227555585;node;44.9729580;9.0616180;21858;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21858;Benzina;1.725;1;02/08/2025 06:00:59;Yellow
+227556528;node;45.0371725;9.0486656;12979;;Indipend.;Nebbiolo Nicolino;12979;Benzina;1.66;1;01/08/2025 16:37:46;Yellow
+227558121;node;45.4580730;8.8697770;23580;Tamoil;Tamoil;Cornaredo Carburanti S.R.L.;23580;Benzina;1.699;1;01/08/2025 10:31:57;Yellow
+227558365;node;45.1567430;10.8418110;10976;Q8;Q8;Mazzola & Bignardi S.p.A.;10976;Benzina;1.679;1;02/08/2025 06:16:06;Yellow
+227559799;node;45.4435530;9.1741325;24848;Q8;Q8;Servizi & Gestioni Italia S.R.L.;24848;Benzina;1.699;1;02/08/2025 01:07:11;Yellow
+227561480;node;45.6196200;9.2169160;14629;Tamoil;Tamoil;Stazione di Servizio Tamoil di Moramarco Giacinto e C. Snc;14629;Benzina;1.679;1;01/08/2025 08:36:05;Yellow
+227569095;node;45.6778060;9.7066780;4642;Tamoil;Tamoil;Nuova Sidap S.R.L.;4642;Benzina;1.659;1;01/08/2025 14:52:00;Yellow
+227569590;node;45.4394753;9.1525764;30890;Q8;Q8;Servizi & Gestioni Italia S.R.L.;30890;Benzina;1.699;1;01/08/2025 07:06:51;Yellow
+227576031;node;45.4326794;9.1736149;30186;IP;IP;Ip Services S.R.L.;30186;Benzina;1.689;1;01/08/2025 09:03:47;Yellow
+227580180;node;45.1708150;9.1442700;11786;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11786;Benzina;1.699;1;01/08/2025 08:04:09;Yellow
+227585188;node;45.3277820;9.1394110;30532;Esso;Esso;Blondy S.A.S. di Migliorini R. & C.;30532;Benzina;1.696;1;02/08/2025 08:15:08;Yellow
+227587647;node;45.5753466;9.3547217;10008;IP;IP;F.R.A.M. Snc di Frieri Massimo e Raffaele Domenico Antonio;10008;Benzina;1.669;0;02/08/2025 08:04:09;Yellow
+227588720;node;45.4697964;8.9021636;27248;;EH24;Ago S.N.C. di Petrocelli Ottavio e C.;27248;Benzina;1.659;1;02/08/2025 08:08:08;Yellow
+227594508;node;45.4821410;9.0941580;29436;Esso;Esso;Omar S.N.C. di Fontana Rachele & Morshedy Khalil;29436;Benzina;1.739;1;16/07/2025 18:42:15;Yellow
+227595745;node;45.6587665;9.1641370;6431;Q8 Easy;Q8easy;Servizi & Gestioni Italia Srl;6431;Benzina;1.659;1;02/08/2025 01:07:09;Yellow
+227596313;node;45.0000100;8.9591360;26682;Tamoil;Tamoil;T.D.M. S.R.L.;26682;Benzina;1.659;1;01/08/2025 11:38:10;Yellow
+227598867;node;44.8242091;9.1259872;26140;Tamoil;Tamoil;Pastore Petroli - S.R.L.;26140;Benzina;1.699;1;01/08/2025 09:40:37;Yellow
+227599239;node;44.8249296;9.1844836;39362;Tamoil;Tamoil;T.D.M. S.R.L.;39362;Benzina;1.689;1;01/08/2025 12:09:33;Yellow
+227600658;node;45.4778902;9.1958993;15890;IP;IP;Calor Systems S.P.A.;15890;Benzina;1.779;1;01/08/2025 08:23:58;Yellow
+227601206;node;45.0098219;8.9277552;29629;Tamoil;Tamoil;T.D.M. S.R.L.;29629;Benzina;1.659;1;01/08/2025 14:46:09;Yellow
+227602572;node;45.8083361;9.8949930;7321;Agip Eni;Agip;Distributore I.P. di Campana Tommaso;7321;Benzina;1.699;1;02/08/2025 06:52:06;Yellow
+227603133;node;45.8006397;9.8821024;22235;IP;IP;Merla Manuel;22235;Benzina;1.779;1;01/08/2025 09:59:29;Yellow
+227610142;node;44.9991693;9.0919054;6453;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia Srl;6453;Benzina;1.619;1;02/08/2025 01:07:13;Yellow
+227610688;node;45.8843891;9.9344513;10404;;UNION;Scandella Andrea & C. S.N.C.;10404;Benzina;1.649;1;01/08/2025 07:17:48;Yellow
+227611317;node;45.4654499;9.2352214;29211;IP;IP;Ip Services S.R.L.;29211;Benzina;1.719;1;01/08/2025 09:01:43;Yellow
 227611730;node;45.1488612;8.9925327;3558;Esso;Esso;Nuova Sidap S.R.L.;3558;Benzina;1.882;1;01/08/2025 17:32:00;Orange
 227611946;node;45.1473150;8.9901698;29714;Q8;Q8;Acistar Nove S.R.L.;29714;Benzina;1.799;1;29/07/2025 14:05:07;Yellow
-227615893;node;45.0123378;9.1171983;22662;Esso;Esso;Pisello Giuseppe Fabrizio;22662;Benzina;1.629;1;01/08/2025 10:45:27;Green
-227623119;node;45.1969929;9.1596198;14281;Q8;Q8;Servizi & Gestioni Italia S.R.L.;14281;Benzina;1.714;1;02/08/2025 01:07:13;Green
+227614921;node;45.4014940;8.9317850;32599;IP;IP;Ip Services S.R.L.;32599;Benzina;1.629;1;01/08/2025 15:05:16;Yellow
+227614922;node;45.4010100;8.9323850;10085;Erg;Erg;Gestioni Europa - Società Per Azioni;10085;Benzina;1.619;1;01/08/2025 15:06:32;Yellow
+227615893;node;45.0123378;9.1171983;22662;Esso;Esso;Pisello Giuseppe Fabrizio;22662;Benzina;1.629;1;01/08/2025 10:45:27;Yellow
+227619136;node;45.4172741;8.9428934;27660;Api-Ip;IP;Ip Services S.R.L.;27660;Benzina;1.619;1;01/08/2025 15:02:55;Yellow
+227622170;node;45.6610720;9.6795770;31849;Q8;Q8;Servizi & Gestioni Italia S.R.L.;31849;Benzina;1.729;1;29/07/2025 07:40:29;Yellow
+227623119;node;45.1969929;9.1596198;14281;Q8;Q8;Servizi & Gestioni Italia S.R.L.;14281;Benzina;1.714;1;02/08/2025 01:07:13;Yellow
+227627208;node;45.5772074;9.4177052;4612;;;Raco di Rantuccio Giuseppe e Conti Carluccio S.N.C.;4612;Benzina;1.679;1;02/08/2025 08:04:02;Yellow
+227627883;node;45.4851757;8.9595640;14881;Q8;Q8;Gps di Petrocelli Giovanni;14881;Benzina;1.699;0;28/07/2025 08:25:22;Yellow
+227628394;node;45.6692300;9.4990040;36320;Total Erg;Total;Gestioni Europa - Società Per Azioni;36320;Benzina;1.639;1;01/08/2025 09:05:09;Yellow
+227629108;node;45.4850339;8.9918662;35460;IP;IP;Raggi Eugenio & Davide S.N.C.;35460;Benzina;1.679;1;01/08/2025 08:35:38;Yellow
+227629353;node;45.5182000;9.3575840;6164;Eni;Eni;Ag Sas di Abbattista Giovanni;6164;Benzina;1.739;1;02/08/2025 07:22:26;Yellow
+227631956;node;45.1685135;10.8258193;26431;Eni;Eni;Aiftinca Gabriel;26431;Benzina;1.759;1;02/08/2025 08:02:26;Yellow
+227633330;node;45.5137210;8.8607760;37460;;Colombo Petroli;Colombo S.A.S. di Merlo Barbara & C.;37460;Benzina;1.759;1;26/07/2025 21:32:09;Yellow
 227633586;node;45.0379410;9.0834670;15098;Total Erg;TotalErg;La Rosa Dei Venti di Guarnaschelli Roberto;15098;Benzina;1.799;0;29/07/2025 08:18:39;Yellow
+227637823;node;45.4302620;10.3622320;10118;Total Erg;TE 24/24;Gestioni Europa S.p.A.;10118;Benzina;1.699;1;01/08/2025 09:06:46;Yellow
+227638744;node;45.4777633;9.1606369;35886;IP;IP;Smilepetrol S.N.C. di Galli Mario e Bertipaglia L.;35886;Benzina;2.299;1;29/07/2025 17:10:58;Red
+227639176;node;45.4212040;9.1587780;3786;Api;Api;Break Point S.R.L.;3786;Benzina;1.859;1;29/07/2025 09:39:05;Orange
+227639392;node;45.4367030;9.1646200;29917;IP;IP;Ip Services S.R.L.;29917;Benzina;1.689;1;01/08/2025 09:01:35;Yellow
+227639394;node;45.4605386;9.1342144;24274;Api;Api;Ip Services S.R.L.;24274;Benzina;1.654;1;01/08/2025 15:01:27;Yellow
+227640026;node;45.4089691;9.1749225;37696;Vega;Vega;Vega Carburanti S.p.A.;37696;Benzina;1.689;1;30/07/2025 21:34:13;Yellow
+227640964;node;45.4668166;9.1661502;12348;Keropetrol;Keropetrol;Galli Agnese;12348;Benzina;2.191;1;29/07/2025 17:10:45;Red
+227641500;node;45.4709660;9.1996258;28709;Keropetrol;Keropetrol;Giarrusso Ciro;28709;Benzina;1.879;1;30/07/2025 08:34:56;Orange
+227641858;node;45.4405293;9.1729315;17685;IP;IP;Ip Services S.R.L.;17685;Benzina;1.689;1;01/08/2025 09:03:28;Yellow
+227642262;node;45.4656610;9.1657730;12379;IP;IP;Smilepetrol S.N.C. di Galli Mario e Bertipaglia L.;12379;Benzina;2.299;1;29/07/2025 17:10:54;Red
+227642448;node;45.4347492;9.1743092;35092;Q8;Q8;Silma S.A.S. di Saverio Manosperti & C;35092;Benzina;1.799;1;02/08/2025 06:16:10;Yellow
+227642637;node;45.4718351;9.1172729;8725;Q8;Q8;Servizi & Gestioni Italia S.R.L.;8725;Benzina;1.659;1;01/08/2025 01:07:18;Yellow
+227643416;node;45.4409142;9.1723281;45993;Api-Ip;Stazione di servizio IP;Morshdy Said;45993;Benzina;1.709;0;01/08/2025 19:11:28;Yellow
+227643948;node;45.4827615;9.1479962;39036;IP;IP;Gestioni Europa - Società Per Azioni;39036;Benzina;1.654;1;01/08/2025 15:04:41;Yellow
+227644841;node;45.4761761;9.1368465;30934;TotalErg;TotalErg;Gonella Ivano;30934;Benzina;1.679;1;31/07/2025 14:42:02;Yellow
+227646525;node;45.4991200;8.8585000;13710;Eni;Eni;Petrol Store S.A.S. di Re Fraschini Marco e C.;13710;Benzina;1.769;1;02/08/2025 07:14:05;Yellow
 227649215;node;45.1981950;9.1573830;25356;Q8;Q8;S.M.A.L.P. S.N.C. di Losi Stefano Maria e Ferlisi Andrea e C.;25356;Benzina;1.759;1;26/07/2025 10:33:13;Yellow
-227693186;node;45.3628637;8.8001773;7279;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7279;Benzina;1.699;1;02/08/2025 07:06:17;Green
-227693392;node;45.1973710;8.9160060;37471;Q8;Q8;Crotti Battista;37471;Benzina;1.85;1;31/07/2025 06:50:24;Yellow
-227693393;node;45.2419199;8.7485802;11791;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11791;Benzina;1.629;1;01/08/2025 01:36:38;Green
-227693399;node;45.2800810;8.7918730;11792;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11792;Benzina;1.629;1;01/08/2025 08:35:10;Green
-227693592;node;45.3249960;9.2065640;16580;IP;IP;Maverna Claudio;16580;Benzina;1.669;1;03/06/2025 15:12:25;Green
-227693786;node;45.3258230;8.8761434;11789;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11789;Benzina;1.679;1;31/07/2025 07:38:32;Green
-227693991;node;45.3197808;8.8457023;11787;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11787;Benzina;1.699;1;02/08/2025 07:06:17;Green
-227754609;node;44.9966355;9.0174458;11793;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11793;Benzina;1.639;1;31/07/2025 01:05:48;Green
-227757850;node;45.3222800;8.8284800;10851;Tamoil;Tamoil;Maggi Stefano;10851;Benzina;1.679;1;02/08/2025 07:06:08;Green
-227760068;node;45.0542212;8.8085575;9601;Q8;Q8;Servizi & Gestioni Italia S.R.L.;9601;Benzina;1.659;1;02/08/2025 01:07:13;Green
-227768606;node;45.1982070;8.7680180;5087;Q8;Q8;Palma Giovanni;5087;Benzina;1.659;1;31/07/2025 07:16:32;Green
-227769618;node;45.3066020;8.8743080;14096;Tamoil;Tamoil;Di Palma Carlo;14096;Benzina;1.689;1;30/07/2025 08:19:27;Green
-227775732;node;45.2534824;9.0386753;38129;;Pit Stop;Castoldi Valerio;38129;Benzina;1.659;1;31/07/2025 13:55:36;Green
-227781608;node;45.0827652;9.3184206;3763;IP;IP;Stradella S.R.L.;3763;Benzina;1.869;1;31/07/2025 11:01:35;Yellow
-227788957;node;45.0491761;9.2326945;13083;Tamoil;Tamoil;Carburanti Olii Lubrificanti Bronese S.R.L.;13083;Benzina;1.699;1;01/08/2025 14:36:55;Green
+227649640;node;45.4814327;8.9108784;14271;IP;IP;Massimo Gigliotti;14271;Benzina;1.789;1;29/07/2025 06:38:08;Yellow
+227654430;node;45.5417660;9.1053184;11699;Q8;Q8;Servizi & Gestioni Italia Srl;11699;Benzina;1.689;1;02/08/2025 07:06:14;Yellow
+227655781;node;45.8448180;9.2728417;39411;KEROPETROL;Keropetrol;Keropetrol S.p.A.;39411;Benzina;1.689;1;02/08/2025 05:55:08;Yellow
+227655977;node;45.8561306;9.2693218;15503;Tamoil;Tamoil;Autofficina Pit Stop di Zupi Marcello;15503;Benzina;1.669;1;02/08/2025 08:10:04;Yellow
+227656187;node;45.8577231;9.2698364;7924;Esso;Esso;Centro Motori Due - S.N.C. di Galluzzo Michele e C.;7924;Benzina;1.689;1;02/08/2025 05:40:34;Yellow
+227677410;node;45.7190350;9.4093390;23547;Eni;Eni;G.S.S. di Fabio Valsecchi & C. S.A.S.;23547;Benzina;1.719;1;02/08/2025 06:56:16;Yellow
+227677413;node;46.0801797;9.3087118;15009;Retitalia;Retitalia;Pozzi Remo e Andrea F.lli S.N.C.;15009;Benzina;1.719;0;30/07/2025 20:22:53;Yellow
+227677417;node;45.8550937;9.4121728;40098;;stazione di servizio;Materiali Edili & Cementi S.R.L. In Breve M.E.C. S.R.L.;40098;Benzina;1.689;1;31/07/2025 11:23:57;Yellow
+227677422;node;45.8566628;9.3857132;11617;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11617;Benzina;1.689;1;29/07/2025 07:40:19;Yellow
+227677867;node;45.1432385;9.6338980;3533;Total Erg;;Acistar Tre;3533;Benzina;1.849;1;01/08/2025 08:12:31;Orange
+227677872;node;45.7395904;9.6210521;11481;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11481;Benzina;1.679;1;01/08/2025 08:04:09;Yellow
+227677887;node;45.7119786;9.5822150;16731;Q8;Q8;Dalco di Dalmaggioni Simone Battista & C. S.N.C.;16731;Benzina;1.699;1;31/07/2025 19:26:39;Yellow
+227677889;node;45.7112413;9.5842602;15806;Q8;Q8;Immobiliare Gestinvest S.R.L.;15806;Benzina;1.699;1;01/08/2025 12:53:33;Yellow
+227677897;node;45.5063252;9.8458407;22449;Keropetrol;Keropetrol;Costardi Augusto;22449;Benzina;1.699;0;02/08/2025 07:13:54;Yellow
+227677903;node;45.6100898;9.5307095;11490;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11490;Benzina;1.649;1;01/08/2025 01:36:37;Yellow
+227677908;node;45.6398841;9.8986622;34371;Q8;Q8;Fratelli Calissi S.N.C. di Calissi Mauro e Marco;34371;Benzina;1.694;1;31/07/2025 13:57:20;Yellow
+227678180;node;45.6628195;9.9298848;11491;Q8;;Servizi & Gestioni Italia S.R.L.;11491;Benzina;1.699;1;02/08/2025 07:06:17;Yellow
+227678326;node;45.6576380;9.9249460;18992;Q8;Q8;Paris Lorenzo & C.S.N.C;18992;Benzina;1.769;1;24/07/2025 09:20:53;Yellow
+227678691;node;45.6599127;9.7210665;31826;Q8;Q8;Noris Giuseppe;31826;Benzina;1.739;1;01/08/2025 18:37:28;Yellow
+227678905;node;45.8210421;10.0795967;24127;Q8;Q8;Servizi & Gestioni Italia S.R.L.;24127;Benzina;1.729;1;01/08/2025 08:04:09;Yellow
+227679103;node;45.7050935;9.5711037;11484;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11484;Benzina;1.679;1;02/08/2025 07:06:24;Yellow
+227679309;node;45.7242210;9.7183349;10481;Eni;Eni;Morosini Roberto;10481;Benzina;1.699;1;02/08/2025 07:28:08;Yellow
+227679505;node;45.5819039;9.6718198;20977;Keropetrol;Keropetrol;Mangili Silvano;20977;Benzina;1.739;1;31/07/2025 19:31:16;Yellow
+227679506;node;45.5289659;9.5941061;11483;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11483;Benzina;1.669;1;31/07/2025 07:38:34;Yellow
+227679715;node;45.6758870;9.6314050;11493;Q8;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11493;Benzina;1.639;1;02/08/2025 07:06:24;Yellow
+227679880;node;45.6685850;9.9393220;14466;Agip Eni;;Fenaroli Maurizio;14466;Benzina;1.704;1;02/08/2025 08:16:07;Yellow
+227680074;node;45.5311920;10.1827825;11529;Q8;Q8;Servizi & Gestioni Italia S.r.l.;11529;Benzina;1.679;1;31/07/2025 01:05:51;Yellow
+227680253;node;45.5620464;10.2286757;11525;Q8;Stazione di Servizio Q8easy 1899;Servizi & Gestioni Italia S.r.l.;11525;Benzina;1.679;1;31/07/2025 01:05:51;Yellow
+227680257;node;45.4778754;10.1368548;11536;Q8;;Servizi & Gestioni Italia S.r.l.;11536;Benzina;1.679;1;01/08/2025 01:36:39;Yellow
+227680443;node;45.5805462;10.0035675;24130;Q8 Easy;Q8easy;Servizi & Gestioni Italia S.r.l.;24130;Benzina;1.669;1;31/07/2025 07:05:48;Yellow
+227681241;node;45.4180790;10.3838610;11535;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11535;Benzina;1.659;1;02/08/2025 01:07:15;Yellow
+227681424;node;45.3685002;10.0325775;13659;Q8;Q8;Abrami Giacomo e C. S.n.c.;13659;Benzina;1.759;1;02/08/2025 07:31:55;Yellow
+227681600;node;45.8104913;10.1120940;26154;Sia Fuel;;S.I.A. Engineering Construction S.r.l.;26154;Benzina;1.695;1;31/07/2025 17:11:08;Yellow
+227681601;node;45.5033590;10.3433459;11532;Q8;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11532;Benzina;1.644;1;02/08/2025 01:07:16;Yellow
+227681603;node;45.6388570;10.6078790;11534;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11534;Benzina;1.719;1;01/08/2025 01:36:40;Yellow
+227681612;node;45.8111383;9.0378858;36566;Keropetrol;Keropetrol;Keropetrol S.P.A.;36566;Benzina;1.699;1;02/08/2025 05:55:10;Yellow
+227681621;node;45.7850904;9.0722385;11560;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11560;Benzina;1.699;1;02/08/2025 07:06:13;Yellow
+227681630;node;45.7543667;9.2416636;11559;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11559;Benzina;1.699;1;02/08/2025 08:08:23;Yellow
+227681634;node;45.6886612;9.0403533;11565;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11565;Benzina;1.714;1;02/08/2025 07:06:13;Yellow
+227682423;node;45.1262450;10.0564600;40646;Keropetrol;Keropetrol;Keropetrol S.P.A.;40646;Benzina;1.729;1;02/08/2025 05:55:13;Yellow
+227682618;node;45.1439370;9.9918130;11568;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11568;Benzina;1.679;1;30/07/2025 01:05:32;Yellow
+227683229;node;45.4639109;9.6024262;32298;Sia fuel;;Sia Fuel S.R.L.;32298;Benzina;1.719;1;31/07/2025 17:14:26;Yellow
+227683820;node;45.6338882;9.3353772;11639;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11639;Benzina;1.699;1;31/07/2025 16:06:43;Yellow
+227684613;node;45.5326820;9.2046359;29239;Total Erg;TotalErg;Toregas S.A.S. di Parozzi Rinaldo & C.;29239;Benzina;1.719;1;01/08/2025 08:36:14;Yellow
+227685039;node;45.5408790;9.3040680;11647;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11647;Benzina;1.649;1;02/08/2025 01:07:09;Yellow
+227685239;node;45.5449370;8.8021620;11668;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11668;Benzina;1.744;1;02/08/2025 07:06:14;Yellow
+227685865;node;45.5906506;9.0782352;11703;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11703;Benzina;1.749;1;29/07/2025 07:40:25;Yellow
+227686059;node;45.5656260;9.2113920;11709;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11709;Benzina;1.689;1;02/08/2025 08:08:23;Yellow
+227686246;node;45.5585160;9.2194440;11676;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11676;Benzina;1.649;1;01/08/2025 14:05:05;Yellow
+227686652;node;45.5408662;9.2209665;11681;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11681;Benzina;1.639;1;01/08/2025 01:36:35;Yellow
+227687056;node;45.6151480;9.2004570;11642;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11642;Benzina;1.689;1;01/08/2025 07:06:49;Yellow
+227687590;node;45.5674250;9.0746800;11689;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11689;Benzina;1.749;1;29/07/2025 07:40:26;Yellow
+227687779;node;45.6966410;9.2153080;32212;;Ludoil;Asc S.R.L.;32212;Benzina;1.659;1;03/07/2025 08:38:05;Yellow
+227687987;node;45.5737608;9.0424722;11685;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11685;Benzina;1.749;1;29/07/2025 07:40:26;Yellow
+227688170;node;45.6001611;8.9182739;11657;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11657;Benzina;1.689;1;01/08/2025 08:04:07;Yellow
+227688172;node;45.5877577;8.9266200;11690;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11690;Benzina;1.649;1;31/07/2025 01:05:45;Yellow
+227688543;node;45.5859740;8.9026540;11683;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11683;Benzina;1.689;1;01/08/2025 08:04:08;Yellow
+227688544;node;45.5844100;8.9107450;11691;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11691;Benzina;1.689;1;01/08/2025 08:04:08;Yellow
+227688546;node;45.6911517;9.1052261;11640;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11640;Benzina;1.699;1;01/08/2025 07:06:49;Yellow
+227688925;node;45.4601074;8.8693121;24147;;IperStation;Iper Montebello S.P.A.;24147;Benzina;1.609;1;01/08/2025 17:14:39;Yellow
+227689128;node;45.5070010;9.4239040;11682;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11682;Benzina;1.729;1;29/07/2025 07:40:26;Yellow
+227689319;node;45.5854591;9.2048036;25385;Keropetrol;Keropetrol;F.lli Scuratti Autoriparazioni S.N.C. di Daniele e Stefano Scurat Ti;25385;Benzina;1.739;1;30/07/2025 14:58:17;Yellow
+227689337;node;45.5837140;9.1647170;11705;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11705;Benzina;1.629;1;01/08/2025 14:05:05;Yellow
+227689340;node;45.4169870;9.4061050;11667;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11667;Benzina;1.719;1;02/08/2025 01:07:12;Yellow
+227689508;node;45.5513903;9.3838886;11654;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11654;Benzina;1.689;1;29/07/2025 07:40:28;Yellow
+227689891;node;45.5152040;9.0061230;19095;Oil One;Oil One;Autoriparazioni Rizzi di Rinaldo Rizzi e C. - S.N.C.;19095;Benzina;1.747;1;26/07/2025 12:08:58;Yellow
+227690086;node;45.5364049;9.0216721;11712;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11712;Benzina;1.669;1;29/07/2025 01:05:49;Yellow
+227690277;node;45.5402590;9.0241850;11686;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11686;Benzina;1.679;1;29/07/2025 07:40:28;Yellow
+227691439;node;45.5488673;9.2362120;11656;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11656;Benzina;1.659;1;02/08/2025 08:08:24;Yellow
+227691832;node;45.6498926;9.1437124;24181;Moro;Moro;Ambrogio Moro S.p.A.;24181;Benzina;1.649;1;02/08/2025 00:11:11;Yellow
+227692828;node;45.5249939;8.9923271;17510;IP;IP;Gio & Ari S.N.C. di Guglielmetti Lorenzo & C.;17510;Benzina;1.759;1;31/07/2025 21:13:50;Yellow
+227692829;node;45.6882341;9.2189884;11650;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11650;Benzina;1.679;1;01/08/2025 07:06:50;Yellow
+227693016;node;45.3618520;9.1323960;11655;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11655;Benzina;1.649;1;02/08/2025 01:07:12;Yellow
+227693186;node;45.3628637;8.8001773;7279;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7279;Benzina;1.699;1;02/08/2025 07:06:17;Yellow
+227693392;node;45.1973710;8.9160060;37471;Q8;Q8;Crotti Battista;37471;Benzina;1.85;1;31/07/2025 06:50:24;Orange
+227693393;node;45.2419199;8.7485802;11791;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11791;Benzina;1.629;1;01/08/2025 01:36:38;Yellow
+227693399;node;45.2800810;8.7918730;11792;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11792;Benzina;1.629;1;01/08/2025 08:35:10;Yellow
+227693592;node;45.3249960;9.2065640;16580;IP;IP;Maverna Claudio;16580;Benzina;1.669;1;03/06/2025 15:12:25;Yellow
+227693786;node;45.3258230;8.8761434;11789;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11789;Benzina;1.679;1;31/07/2025 07:38:32;Yellow
+227693991;node;45.3197808;8.8457023;11787;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11787;Benzina;1.699;1;02/08/2025 07:06:17;Yellow
+227694396;node;46.2404550;10.2407116;15131;;;Valtellina Bike S.N.C. di Quadrio Alberto & C.;15131;Benzina;1.749;1;28/07/2025 13:06:04;Yellow
+227694397;node;45.8438864;8.6706865;11918;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11918;Benzina;1.689;1;02/08/2025 07:06:18;Yellow
+227694404;node;45.6208121;8.8467566;11922;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11922;Benzina;1.739;1;30/07/2025 07:05:53;Yellow
+227694415;node;45.8933985;8.6697320;11926;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11926;Benzina;1.689;1;02/08/2025 07:06:18;Yellow
+227694417;node;45.6655260;8.8677530;36188;Sommese Petroli;Sommese Petroli;Gaia S.A.S. di Gaiarin Davide & C.;36188;Benzina;1.709;1;02/08/2025 08:18:09;Yellow
+227694438;node;45.9982394;8.7349057;11917;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11917;Benzina;1.699;1;30/07/2025 07:37:24;Yellow
+227694443;node;45.6294010;8.8860080;29418;Moro;Moro;Ambrogio Moro S.P.A.;29418;Benzina;1.699;1;02/08/2025 00:19:38;Yellow
+227694445;node;45.6176250;9.0310140;11921;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11921;Benzina;1.699;1;29/07/2025 07:40:33;Yellow
+227694861;node;45.8235993;8.8141166;11919;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11919;Benzina;1.699;1;29/07/2025 07:40:34;Yellow
+227745212;node;45.6551541;8.8015885;34333;Leva;Leva;Sommese Carburante S.R.L.;34333;Benzina;1.697;1;02/08/2025 00:24:19;Yellow
+227745405;node;45.7707553;8.9903802;17908;IP;IP;Fertonani Flavio Pietro Paolo;17908;Benzina;1.699;0;31/07/2025 14:47:56;Yellow
+227748379;node;45.6979070;9.6946090;7303;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7303;Benzina;1.769;1;01/08/2025 20:03:42;Yellow
+227754609;node;44.9966355;9.0174458;11793;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11793;Benzina;1.639;1;31/07/2025 01:05:48;Yellow
+227755937;node;45.9138677;10.0526097;41185;Agip Eni;Eni;Tomasoni Claudio Bortolo;41185;Benzina;1.699;1;02/08/2025 06:04:02;Yellow
+227757850;node;45.3222800;8.8284800;10851;Tamoil;Tamoil;Maggi Stefano;10851;Benzina;1.679;1;02/08/2025 07:06:08;Yellow
+227760068;node;45.0542212;8.8085575;9601;Q8;Q8;Servizi & Gestioni Italia S.R.L.;9601;Benzina;1.659;1;02/08/2025 01:07:13;Yellow
+227760263;node;45.6846945;9.7919438;37613;;Agip;Zatti Pierlorenzo;37613;Benzina;1.649;1;01/08/2025 08:55:31;Yellow
+227762409;node;45.3624900;8.9098040;34959;Tamoil;Tamoil;T.D.M. S.R.L.;34959;Benzina;1.619;1;01/08/2025 12:08:29;Yellow
+227767423;node;45.7520146;9.8299874;36660;;Ernesto Rondini Prodotti Petroliferi;Ernesto Rondini S.R.L.;36660;Benzina;1.649;1;01/08/2025 12:33:19;Yellow
+227768606;node;45.1982070;8.7680180;5087;Q8;Q8;Palma Giovanni;5087;Benzina;1.659;1;31/07/2025 07:16:32;Yellow
+227769618;node;45.3066020;8.8743080;14096;Tamoil;Tamoil;Di Palma Carlo;14096;Benzina;1.689;1;30/07/2025 08:19:27;Yellow
+227775732;node;45.2534824;9.0386753;38129;;Pit Stop;Castoldi Valerio;38129;Benzina;1.659;1;31/07/2025 13:55:36;Yellow
+227779625;node;45.3258900;9.1030100;36882;Esso;Esso;Maffione Roberto;36882;Benzina;1.659;1;02/08/2025 07:49:36;Yellow
+227780342;node;45.4761437;9.1117460;29212;IP;IP;Ip Services S.R.L.;29212;Benzina;1.669;1;01/08/2025 09:04:11;Yellow
+227781608;node;45.0827652;9.3184206;3763;IP;IP;Stradella S.R.L.;3763;Benzina;1.869;1;31/07/2025 11:01:35;Orange
+227783388;node;45.5232920;10.2301170;20098;Total Erg;;Gestioni Europa S.p.A.;20098;Benzina;1.719;1;01/08/2025 09:06:20;Yellow
+227783579;node;45.5299181;10.1993818;15934;Esso;Esso;Soretti Silvano;15934;Benzina;1.694;1;01/08/2025 09:26:35;Yellow
+227784690;node;45.5139110;10.1848410;37579;Q8;;Boschetti Elisa;37579;Benzina;1.718;1;30/07/2025 03:29:47;Yellow
+227788250;node;45.6618576;9.2169794;26991;Api-Ip;IP;Ip Services S.R.L.;26991;Benzina;1.669;1;01/08/2025 15:05:21;Yellow
+227788422;node;45.4496715;9.2530310;7237;Q8;Q8;Clean Car S.N.C. di Paini Arnaldo Giuseppe e Zanni Fausto;7237;Benzina;1.739;1;31/07/2025 19:21:05;Yellow
+227788803;node;45.4190858;9.1553283;7744;Q8;Cantalupa Ovest;Vinci S.A.S. di Vinci Salvatore & C.;7744;Benzina;1.799;1;01/08/2025 09:55:33;Yellow
+227788957;node;45.0491761;9.2326945;13083;Tamoil;Tamoil;Carburanti Olii Lubrificanti Bronese S.R.L.;13083;Benzina;1.699;1;01/08/2025 14:36:55;Yellow
 227789818;node;45.0809490;9.2586850;7683;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;7683;Benzina;1.769;1;02/08/2025 06:00:57;Yellow
-227790183;node;45.1774743;9.2026772;24634;Q8;Q8;Ambrogio Moro S.P.A.;24634;Benzina;1.689;1;29/07/2025 12:05:16;Green
-227794568;node;45.1925350;9.1812664;6457;Q8;Q8;Servizi & Gestioni Italia Srl;6457;Benzina;1.714;1;02/08/2025 01:07:14;Green
-227795117;node;45.1863210;9.1711380;23767;Total;Total;Legacy di Borelli Tania e C. S.A.S.;23767;Benzina;1.729;1;02/08/2025 06:57:00;Green
+227790183;node;45.1774743;9.2026772;24634;Q8;Q8;Ambrogio Moro S.P.A.;24634;Benzina;1.689;1;29/07/2025 12:05:16;Yellow
+227791126;node;45.5364212;9.0366893;36451;Api;TotalErg;API;36451;Benzina;1.669;1;01/08/2025 09:06:30;Yellow
+227791712;node;45.5406614;9.0246436;23101;IP;IP;Ip Services S.R.L.;23101;Benzina;1.669;1;01/08/2025 09:04:50;Yellow
+227794568;node;45.1925350;9.1812664;6457;Q8;Q8;Servizi & Gestioni Italia Srl;6457;Benzina;1.714;1;02/08/2025 01:07:14;Yellow
+227795117;node;45.1863210;9.1711380;23767;Total;Total;Legacy di Borelli Tania e C. S.A.S.;23767;Benzina;1.729;1;02/08/2025 06:57:00;Yellow
+227803271;node;45.4361376;9.2330093;16284;Esso;Esso;Barbin Paolo;16284;Benzina;1.699;1;29/07/2025 11:50:15;Yellow
+227803655;node;45.6825709;9.7043790;11486;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11486;Benzina;1.699;1;31/07/2025 07:05:50;Yellow
 227804398;node;45.0723910;9.2700300;41535;Eni;Eni;La Gaccia Gianfran;41535;Benzina;1.759;1;02/08/2025 07:28:07;Yellow
 227805161;node;45.0440360;9.2582830;17214;Tamoil;Tamoil;P & J di Biani Piero e Pozzi Jennifer S.N.C. Denominazione Abbreviata P & J di Biani e Pozzi S.N.C.;17214;Benzina;1.879;0;17/07/2025 07:44:23;Orange
-227836949;node;45.3319050;8.8368270;35940;Esso;Esso;Aresi di Sironi Fabio;35940;Benzina;1.729;1;02/08/2025 06:39:43;Green
-227869927;node;44.9026336;9.0513367;20672;Total Erg;Erg;Gestioni Europa - Società Per Azioni;20672;Benzina;1.669;1;01/08/2025 09:05:00;Green
-227887038;node;44.8573750;9.0832900;36028;;Indipend.;Vitras Sas di Angeleri Carlo & C.;36028;Benzina;1.689;1;02/08/2025 07:20:15;Green
-227954565;node;45.1939540;8.9289880;12177;Esso;;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12177;Benzina;1.738;1;02/08/2025 06:00:57;Green
-227954976;node;45.0969537;8.9074587;39183;Esso;Esso;Biscuola Thomas;39183;Benzina;1.689;1;31/07/2025 13:17:15;Green
-227955196;node;45.0985327;8.9056858;13835;Total Erg;TotalErg;Mangiarotti Dario;13835;Benzina;1.709;1;31/07/2025 15:19:28;Green
-227957347;node;45.3034190;8.8702135;33228;;;M.T.M.Di Magnani Daniele & C.S.N.C;33228;Benzina;1.629;1;30/07/2025 07:39:36;Green
-227957356;node;45.1619318;8.9457232;32241;Agip Eni;Agip;Stazione di Servizio Agip F.lli Lodola S.N.C.;32241;Benzina;1.739;1;02/08/2025 08:02:18;Green
-227969643;node;45.1647450;8.7912205;35663;Q8;Q8;Mattia Scabeni;35663;Benzina;1.729;1;31/07/2025 07:48:43;Green
-227984129;node;45.2490140;8.7211280;36367;Tamoil;Tamoil;T.D.M. S.R.L.;36367;Benzina;1.649;1;01/08/2025 11:42:07;Green
-228037522;node;45.1811370;8.5973600;34184;Giap;Giap;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;34184;Benzina;1.739;1;02/08/2025 06:00:59;Green
-228042275;node;45.2895310;8.5845280;48106;Api;Api;Ghibriali Marco Nardino;48106;Benzina;1.739;1;29/07/2025 17:02:31;Green
-228063835;node;45.3156069;8.8635510;51483;Retitalia;;Di Palma Carlo;51483;Benzina;1.699;1;30/07/2025 08:19:37;Green
-228098879;node;45.3247280;8.8748360;17691;IP;IP;Ip Services S.R.L.;17691;Benzina;1.679;1;01/08/2025 09:03:50;Green
-228111636;node;45.3136192;9.2064137;14693;Eni;Eni;Servizio Sicuro S.N.C. di Samarati Stefano e Scaglioni Giancarlo;14693;Benzina;1.679;1;02/08/2025 07:12:09;Green
-228111813;node;45.2803490;9.2120260;21857;IP;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21857;Benzina;1.728;1;02/08/2025 06:01:00;Green
-228111965;node;45.2337170;9.1833328;21401;Esso;Esso;Damiani Anita;21401;Benzina;1.739;1;30/07/2025 18:10:32;Green
-228114325;node;45.0674782;9.3291820;28396;Tamoil;Tamoil;T.D.M. S.R.L.;28396;Benzina;1.699;1;01/08/2025 11:48:14;Green
-228177068;node;45.2552750;9.2331460;12780;Tamoil;Tamoil;Bonizzoni Pietro Giuseppe;12780;Benzina;1.689;1;30/07/2025 12:02:08;Green
-228244699;node;45.1599019;9.3984749;9302;Tamoil;Tamoil;Rizzi Pierluigi;9302;Benzina;1.649;1;02/08/2025 07:28:05;Green
-229104711;node;45.3219086;8.8726601;6456;Q8;Q8;Servizi & Gestioni Italia Srl;6456;Benzina;1.659;1;30/07/2025 01:05:30;Green
-229104715;node;45.3012596;8.8626389;23012;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23012;Benzina;1.629;1;30/07/2025 01:05:30;Green
-229104718;node;45.2926887;8.8534426;12179;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12179;Benzina;1.658;1;02/08/2025 06:00:58;Green
-229105138;node;45.3169050;8.8806010;32414;Esso;Esso;Vett -Amo Snc di Vettorello Roberta Luisa e Amolaro Fabio Walter;32414;Benzina;1.686;1;02/08/2025 07:27:55;Green
-229105313;node;45.2490477;8.7435361;17971;IP;IP;Gamma Petroli S.R.L.;17971;Benzina;1.649;1;29/07/2025 09:04:52;Green
+227816231;node;45.7914820;8.9581700;19545;Q8;Q8;Forgione Antonio;19545;Benzina;1.699;0;02/08/2025 06:56:55;Yellow
+227820897;node;45.4639881;8.8739131;35176;;;S.E.R. S.R.L.;35176;Benzina;1.689;1;01/08/2025 07:10:25;Yellow
+227824334;node;45.4560290;9.2300879;13709;Esso;Esso;Capriglia Oronzo;13709;Benzina;1.716;1;30/07/2025 10:16:43;Yellow
+227827338;node;45.7988839;8.6453051;4382;Independent;;Cairo S.N.C. di Cairo Enrico e Stefano;4382;Benzina;1.709;1;30/07/2025 10:46:11;Yellow
+227836949;node;45.3319050;8.8368270;35940;Esso;Esso;Aresi di Sironi Fabio;35940;Benzina;1.729;1;02/08/2025 06:39:43;Yellow
+227854696;node;45.4478510;10.5292185;3635;IP;IP;Garda Petroli di Bellini Cristian e Arianna S.a.s.;3635;Benzina;1.879;1;01/08/2025 06:54:54;Orange
+227854705;node;45.4682819;10.5276156;26710;Eni;Eni;Area di Servizio Viadotto di Scalvini Claudio & C. S.n.c.;26710;Benzina;1.719;1;02/08/2025 07:46:14;Yellow
+227860046;node;45.5410480;9.0192440;24279;Total Erg;TotalErg;Ghulam Pak di Anwar Saeed & C. S.A.S.;24279;Benzina;1.669;1;28/07/2025 09:18:04;Yellow
+227867072;node;45.5481226;10.1602858;13585;Q8;;Marelli Ivo;13585;Benzina;1.719;1;29/07/2025 08:04:12;Yellow
+227869927;node;44.9026336;9.0513367;20672;Total Erg;Erg;Gestioni Europa - Società Per Azioni;20672;Benzina;1.669;1;01/08/2025 09:05:00;Yellow
+227876450;node;45.4487292;10.5289131;3636;IP;Ip;Garda Petroli di Bellini Cristian e Arianna S.a.s.;3636;Benzina;1.899;1;02/08/2025 07:59:34;Orange
+227876608;node;45.4836840;9.3829840;16905;Erg;Erg;Premoli Maurizio;16905;Benzina;1.699;1;01/08/2025 16:48:58;Yellow
+227876986;node;45.4238250;9.2930920;6309;Tamoil;Tamoil;Gioca S.N.C. di Caputo Giovanni & C.;6309;Benzina;1.719;1;02/08/2025 07:24:01;Yellow
+227877009;node;45.5320929;10.1494284;31429;IP;IP;Ge.Di.A. S.R.L.;31429;Benzina;1.869;1;31/07/2025 07:04:09;Orange
+227877998;node;45.5751750;9.3921722;3630;Eni;Eni;3 C S.R.L.;3630;Benzina;1.813;1;02/08/2025 00:20:36;Yellow
+227887038;node;44.8573750;9.0832900;36028;;Indipend.;Vitras Sas di Angeleri Carlo & C.;36028;Benzina;1.689;1;02/08/2025 07:20:15;Yellow
+227889442;node;45.5858260;9.3578440;4730;TotalErg;TotalErg;Di Dio Calderone Concetta;4730;Benzina;1.659;1;29/07/2025 10:38:11;Yellow
+227893699;node;45.5403605;9.3367426;30796;Q8;Q8;Servizi & Gestioni Italia S.R.L.;30796;Benzina;1.639;1;02/08/2025 08:08:24;Yellow
+227895555;node;45.4154660;9.1199130;40102;Total Erg;Total;Dlm Carburanti S.R.L.;40102;Benzina;1.799;1;16/07/2025 18:52:08;Yellow
+227903115;node;45.3280660;9.1029130;14825;Tamoil;Tamoil;Galli Giuseppe e Gandini Oreste S.N.C.;14825;Benzina;1.649;1;02/08/2025 07:30:06;Yellow
+227903463;node;45.4076020;9.1274120;35453;Esso;Esso;Gf Gomme di Caso Giuseppe;35453;Benzina;1.736;1;31/07/2025 09:00:00;Yellow
+227903631;node;45.4250543;9.1117295;6446;Q8;Q8;Servizi & Gestioni Italia Srl;6446;Benzina;1.699;1;02/08/2025 01:07:13;Yellow
+227904667;node;45.4573990;9.0948830;23872;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23872;Benzina;1.669;1;31/07/2025 01:05:43;Yellow
+227910373;node;45.7810530;8.9585780;33091;Sia Fuel;Sia Fuel;S.I.A. Engineering Construction S.R.L.;33091;Benzina;1.695;1;31/07/2025 17:14:43;Yellow
+227911940;node;45.7106058;9.6976365;33691;Q8;Q8;Servizi & Gestioni Italia S.R.L.;33691;Benzina;1.689;1;30/07/2025 01:05:29;Yellow
+227912222;node;45.7193200;9.7117380;25156;Api;Api;Ditta Morzenti Antonio S.R.L.;25156;Benzina;1.639;1;02/08/2025 00:11:31;Yellow
+227920570;node;45.2890260;9.8425700;24863;Esso;Esso;Saini Fuel & Wash di Singh Rajinder e C. Snc;24863;Benzina;1.669;1;01/08/2025 18:59:32;Yellow
+227924226;node;45.3025390;9.4876220;25026;Agip Eni;Agip;Service Area S.A.S. di Lecchi Stefano & C.;25026;Benzina;1.749;1;02/08/2025 07:04:38;Yellow
+227926772;node;45.4862560;9.2442550;35072;Esso;Esso;Pigoni Ivan;35072;Benzina;1.719;1;02/08/2025 06:38:42;Yellow
+227928408;node;45.5392364;10.2320021;37423;Eni;ENI;Gozio Piercarlo;37423;Benzina;1.709;1;02/08/2025 07:08:26;Yellow
+227928813;node;45.5606836;10.2098172;11207;Agip Eni;;Pietroboni Felice & C. S.n.c.;11207;Benzina;1.754;1;02/08/2025 08:02:23;Yellow
+227934788;node;45.6234626;9.3102911;28578;Esso;Esso;De Pietro Salvatore;28578;Benzina;1.669;1;01/08/2025 06:13:26;Yellow
+227939083;node;45.7096670;8.9014900;40685;IP;IP;Luca' S - Bar di Frunzo Gianluca e C. - S.N.C.;40685;Benzina;1.729;1;01/08/2025 12:09:09;Yellow
+227948251;node;45.6148270;9.3108989;6868;;Alfa Petroli;Alfa Petroli Srl;6868;Benzina;1.649;1;02/08/2025 07:34:15;Yellow
+227954565;node;45.1939540;8.9289880;12177;Esso;;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12177;Benzina;1.738;1;02/08/2025 06:00:57;Yellow
+227954976;node;45.0969537;8.9074587;39183;Esso;Esso;Biscuola Thomas;39183;Benzina;1.689;1;31/07/2025 13:17:15;Yellow
+227955196;node;45.0985327;8.9056858;13835;Total Erg;TotalErg;Mangiarotti Dario;13835;Benzina;1.709;1;31/07/2025 15:19:28;Yellow
+227955624;node;45.5623590;8.9539590;17785;Esso;Esso;Susani Marco;17785;Benzina;1.679;1;01/08/2025 17:47:20;Yellow
+227957347;node;45.3034190;8.8702135;33228;;;M.T.M.Di Magnani Daniele & C.S.N.C;33228;Benzina;1.629;1;30/07/2025 07:39:36;Yellow
+227957356;node;45.1619318;8.9457232;32241;Agip Eni;Agip;Stazione di Servizio Agip F.lli Lodola S.N.C.;32241;Benzina;1.739;1;02/08/2025 08:02:18;Yellow
+227969643;node;45.1647450;8.7912205;35663;Q8;Q8;Mattia Scabeni;35663;Benzina;1.729;1;31/07/2025 07:48:43;Yellow
+227976646;node;45.8346541;8.7316542;10815;IP;IP;Cavassi Luciano;10815;Benzina;1.669;1;01/08/2025 08:47:14;Yellow
+227978870;node;45.5639700;8.9556650;32281;IP;IP;Ip Services S.R.L.;32281;Benzina;1.669;1;01/08/2025 09:04:28;Yellow
+227984129;node;45.2490140;8.7211280;36367;Tamoil;Tamoil;T.D.M. S.R.L.;36367;Benzina;1.649;1;01/08/2025 11:42:07;Yellow
+227986421;node;45.7153490;9.2024780;7459;Tamoil;Tamoil;Rigoli Emilio;7459;Benzina;1.719;1;31/07/2025 00:02:11;Yellow
+227986433;node;45.5805764;10.0771915;28171;Tamoil;;T.D.M. S.r.l.;28171;Benzina;1.659;1;01/08/2025 12:16:52;Yellow
+227996536;node;45.6535927;9.0239717;23393;IP;IP Matic;Gestioni Europa - Società Per Azioni;23393;Benzina;1.659;1;01/08/2025 09:05:56;Yellow
+228022915;node;45.5393890;9.0107870;6831;Q8;Q8;Servizi & Gestioni Italia Srl;6831;Benzina;1.669;1;29/07/2025 01:05:44;Yellow
+228037522;node;45.1811370;8.5973600;34184;Giap;Giap;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;34184;Benzina;1.739;1;02/08/2025 06:00:59;Yellow
+228042275;node;45.2895310;8.5845280;48106;Api;Api;Ghibriali Marco Nardino;48106;Benzina;1.739;1;29/07/2025 17:02:31;Yellow
+228057963;node;45.4243652;9.2496813;39336;IP;IP;;39336;Benzina;1.789;1;01/08/2025 07:15:50;Yellow
+228059479;node;45.4889454;9.2103923;39229;Tamoil;Tamoil;T.D.M. S.R.L.;39229;Benzina;1.829;1;01/08/2025 09:50:09;Yellow
+228059486;node;45.4903948;9.2069482;39230;Tamoil;Tamoil;T.D.M. S.R.L.;39230;Benzina;1.719;1;01/08/2025 12:16:44;Yellow
+228059685;node;45.3987290;9.1731920;35905;Q8;Q8;Servizi & Gestioni Italia S.R.L.;35905;Benzina;1.734;1;29/07/2025 07:40:25;Yellow
+228060457;node;45.6709540;9.9518320;20084;Esso;;Stazione Esso di Gervasoni Francesco;20084;Benzina;1.699;1;02/08/2025 08:16:27;Yellow
+228062058;node;45.5425666;9.2206111;28047;Api-Ip;IP;Ip Services S.R.L.;28047;Benzina;1.649;1;01/08/2025 09:03:45;Yellow
+228062067;node;45.3224240;9.3757900;42636;Q8;Q8;Lefty Petrol S.R.L.;42636;Benzina;1.754;1;01/08/2025 14:30:12;Yellow
+228062079;node;45.4024230;9.1557530;59978;;Fremar;Petrol Car S.A.S. di Piercarlo Rolla & C.;59978;Benzina;1.699;1;02/08/2025 08:12:09;Yellow
+228063835;node;45.3156069;8.8635510;51483;Retitalia;;Di Palma Carlo;51483;Benzina;1.699;1;30/07/2025 08:19:37;Yellow
+228065965;node;45.6090620;8.8334690;6459;Q8;Q8;Servizi & Gestioni Italia Srl;6459;Benzina;1.739;1;30/07/2025 07:05:53;Yellow
+228066768;node;45.7628080;8.8112500;4707;Tamoil;Tamoil;Nuova Sidap S.R.L.;4707;Benzina;1.799;1;01/08/2025 06:30:09;Yellow
+228068479;node;45.6046406;8.8755600;15625;Sommese Petroli;Sommese Petroli;;15625;Benzina;1.689;1;28/07/2025 09:27:23;Yellow
+228086099;node;45.7291496;9.0277708;37861;IP;Ip;Nisefa S.N.C. di De Giorgio Nicola & C.;37861;Benzina;1.845;1;29/07/2025 08:00:14;Orange
+228086118;node;45.8526834;8.7031210;24793;Tamoil;Tamoil;Cassani S.A.S. di Farano Marica & C.;24793;Benzina;1.649;1;02/08/2025 07:26:06;Yellow
+228087807;node;45.6580950;9.5157473;25733;;Metano;Liguria Gas S.R.L.;25733;Benzina;1.718;1;01/08/2025 08:07:08;Yellow
+228088211;node;45.4349910;10.4286860;22755;Metano;Metano;Metano;22755;Benzina;1.648;0;01/08/2025 10:13:06;Yellow
+228088691;node;45.4528660;10.2003376;29808;Api-Ip;Metano;IP Services S.r.l.;29808;Benzina;1.659;1;01/08/2025 09:01:52;Yellow
+228090007;node;45.5358374;9.4846736;13397;Esso;Metano;Service Car di Facchinetti Giorgio & C. S.A.S.;13397;Benzina;1.689;1;02/08/2025 07:32:22;Yellow
+228091321;node;45.5423410;9.1901330;12442;Eni;Eni;Natali e Alberti Snc di Natali Stefano e Alberti Giuseppe;12442;Benzina;1.709;1;02/08/2025 07:12:08;Yellow
+228098879;node;45.3247280;8.8748360;17691;IP;IP;Ip Services S.R.L.;17691;Benzina;1.679;1;01/08/2025 09:03:50;Yellow
+228107832;node;45.5176017;10.2031917;23813;Eni;Eni;P. & B. S.r.l.;23813;Benzina;1.769;1;02/08/2025 06:00:11;Yellow
+228111251;node;45.7780184;8.6791769;16459;Q8;Q8;De Romeri Albino;16459;Benzina;1.699;1;29/07/2025 07:01:33;Yellow
+228111258;node;45.8805047;8.6720286;31607;Retitalia;Retitalia;Progetto e Sviluppo S.R.L.;31607;Benzina;1.709;1;01/08/2025 12:18:30;Yellow
+228111428;node;45.8676660;8.6700538;39365;IP;Erg;Hekuran Pashollari Sas di Hekuran Pashollari & C.;39365;Benzina;1.669;1;01/08/2025 08:00:49;Yellow
+228111622;node;45.8598079;8.6705679;22847;Q8;Q8;Servizi & Gestioni Italia S.R.L.;22847;Benzina;1.659;1;02/08/2025 01:09:02;Yellow
+228111636;node;45.3136192;9.2064137;14693;Eni;Eni;Servizio Sicuro S.N.C. di Samarati Stefano e Scaglioni Giancarlo;14693;Benzina;1.679;1;02/08/2025 07:12:09;Yellow
+228111813;node;45.2803490;9.2120260;21857;IP;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21857;Benzina;1.728;1;02/08/2025 06:01:00;Yellow
+228111965;node;45.2337170;9.1833328;21401;Esso;Esso;Damiani Anita;21401;Benzina;1.739;1;30/07/2025 18:10:32;Yellow
+228114325;node;45.0674782;9.3291820;28396;Tamoil;Tamoil;T.D.M. S.R.L.;28396;Benzina;1.699;1;01/08/2025 11:48:14;Yellow
+228114615;node;45.5242764;9.1656991;35348;Eni;Eni;Kumar Parminder;35348;Benzina;1.679;1;02/08/2025 07:26:14;Yellow
+228114769;node;45.5204890;9.1510480;6440;Q8;Q8;Servizi & Gestioni Italia Srl;6440;Benzina;1.669;1;31/07/2025 01:36:15;Yellow
+228116099;node;45.7194769;8.8114080;26290;Esso;Esso;V3 Garage S.A.S. di Vigano' Paolo & C.;26290;Benzina;1.769;1;01/08/2025 18:20:19;Yellow
+228116413;node;45.5486853;9.2078729;36458;IP;IP;Gestioni Europa - Società Per Azioni;36458;Benzina;1.799;1;01/08/2025 09:04:57;Yellow
+228119826;node;45.1643230;10.8186580;23441;Costantin;Costantin;Lunetta Società a Responsabilità Limitata;23441;Benzina;1.719;1;31/07/2025 12:03:20;Yellow
+228122115;node;45.5154451;9.1724238;24108;Q8;IP;italiana petroli S.p.A.;24108;Benzina;1.649;1;02/08/2025 00:19:41;Yellow
+228123878;node;45.4699182;9.1246764;13234;Q8;Q8;Torzini Luca;13234;Benzina;1.689;1;02/08/2025 06:26:35;Yellow
+228124258;node;45.4452660;9.1205716;44949;Agip Eni;Agip;Eni Fuel S.p.A.;44949;Benzina;1.684;1;02/08/2025 08:08:10;Yellow
+228124656;node;45.4449880;9.1213830;6355;Eni;Eni;Urbinati S.N.C. di Urbinati Arkadi & C.;6355;Benzina;1.689;1;02/08/2025 07:44:13;Yellow
+228128403;node;45.7905090;8.8906430;8198;Esso;Esso;Macchi S.N.C. di Franca e Claudio Macchi;8198;Benzina;1.699;1;29/07/2025 08:35:03;Yellow
+228141896;node;45.5746090;9.0675510;27947;Esso;Esso;Arbolino di Arbolino Tiziana e C. Sas;27947;Benzina;1.749;1;01/08/2025 13:18:43;Yellow
+228142060;node;45.5816420;9.0600030;30797;Q8;Q8;Servizi & Gestioni Italia S.R.L.;30797;Benzina;1.679;1;02/08/2025 07:06:17;Yellow
+228143343;node;45.6653551;8.9650123;27493;IP;IP;Erg di Cattaneo Fiorenzo;27493;Benzina;1.719;1;30/07/2025 08:26:46;Yellow
+228143770;node;45.6902644;8.9317069;14027;Sommese Petroli;Sommese Petroli;Caimi Gino;14027;Benzina;1.739;1;31/07/2025 18:57:13;Yellow
+228144341;node;45.7409487;8.8813743;8783;Api-Ip;IP;Colombo Oscar e C. S.N.C.;8783;Benzina;1.789;1;02/08/2025 00:19:53;Yellow
+228144747;node;45.4613500;9.2069510;13674;IP;IP;Carsetti Daniele;13674;Benzina;2.169;1;31/07/2025 08:00:15;Red
+228147390;node;45.5689690;9.1490150;29739;Total;Total;Alemac S.N.C. di Alessio Montrasi & C.;29739;Benzina;1.674;0;31/07/2025 14:59:55;Yellow
+228161132;node;45.7383280;9.3631161;8391;IP;;Panzeri Renato & C. S.N.C.;8391;Benzina;1.749;1;01/08/2025 10:03:42;Yellow
+228161352;node;45.7435995;9.3767240;36136;Tamoil;Tamoil;Officina Dei Sapori S.N.C. di Fumagalli Ivan e Radaelli Filippo;36136;Benzina;1.709;1;01/08/2025 15:05:09;Yellow
+228164003;node;45.5469341;9.2435765;12374;Esso;Esso;F.lli Puppio Snc di Puppio Pasquale e C.;12374;Benzina;1.699;1;02/08/2025 07:35:06;Yellow
+228167576;node;45.6600670;9.6569180;11488;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11488;Benzina;1.695;1;02/08/2025 07:06:16;Yellow
+228167839;node;45.4603070;9.1096560;30114;Q8;Q8;Servizi & Gestioni Italia S.R.L.;30114;Benzina;1.669;1;31/07/2025 01:05:47;Yellow
+228173229;node;45.6457700;8.8650760;10096;IP;IP Matic;Gestioni Europa - Società Per Azioni;10096;Benzina;1.699;1;01/08/2025 15:06:36;Yellow
+228177068;node;45.2552750;9.2331460;12780;Tamoil;Tamoil;Bonizzoni Pietro Giuseppe;12780;Benzina;1.689;1;30/07/2025 12:02:08;Yellow
+228177471;node;45.3523340;9.2944820;28231;Q8;Q8;Servizi & Gestioni Italia S.R.L.;28231;Benzina;1.699;1;29/07/2025 15:02:42;Yellow
+228181217;node;45.5464254;9.3043985;18305;Total;Total;Rausa Maurizio;18305;Benzina;1.859;0;01/08/2025 15:00:53;Orange
+228181425;node;45.5470100;9.2926310;22888;Api-Ip;IP;Ip Services S.R.L.;22888;Benzina;1.649;1;01/08/2025 15:03:43;Yellow
+228181723;node;45.5465150;9.2922880;22943;Esso;Esso;Af Petrol S.R.L.;22943;Benzina;1.639;1;02/08/2025 08:04:02;Yellow
+228184174;node;45.4678766;9.4132130;10111;Q8;Q8;Della Bassa Alessandro;10111;Benzina;1.729;1;01/08/2025 10:25:39;Yellow
+228186734;node;45.7855665;9.3439987;34714;Eni;Eni;Stazione di Servizio di Tettamanti Giovanni;34714;Benzina;1.729;1;02/08/2025 07:04:25;Yellow
+228187069;node;45.6281176;8.7801906;16269;Esso;Esso;Brusamolin Catia;16269;Benzina;1.729;1;01/08/2025 10:44:00;Yellow
+228202368;node;45.6621160;9.1474680;21486;Retitalia;Retitalia;Stagni Raffaele Snc di Stagni Sergio Enrico & C.;21486;Benzina;1.689;1;29/07/2025 09:22:09;Yellow
+228207642;node;45.4923327;9.2747351;16149;IP;IP;Punto Vip S.N.C. di Gelmi Stefano e De Souza Leite Elzanir;16149;Benzina;1.679;1;02/08/2025 08:00:28;Yellow
+228208550;node;45.6561860;9.1845700;24809;IP;IP Matic;Ip Services S.R.L.;24809;Benzina;1.669;1;01/08/2025 15:05:13;Yellow
+228212523;node;45.6238996;9.2239554;38079;Beyfin;Beyfin;Baldon Fabrizio e C. Sas;38079;Benzina;1.679;1;30/07/2025 18:40:53;Yellow
+228216333;node;45.6886930;9.2140690;28135;Esso;Esso;Effegi S.N.C. Dei F.lli Xheraj & C.;28135;Benzina;1.756;1;30/07/2025 11:00:07;Yellow
+228217297;node;45.6785611;9.1782931;13702;Q8;Q8;Autocabiate S.N.C. di Baldo Fortunato e C.;13702;Benzina;1.699;1;31/07/2025 08:34:26;Yellow
+228217513;node;45.5914131;9.2018465;37257;IP;IP;Noce Samuele;37257;Benzina;1.704;1;01/08/2025 10:01:21;Yellow
+228219738;node;45.6810658;9.2898792;20559;Tamoil;Tamoil;Stazione di Servizio di Cazzaniga Giuseppe;20559;Benzina;1.669;1;02/08/2025 00:21:39;Yellow
+228221079;node;45.6847258;9.2306434;34745;Giap;Giap;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;34745;Benzina;1.719;1;02/08/2025 06:00:46;Yellow
+228227525;node;45.6139735;8.9492289;28622;Giap;Giap;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;28622;Benzina;1.699;1;02/08/2025 06:00:50;Yellow
+228227539;node;45.6028170;8.8471810;14390;Eni;Eni;Iametti S.A.S. di Iametti Danilo e Marco;14390;Benzina;1.739;1;02/08/2025 06:58:22;Yellow
+228227555;node;45.5912592;9.3232134;14347;Agip Eni;Agip;Biffi Thomas;14347;Benzina;1.724;1;02/08/2025 07:44:01;Yellow
+228229868;node;45.5344627;9.1060411;11713;Q8 Easy;Q8easy Baranzate-Via Falzarego;Servizi & Gestioni Italia Srl;11713;Benzina;1.689;1;31/07/2025 01:05:43;Yellow
+228231629;node;45.3592770;9.6463130;34261;Tamoil;Tamoil;T.D.M. S.R.L.;34261;Benzina;1.629;1;01/08/2025 12:09:01;Yellow
+228243064;node;45.8640560;9.4034330;14254;IP;IP;Gorla Daniela;14254;Benzina;1.706;1;01/08/2025 18:50:50;Yellow
+228244699;node;45.1599019;9.3984749;9302;Tamoil;Tamoil;Rizzi Pierluigi;9302;Benzina;1.649;1;02/08/2025 07:28:05;Yellow
+228248576;node;45.7854757;9.0603964;5937;IP;IP;;5937;Benzina;1.699;1;01/08/2025 09:04:25;Yellow
+228250383;node;45.5366242;9.2262195;6445;Q8 Easy;Q8;Servizi & Gestioni Italia Srl;6445;Benzina;1.659;1;02/08/2025 08:08:24;Yellow
+228250579;node;45.6885818;9.2181862;11220;Esso;Esso;Perrone Roberto;11220;Benzina;1.699;0;31/07/2025 06:58:40;Yellow
+228253388;node;45.8040441;8.8326182;29924;Retitalia;Retitalia;Isella Daniele - Russo Francesco & C. Snc;29924;Benzina;1.709;1;02/08/2025 07:34:56;Yellow
+228253409;node;45.7872377;8.6992474;40586;Api-Ip;IP;Lira Snc di Chiesa Raffaella;40586;Benzina;1.749;1;28/07/2025 18:15:01;Yellow
+228254250;node;45.6253774;9.1673828;28719;IP;Ip Matic;Ip Services S.R.L.;28719;Benzina;1.629;1;01/08/2025 09:03:03;Yellow
+228255738;node;44.9929110;10.7247550;12719;Erg;Erg;Bonatti Fratelli di Bonatti Vanni e Gianni S.N.C.;12719;Benzina;1.744;1;29/07/2025 08:33:54;Yellow
+228257842;node;45.8237300;8.8171720;10167;Eni;Eni;Teodor Gabriel;10167;Benzina;1.709;1;02/08/2025 00:26:35;Yellow
+228273458;node;45.5431953;8.9564767;10476;Eni;Eni;Guerra Saverio;10476;Benzina;1.729;1;02/08/2025 07:10:19;Yellow
+228274567;node;45.6236714;9.1953350;14095;Tamoil;Tamoil;Mandia Antonio;14095;Benzina;1.729;1;30/07/2025 19:11:44;Yellow
+228274766;node;45.6077244;9.1947981;20022;Api-Ip;IP;Rossi Alberto;20022;Benzina;1.689;1;31/07/2025 12:05:32;Yellow
+228277135;node;45.3277150;9.1310170;8529;Eni;Eni;Caminneci Antonio Carlo;8529;Benzina;1.729;1;02/08/2025 07:54:06;Yellow
+228277327;node;45.3278280;9.1471160;25864;IP;IP;Ip Services S.R.L.;25864;Benzina;1.679;1;01/08/2025 09:04:42;Yellow
+228277328;node;45.3761762;9.2125011;18981;Eni;Eni;Dalcerri Lino & C Snc;18981;Benzina;1.769;1;02/08/2025 00:23:31;Yellow
+228277330;node;45.3981042;9.2107076;33178;Q8;Q8;Servizi & Gestioni Italia S.R.L.;33178;Benzina;1.659;1;31/07/2025 01:05:45;Yellow
+228277334;node;45.6008367;8.9433812;37689;Tamoil;Tamoil;T.D.M. S.R.L.;37689;Benzina;1.649;1;01/08/2025 14:05:05;Yellow
+228277861;node;45.5890873;8.8585884;22654;;;Esposto Filippone Francesco;22654;Benzina;1.728;1;29/07/2025 10:23:55;Yellow
+228278043;node;45.5809870;8.8594330;12887;Erg;Erg;2-Elle Snc di Tescaro Luca e Papandrea Luca;12887;Benzina;1.677;1;01/08/2025 19:01:04;Yellow
+228278046;node;45.5889474;8.9283200;12752;Moro;Moro;Ambrogio Moro S.P.A.;12752;Benzina;1.659;1;02/08/2025 00:19:43;Yellow
+228278056;node;45.3814630;9.0952040;34365;Tamoil;Tamoil;T.D.M. S.R.L.;34365;Benzina;1.639;1;01/08/2025 11:46:10;Yellow
+228279361;node;45.6674680;9.0835960;32878;Eni;Agip;Scarfone Cosimo;32878;Benzina;1.739;1;02/08/2025 00:24:42;Yellow
+228279798;node;45.7059967;9.1656082;30471;Tamoil;Tamoil;T.D.M. S.R.L.;30471;Benzina;1.639;1;01/08/2025 11:50:15;Yellow
+228280001;node;45.7086220;9.1724090;34494;Ip;Ip;Gestioni Europa - Società Per Azioni;34494;Benzina;1.659;1;01/08/2025 09:04:59;Yellow
+228286143;node;45.6923930;8.8019737;33723;Tamoil;Tamoil;Maioriello Marco;33723;Benzina;1.729;1;02/08/2025 08:06:02;Yellow
+228288948;node;45.6538430;10.0496150;8437;Q8;Q8;Servizi & Gestioni Italia S.R.L.;8437;Benzina;1.699;1;02/08/2025 01:07:15;Yellow
+228288959;node;45.6641910;9.9845550;35105;KEROPETROL;;C&V Service S.R.L.;35105;Benzina;1.709;1;30/07/2025 18:51:22;Yellow
+228288975;node;45.6028146;9.8938044;9952;Api-Ip;;Colla Fabio;9952;Benzina;1.679;1;28/07/2025 17:07:15;Yellow
+228289139;node;45.6783667;9.9977504;15212;Api-Ip;IP;Fedrighini Maria Grazia & C.S.N.C;15212;Benzina;1.699;1;30/07/2025 09:15:21;Yellow
+228289341;node;45.8242600;10.0861379;30127;Total Erg;;Surini Cristian;30127;Benzina;1.719;1;01/08/2025 10:12:49;Yellow
+228289720;node;45.8284835;10.1104746;22454;;;Ditta Morzenti Antonio S.r.l.;22454;Benzina;1.679;1;02/08/2025 00:18:27;Yellow
+228290273;node;45.8459460;10.1450590;30976;;;Oil Invest 2000 S.r.l.;30976;Benzina;1.689;1;01/08/2025 08:42:08;Yellow
+228290665;node;46.1380298;9.4433898;25725;Api-Ip;Erg;Malgesini Silvano;25725;Benzina;1.639;1;31/07/2025 09:04:02;Yellow
+228290667;node;45.8115352;9.3169347;5947;IP;Ip;Gestioni Europa S.P.A.;5947;Benzina;1.679;1;01/08/2025 09:04:25;Yellow
+228291045;node;45.8428640;10.1342187;4626;Tamoil;Tamoil;G.P. S.r.l.;4626;Benzina;1.719;1;02/08/2025 08:08:12;Yellow
+228291245;node;45.8092971;10.1083716;34647;Eni;Eni;Martinelli Debora;34647;Benzina;1.699;1;02/08/2025 07:14:16;Yellow
+228291432;node;45.7074965;10.1097610;16380;Esso;;Picchi S.n.c. di Picchi Giuseppe Dario e C.;16380;Benzina;1.679;1;31/07/2025 09:03:13;Yellow
+228291791;node;45.6193326;10.0766985;35590;Sia Fuel;;S.I.A. Engineering Construction S.r.l.;35590;Benzina;1.745;1;31/07/2025 17:10:58;Yellow
+228291801;node;45.6026699;10.0859999;7243;Tamoil;Tamoil;Biemme di Boniotti Silvano e Meliga Bruno S.n.c.;7243;Benzina;1.669;1;01/08/2025 15:08:16;Yellow
+228291986;node;45.6027551;10.0866787;6008;Eni;Eni;Faglia Michele;6008;Benzina;1.729;1;02/08/2025 06:06:01;Yellow
+228292184;node;45.5822990;10.1100610;24037;Agip Eni;;Grechi Alessandro;24037;Benzina;1.759;1;02/08/2025 07:30:06;Yellow
+228292615;node;45.5188150;10.2008927;17041;IP;IP;Corini S.n.c. di Corini Nicola Claudio e Raineri Mauro;17041;Benzina;1.734;1;01/08/2025 07:10:57;Yellow
+228294243;node;45.5475140;9.1125260;8741;Esso;Esso;Cusitex di Cirrincione Domenico e C. S.N.C.;8741;Benzina;1.719;1;02/08/2025 06:42:57;Yellow
+228316514;node;45.9031214;10.2182361;24208;Tamoil;Tamoil;Zenia & Giusy S.N.C. di Signorini Zenia & Ribola Giuseppina;24208;Benzina;1.719;1;01/08/2025 15:10:29;Yellow
+228733341;node;45.7942524;9.1536139;30794;Q8;Q8;Servizi & Gestioni Italia S.R.L.;30794;Benzina;1.729;1;02/08/2025 07:06:12;Yellow
+228743236;node;45.9090646;8.6215319;12844;Esso;Esso;F.lli Carminati Sas di Carminati Marco e Mauro;12844;Benzina;1.759;0;29/07/2025 09:50:57;Yellow
+228760435;node;45.6633330;9.3153070;39921;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;39921;Benzina;1.689;0;02/08/2025 06:00:39;Yellow
+228760637;node;45.7013610;9.3125060;36517;Q8;Q8;Fricano Giorgio;36517;Benzina;1.839;0;30/07/2025 22:32:28;Orange
+228760867;node;45.6998927;9.2915818;36496;Esso;Esso;"Baraviera Greta;Esso";36496;Benzina;1.766;1;02/08/2025 08:09:22;Yellow
+228761090;node;45.6991374;9.2873353;4399;Keropetrol;Keropetrol;Sala Enrico;4399;Benzina;1.739;1;29/07/2025 08:17:57;Yellow
+228764026;node;45.7259220;9.3164760;12658;Esso;Esso;Besana Renato;12658;Benzina;1.776;1;30/07/2025 09:45:15;Yellow
+228764833;node;45.6341310;10.0096820;21203;Api-Ip;Esso;Ferrari Marco;21203;Benzina;1.689;1;25/07/2025 15:52:52;Yellow
+228767541;node;45.5262254;9.0394746;36375;Eni;Eni Station;Stefano Claudio;36375;Benzina;1.729;1;02/08/2025 07:10:04;Yellow
+228767770;node;45.5069670;9.0889010;27792;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;27792;Benzina;1.704;1;01/08/2025 01:36:35;Yellow
+228768085;node;45.4962709;9.0580492;7289;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7289;Benzina;1.719;1;02/08/2025 07:06:16;Yellow
+228768245;node;45.4901150;9.0413400;24383;Q8;Q8;Servizi & Gestioni Italia S.R.L.;24383;Benzina;1.719;1;02/08/2025 07:06:14;Yellow
+228768740;node;45.5536776;9.1862963;15514;Tamoil;Tamoil;F.lli Tirinato Nicola & Pietro S.N.C.;15514;Benzina;1.819;1;01/08/2025 16:28:10;Yellow
+228768986;node;45.5590151;9.2248178;6449;Q8;Q8;Servizi & Gestioni Italia Srl;6449;Benzina;1.649;1;02/08/2025 01:09:02;Yellow
+228769192;node;45.5322520;9.1956960;13164;Agip Eni;Agip;F.lli Sartorato S.N.C. di Gabriele Marco & C.;13164;Benzina;1.709;1;02/08/2025 06:14:05;Yellow
+228769373;node;45.5449122;9.1668706;12665;Agip;Agip;Nigro Snc di Nigro Antonino e Mauro;12665;Benzina;1.679;1;02/08/2025 05:04:06;Yellow
+228769390;node;45.5429316;9.1841882;27528;Api-Ip;IP;Ip Services S.R.L.;27528;Benzina;1.649;1;01/08/2025 09:01:38;Yellow
+228774312;node;45.6131290;9.4147790;35881;Esso;Esso;F.lli Bordogna di Samuele Maddalena & C. S.N.C.;35881;Benzina;1.739;1;01/08/2025 07:51:35;Yellow
+228774774;node;45.5069726;9.3316484;22338;Retitalia;Retitalia;Vinpe Servizi S.P.A.;22338;Benzina;1.699;1;01/08/2025 09:42:08;Yellow
+229098221;node;45.2461930;10.6898286;25067;IP;IP;Ip Services S.R.L.;25067;Benzina;1.699;1;01/08/2025 09:01:47;Yellow
+229099138;node;45.6123160;8.9590230;6182;Eni;Eni;A.M.G. S.N.C. di Andrea Duo' Mauro Turconi e Giorgio Marini;6182;Benzina;1.699;1;01/08/2025 07:30:05;Yellow
+229102565;node;45.1514679;10.0975921;15165;Esso;Esso;Garden Bar di Maffei Luciano;15165;Benzina;1.679;1;30/07/2025 15:03:52;Yellow
+229104701;node;45.3384820;9.0882310;40078;IP;Erg;Gestioni Europa - Società Per Azioni;40078;Benzina;1.679;1;01/08/2025 15:04:53;Yellow
+229104711;node;45.3219086;8.8726601;6456;Q8;Q8;Servizi & Gestioni Italia Srl;6456;Benzina;1.659;1;30/07/2025 01:05:30;Yellow
+229104715;node;45.3012596;8.8626389;23012;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23012;Benzina;1.629;1;30/07/2025 01:05:30;Yellow
+229104718;node;45.2926887;8.8534426;12179;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12179;Benzina;1.658;1;02/08/2025 06:00:58;Yellow
+229105138;node;45.3169050;8.8806010;32414;Esso;Esso;Vett -Amo Snc di Vettorello Roberta Luisa e Amolaro Fabio Walter;32414;Benzina;1.686;1;02/08/2025 07:27:55;Yellow
+229105313;node;45.2490477;8.7435361;17971;IP;IP;Gamma Petroli S.R.L.;17971;Benzina;1.649;1;29/07/2025 09:04:52;Yellow
 229106765;node;45.1212220;8.7965240;12178;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12178;Benzina;1.759;1;02/08/2025 06:00:58;Yellow
-229106936;node;45.1134764;8.6690104;35002;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;35002;Benzina;1.739;1;02/08/2025 06:00:59;Green
-229120799;node;45.3205570;8.8719265;36257;IES;IES;Garbini S.P.A.;36257;Benzina;1.659;1;02/08/2025 00:19:29;Green
-370462094;node;45.1920956;9.3877929;6853;Total Erg;;Cerutti S.N.C. di Cerutti Silvio & Rosangela;6853;Benzina;1.729;1;01/08/2025 10:35:21;Green
-701747698;node;45.0252498;8.9138242;22417;Agip Eni;;Sirtam S.R.L.;22417;Benzina;1.684;1;30/07/2025 12:04:14;Green
-1495472366;node;44.9552263;9.0104093;10041;;Centro Calor;Centro Calor S.R.L.;10041;Benzina;1.699;1;31/07/2025 08:56:02;Green
-1559451480;node;45.0731130;9.3142463;31519;Vega Carburanti;;Vega Carburanti S.P.A.;31519;Benzina;1.709;1;30/07/2025 21:31:28;Green
-2426578393;node;45.2517457;9.1982102;37665;Api-Ip;IP;Clerici Renzo;37665;Benzina;1.729;1;31/07/2025 11:49:37;Green
-2481967673;node;45.3251958;9.2565233;31523;Vega;Vega;Vega Carburanti S.p.A.;31523;Benzina;1.679;1;31/07/2025 08:18:05;Green
-2544062163;node;45.1162222;9.3517781;13091;Tamoil;;Carburanti Olii Lubrificanti Bronese S.R.L.;13091;Benzina;1.699;1;01/08/2025 14:37:10;Green
-2662861247;node;45.1614289;9.3027145;19641;Esso;Distributore Esso;F.lli Boneschi S.N.C. di Boneschi Maurizio e Mario;19641;Benzina;1.699;1;02/08/2025 05:53:02;Green
-3085305270;node;45.1594754;9.4230461;4593;;;Af Petrol S.R.L.;4593;Benzina;1.645;1;02/08/2025 00:14:03;Green
-3600390500;node;45.1616312;9.2954779;8027;Tamoil;;Amatruda Giovanni;8027;Benzina;1.699;1;01/08/2025 15:05:05;Green
-4551188939;node;45.0836630;9.3155674;3935;Eni;Eni;Stazione Agip di Pietralunga P. & F. S.N.C.;3935;Benzina;1.849;1;02/08/2025 00:25:01;Yellow
+229106936;node;45.1134764;8.6690104;35002;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;35002;Benzina;1.739;1;02/08/2025 06:00:59;Yellow
+229107090;node;45.1742470;10.7872010;23223;IP;IP;;23223;Benzina;1.649;1;01/08/2025 09:06:01;Yellow
+229107740;node;45.1763799;10.7859104;40738;Costantin;Costantin;;40738;Benzina;1.645;1;30/07/2025 07:51:58;Yellow
+229107751;node;45.1448204;10.7747042;38886;Tamoil;IES;T.D.M. S.R.L.;38886;Benzina;1.659;1;01/08/2025 12:40:52;Yellow
+229107758;node;45.1317860;10.7888320;30918;Tamoil;Tamoil;T.D.M. S.R.L.;30918;Benzina;1.659;1;01/08/2025 16:16:09;Yellow
+229107767;node;45.1504630;10.8290000;41065;Eni;Eni;Khaja Ajmeri International di Sarker Zakir & C. S.A.S.;41065;Benzina;1.759;1;02/08/2025 07:08:34;Yellow
+229107930;node;45.1454091;10.7794623;24968;Api;Api;Ip Services S.R.L.;24968;Benzina;1.659;1;01/08/2025 09:01:32;Yellow
+229108128;node;45.5438940;9.3917098;6443;Q8;Q8;Servizi & Gestioni Italia Srl;6443;Benzina;1.649;1;02/08/2025 01:07:11;Yellow
+229109794;node;45.5522104;9.0297863;35445;Tamoil;Tamoil;T.D.M. S.R.L.;35445;Benzina;1.669;1;01/08/2025 13:56:09;Yellow
+229115024;node;45.5499584;8.9894413;11658;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11658;Benzina;1.669;1;29/07/2025 01:05:48;Yellow
+229119930;node;45.4811921;9.7918505;6451;Q8;Q8;Servizi & Gestioni Italia Srl;6451;Benzina;1.699;1;30/07/2025 01:07:54;Yellow
+229120799;node;45.3205570;8.8719265;36257;IES;IES;Garbini S.P.A.;36257;Benzina;1.659;1;02/08/2025 00:19:29;Yellow
+229121033;node;45.5754430;9.1162760;24400;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;24400;Benzina;1.699;1;02/08/2025 06:00:50;Yellow
+229121231;node;45.5787576;9.0785494;12063;IP;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12063;Benzina;1.749;1;02/08/2025 06:00:49;Yellow
+229124112;node;45.5752143;9.7074021;21900;Q8;Q8;Servizi & Gestioni Italia S.R.L.;21900;Benzina;1.639;1;31/07/2025 16:06:43;Yellow
+229125199;node;45.5902070;9.7046130;28623;Esso;Esso;Sommese Carburante S.R.L.;28623;Benzina;1.639;1;02/08/2025 01:12:10;Yellow
+229125409;node;45.5878658;9.7283916;29511;Esso;Esso;Full Service Sas di Lamorte Vito Michele & C.;29511;Benzina;1.669;1;31/07/2025 13:52:47;Yellow
+229125597;node;45.6153113;8.8390994;9059;Esso;Esso;Lepri Marco;9059;Benzina;1.746;1;31/07/2025 08:29:51;Yellow
+229125805;node;46.4665919;10.3706680;9197;;GP;Autocanclini S.N.C. di Canclini Elio & C.;9197;Benzina;1.86;1;02/08/2025 07:34:48;Orange
+229127031;node;45.6254812;8.8577808;10021;Esso;Esso;Bosatelli Bruno & C. - S.A.S.;10021;Benzina;1.756;1;01/08/2025 08:09:48;Yellow
+229127227;node;45.6431440;8.9955980;38725;Tamoil;Tamoil;Alberti Luigi e C. S.R.L.;38725;Benzina;1.729;1;28/07/2025 12:26:31;Yellow
+229127395;node;45.7037370;9.6049050;28870;Eni;Eni;Tironi Vittorio di Tironi Ernesto & C.Snc;28870;Benzina;1.749;1;02/08/2025 06:58:11;Yellow
+229129167;node;45.5338530;9.1465470;39752;Total Erg;Total;Gestioni Europa - Società Per Azioni;39752;Benzina;1.669;1;01/08/2025 09:04:15;Yellow
+229129471;node;45.5469350;10.1807430;28043;Total Erg;;Gestioni Europa S.p.A.;28043;Benzina;1.669;1;01/08/2025 09:05:33;Yellow
+229129475;node;45.5472445;10.1823256;15855;Api-Ip;;Sisti Tiziana;15855;Benzina;1.699;1;27/07/2025 09:32:06;Yellow
+229129661;node;45.5498974;10.1857734;13202;Api-Ip;;Gi.Ma S.n.c. di Ferlucci G. & Gazzoli M.;13202;Benzina;1.689;1;30/07/2025 17:55:09;Yellow
+229129852;node;45.5610473;10.2045899;22096;Q8;Stazione di Servizio Q8Easy 1741;Servizi & Gestioni Italia S.r.l.;22096;Benzina;1.679;1;31/07/2025 01:05:50;Yellow
+229129856;node;45.5626445;10.1876930;12809;Q8;Stazione di Servizio Q8 1766;Fratelli Uberti di Uberti Andrea e Mauro S.n.c.;12809;Benzina;1.719;1;31/07/2025 18:46:06;Yellow
+229130003;node;45.5275626;10.2938830;41090;Total Erg;;Pak Servizi S.A.S. di Imran Sajid & C.;41090;Benzina;1.649;1;31/07/2025 16:52:10;Yellow
+229130188;node;45.5488830;10.2000678;10026;Q8;Q8;Marangon Luca & C. S.n.c.;10026;Benzina;1.739;1;31/07/2025 08:13:11;Yellow
+229133377;node;45.8310246;9.6667443;17493;Q8;Q8;Pozzi Marco e Pesenti Daniele S.N.C.;17493;Benzina;1.874;1;29/07/2025 14:02:27;Orange
+244448865;node;45.4892825;9.2237433;33860;Tamoil;Tamoil;T.D.M. S.R.L.;33860;Benzina;1.649;1;02/08/2025 00:08:18;Yellow
+249244796;node;45.5721927;10.2165110;5454;Agip Eni;;Eni Fuel S.p.A.;5454;Benzina;1.719;1;02/08/2025 07:32:22;Yellow
+266104971;node;45.6332164;8.8881693;14944;Eni;Eni;Mauro Raimondi;14944;Benzina;1.739;1;02/08/2025 07:16:24;Yellow
+266593038;node;45.6037978;8.8927144;39454;Eni;Eni;Eni Fuel S.P.A.;39454;Benzina;1.679;1;02/08/2025 00:23:06;Yellow
+273621223;node;45.8021203;9.0911955;16281;Eni;Eni;Ciraolo S.A.S. di Ciraolo Gianmatteo & C.;16281;Benzina;1.699;1;02/08/2025 00:02:07;Yellow
+282181042;node;45.4678006;9.2113302;18871;IP;IP;Cirigliano Silvia & C. S.N.C.;18871;Benzina;1.977;1;28/07/2025 06:30:10;Orange
+307598732;node;45.8027269;8.6298250;31608;Retitalia;;Progetto e Sviluppo S.R.L.;31608;Benzina;1.729;1;02/08/2025 07:38:25;Yellow
+308767094;node;45.7055323;9.3347547;12567;Tamoil;Tamoil;Radici Alberto Luigi;12567;Benzina;1.749;1;01/08/2025 07:38:25;Yellow
+308799956;node;45.7086609;9.3205128;28205;IP;IP;IP Services s.r.l.;28205;Benzina;1.748;1;01/08/2025 09:05:57;Yellow
+308860334;node;45.7646491;9.3382668;12459;Q8;Q8;Mapelli Autoservice S.A.S. di Mapelli Maurizio;12459;Benzina;1.729;1;01/08/2025 09:37:26;Yellow
+308885510;node;45.7702602;9.3390066;34303;Tamoil;Tamoil;New Service di Galbusera Gianluca & Bianchini Rossano S.N.C.;34303;Benzina;1.729;1;02/08/2025 07:40:22;Yellow
+308887417;node;45.7771933;9.3395201;7925;Tamoil;Tamoil;F.lli Bonalumi di Bonalumi Vincenzo e Agostino S.N.C.;7925;Benzina;1.719;1;25/07/2025 18:11:26;Yellow
+308893370;node;45.7918902;9.3522087;19763;Esso;Esso;Bartesaghi F.lli di Giuseppe, Alberto e C. S.N.C.;19763;Benzina;1.729;1;29/07/2025 09:11:13;Yellow
+321627218;node;46.0275724;10.3458919;9840;Agip Eni;;V.Z. di Vaira Dario e Enrico S.n.c.;9840;Benzina;1.699;1;02/08/2025 06:58:07;Yellow
+330037526;node;45.4452976;9.1623849;38996;Esso;Esso;Montagna Giulio Mauro;38996;Benzina;1.719;1;02/08/2025 07:26:07;Yellow
+338921809;node;46.1764722;10.3359595;20483;Agip Eni;;Eni Stazione di Servizio Edolo di Festa Marco;20483;Benzina;1.729;1;02/08/2025 06:58:07;Yellow
+370462094;node;45.1920956;9.3877929;6853;Total Erg;;Cerutti S.N.C. di Cerutti Silvio & Rosangela;6853;Benzina;1.729;1;01/08/2025 10:35:21;Yellow
+386578344;node;45.4114028;10.6859214;31192;Costantin;Costantin;Tommasi Sergio;31192;Benzina;1.899;1;01/08/2025 07:42:52;Orange
+394705416;node;45.6305783;8.9109341;11928;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11928;Benzina;1.669;1;02/08/2025 01:07:14;Yellow
+413320078;node;45.5287175;10.5369214;15079;IP;IP;Oil Invest 2000 S.r.l.;15079;Benzina;1.699;1;02/08/2025 07:14:16;Yellow
+416810667;node;45.6520858;10.4316698;13374;;Fina;Franzoni Giulio;13374;Benzina;1.729;1;31/07/2025 19:54:45;Yellow
+416810688;node;45.6610116;10.4156846;26321;Esso;;Beltrami Luisa;26321;Benzina;1.734;1;01/08/2025 06:49:47;Yellow
+541033987;node;45.5019127;9.1433560;25256;Q8;Q8;Servizi & Gestioni Italia S.R.L.;25256;Benzina;1.689;1;02/08/2025 01:07:12;Yellow
+606379297;node;45.1858264;10.7893078;41062;Agip;Agip;Khaja Ajmeri International di Sarker Zakir & C. S.A.S.;41062;Benzina;1.759;1;02/08/2025 07:04:09;Yellow
+608075657;node;45.3566373;9.6763552;10109;Q8;Q8;Servizi & Gestioni Italia S.R.L.;10109;Benzina;1.639;1;01/08/2025 01:36:41;Yellow
+668725636;node;45.7871326;9.9999587;24262;;Denis Testa;Oil Invest 2000 Srl;24262;Benzina;1.699;1;02/08/2025 00:19:01;Yellow
+701747698;node;45.0252498;8.9138242;22417;Agip Eni;;Sirtam S.R.L.;22417;Benzina;1.684;1;30/07/2025 12:04:14;Yellow
+705428204;node;45.6418471;10.6125103;36960;Q8;Q8;Cascella Alfonso;36960;Benzina;1.699;1;02/08/2025 07:42:52;Yellow
+718540955;node;45.7990610;8.8015217;29597;IP;IP;Proteus Srl;29597;Benzina;1.719;1;01/08/2025 10:00:28;Yellow
+727614696;node;45.7396769;9.1181564;10090;IP;IP;IP Services Srl;10090;Benzina;1.649;1;01/08/2025 09:06:43;Yellow
+731083973;node;45.8646460;9.6581535;16712;Tamoil;;I Redondi S.R.L.;16712;Benzina;1.669;1;02/08/2025 07:58:08;Yellow
+733236232;node;45.5826759;10.1699659;12253;Esso;;Sola Renato e Uberti Marco S.n.c.;12253;Benzina;1.719;1;30/07/2025 18:21:29;Yellow
+735474322;node;45.4865328;10.2157266;11537;Q8;;Servizi & Gestioni Italia S.R.L.;11537;Benzina;1.659;1;29/07/2025 01:05:54;Yellow
+745607560;node;45.7390525;10.7196169;32806;;;Bertolasio Giordano;32806;Benzina;1.799;0;01/08/2025 11:12:03;Yellow
+747965183;node;46.5395385;10.1382656;23219;;Petrol;;23219;Benzina;1.289;1;29/07/2025 19:06:24;Green
+765627113;node;45.4589919;9.1006241;6437;Q8;Q8;Servizi & Gestioni Italia Srl;6437;Benzina;1.669;1;31/07/2025 01:05:45;Yellow
+821859865;node;45.5909215;9.8995357;11323;Api-Ip;;Cadeo Diego & C. S.N.C.;11323;Benzina;1.659;1;02/08/2025 07:04:27;Yellow
+847312137;node;45.3476961;9.6608365;28982;IP;IP;Gestioni Europa - Società Per Azioni;28982;Benzina;1.669;1;01/08/2025 09:05:05;Yellow
+860953549;node;46.1261513;9.2814506;20436;Api-Ip;;Poncia Luca & C. S.N.C.;20436;Benzina;1.799;1;01/08/2025 15:58:58;Yellow
+882777421;node;45.2233256;10.4162535;38144;Agip Eni;;Carminati Luciano;38144;Benzina;1.729;1;02/08/2025 07:32:06;Yellow
+892210999;node;45.5310132;9.5061863;25767;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;25767;Benzina;1.698;1;02/08/2025 06:00:51;Yellow
+931728552;node;45.6666522;9.0443789;36389;Tamoil;Tamoil;Beltrame Cristiano & C. S.N.C.;36389;Benzina;1.659;1;01/08/2025 12:09:05;Yellow
+940897102;node;45.6048557;8.9139892;31567;IP;IP;Pace - Della Vedova S.N.C. di Pace Giuseppe e Della Vedova Daniel E;31567;Benzina;1.649;0;01/08/2025 21:08:29;Yellow
+942553373;node;45.8251726;8.7432462;17091;IP;IP;Rodili Auto S.N.C. di Rodili Marco & Emanuele;17091;Benzina;1.669;1;31/07/2025 07:36:42;Yellow
+946470307;node;45.7990000;9.2386000;38643;IP;IP;Gestioni Europa - Società Per Azioni;38643;Benzina;1.649;1;01/08/2025 09:04:24;Yellow
+967187092;node;45.4027571;9.4695105;37125;Tamoil;Tamoil;T.D.M. S.R.L.;37125;Benzina;1.659;1;01/08/2025 12:08:55;Yellow
+979769025;node;45.1284826;10.7094614;17156;Agip Eni;;Sedenali Massimo;17156;Benzina;1.739;1;02/08/2025 07:28:27;Yellow
+1070927609;node;45.5931970;9.9655457;3552;Esso;Esso;Nuova Sidap Srl;3552;Benzina;1.822;1;01/08/2025 19:00:08;Yellow
+1102343355;node;45.5319105;8.8311753;28342;IP;IP;IP Services SRL;28342;Benzina;1.659;1;01/08/2025 09:05:35;Yellow
+1103630759;node;45.5501766;8.7867161;25858;Esso;;Pariani Stefano;25858;Benzina;1.749;1;01/08/2025 08:57:02;Yellow
+1195591172;node;45.5329959;10.1061561;6113;Q8;;B13 S.n.c. di Buizza Mario & C.;6113;Benzina;1.749;1;01/08/2025 07:30:05;Yellow
+1198610917;node;45.5167280;10.1300110;35681;Agip Eni;Agip;Bertolani Giuseppe & C. S.A.S.;35681;Benzina;1.689;1;02/08/2025 07:28:21;Yellow
+1217472541;node;45.6598368;8.8934647;15743;Sommese Petroli;Sommese Petroli;Bosatelli Tiziano;15743;Benzina;1.769;0;31/07/2025 16:49:15;Yellow
+1261370751;node;45.1690563;10.4313924;12661;Total Erg;;Rosa Stefano & C. S.N.C. di Rosa Stefano;12661;Benzina;1.726;1;02/08/2025 05:13:25;Yellow
+1261370762;node;45.2156124;10.4196253;24715;Agip Eni;;Gandellini Franco;24715;Benzina;1.729;1;02/08/2025 07:12:05;Yellow
+1317972899;node;45.4788855;8.9977897;26126;Agip Eni;;Eni Fuel S.P.A.;26126;Benzina;1.669;1;02/08/2025 00:23:50;Yellow
+1338422057;node;45.6257300;9.9532755;11538;Q8;;Servizi & Gestioni Italia S.R.L.;11538;Benzina;1.689;1;02/08/2025 08:08:25;Yellow
+1342136380;node;45.8570578;9.1158173;39672;IP;;R.C.M. di Belgiovine Roberto e F.lli S.N.C.;39672;Benzina;1.719;0;01/08/2025 14:39:31;Yellow
+1342408885;node;45.4783770;9.0361450;7169;Repsol;;Cornaredo Carburanti S.R.L.;7169;Benzina;1.729;1;01/08/2025 10:31:35;Yellow
+1347867942;node;45.5894365;10.5218013;5179;San Marco Petroli;SMP;San Marco Petroli Distribuzione S.R.L.;5179;Benzina;1.729;1;02/08/2025 00:16:23;Yellow
+1359862214;node;45.8252181;8.6431480;35587;IP;IP;F.lli Zanchin Snc di Zanchin Roberto e C.;35587;Benzina;1.699;1;01/08/2025 16:16:20;Yellow
+1373099544;node;45.7573101;8.9943116;32077;IP;IP;Gorgone S.N.C. di Fertonani Flavio Pietro Paolo e C.;32077;Benzina;1.699;0;31/07/2025 13:08:27;Yellow
+1374526555;node;45.6511463;8.8964735;19217;Esso;Sommese Petroli;Fumagalli & Morandi S.N.C di Fumagalli Antonella & C.;19217;Benzina;1.769;1;01/08/2025 15:27:57;Yellow
+1375754878;node;45.6215432;8.8529826;38949;Agip Eni;;Ceppi Roberto;38949;Benzina;1.739;1;02/08/2025 07:34:29;Yellow
+1380725109;node;45.5076668;8.8845628;33808;Esso;;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;33808;Benzina;1.759;1;02/08/2025 06:00:52;Yellow
+1381765247;node;45.5379906;9.4902410;36263;Api-Ip;;Stazione di Servizio di Apa Salvatore & C. Snc;36263;Benzina;1.719;1;02/08/2025 07:07:58;Yellow
+1385219789;node;45.5009072;10.0782203;27587;Q8;Q8;Silvi di Bertazzi Silvana & C. S.n.c.;27587;Benzina;1.679;1;01/08/2025 07:17:33;Yellow
+1400850789;node;45.5307713;9.3743695;41033;Eni;Eni;Zacchi Renato;41033;Benzina;1.704;1;02/08/2025 07:56:11;Yellow
+1404784147;node;45.0466623;10.9278366;31612;IP;IP;Gestioni Europa - Società Per Azioni;31612;Benzina;1.679;1;01/08/2025 09:05:00;Yellow
+1404784160;node;45.0637666;10.9312582;31829;IP;IP;;31829;Benzina;1.679;1;01/08/2025 09:01:42;Yellow
+1404784163;node;45.0805889;10.9152155;16986;Eni;Eni;;16986;Benzina;1.739;1;02/08/2025 07:52:06;Yellow
+1404784168;node;45.0861717;10.8779089;32828;Tamoil;;Pavede S.A.S. di Versienti Emanuela & C.;32828;Benzina;1.679;1;02/08/2025 07:24:02;Yellow
+1404784173;node;45.0883278;10.8702200;37195;Eni;Eni;D'Elia Alessandro;37195;Benzina;1.739;1;02/08/2025 07:14:28;Yellow
+1424162252;node;45.1691030;10.6766757;15376;Eni;Eni;Ranzato Antonio di Ranzato Gianluca e C. S.N.C.;15376;Benzina;1.739;1;02/08/2025 07:30:03;Yellow
+1432769054;node;45.5873759;10.5504222;37533;Esso;Esso;Verzeletti Gianluca;37533;Benzina;1.799;1;31/07/2025 19:38:25;Yellow
+1434214678;node;45.8117364;9.4241240;35368;Total Erg;;Losa Graziano e Valentino S.N.C.;35368;Benzina;1.706;1;26/07/2025 12:02:52;Yellow
+1439688836;node;45.4766038;9.6183886;30128;;LP Carburanti;Pirola di Pirola Oscar Mario & C. S.N.C.;30128;Benzina;1.699;1;01/08/2025 07:36:05;Yellow
+1439704763;node;45.4818708;9.4658770;11670;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11670;Benzina;1.769;1;29/07/2025 07:40:29;Yellow
+1467091601;node;45.5918940;10.1072038;10336;IP;IP;E.M.O. di Franceschini M. & C. S.n.c.;10336;Benzina;1.754;1;29/07/2025 09:24:47;Yellow
+1483449822;node;45.5883089;8.7314979;20076;IP;IP;Distributore Malpensa S.N.C. di La Rocca Angelo & Pozzi Giuseppe;20076;Benzina;1.754;1;02/08/2025 08:00:24;Yellow
+1493729829;node;45.2169935;10.7562735;35442;Api-Ip;;Calor Systems S.P.A.;35442;Benzina;1.739;1;02/08/2025 08:16:20;Yellow
+1493729876;node;45.3900512;10.4427694;5059;Eni;Eni;Chiarini Mario e Orsini Snc;5059;Benzina;1.759;1;02/08/2025 07:08:29;Yellow
+1495472366;node;44.9552263;9.0104093;10041;;Centro Calor;Centro Calor S.R.L.;10041;Benzina;1.699;1;31/07/2025 08:56:02;Yellow
+1496668305;node;45.3464013;9.5910689;24379;Tamoil;;T.D.M. S.R.L.;24379;Benzina;1.649;1;01/08/2025 12:30:24;Yellow
+1496668342;node;45.3683280;9.7207125;21234;Q8;Q8;Servizi & Gestioni Italia S.R.L.;21234;Benzina;1.639;1;30/07/2025 01:05:33;Yellow
+1496668356;node;45.3831428;10.2370328;6461;Q8;;Servizi & Gestioni Italia Srl;6461;Benzina;1.685;1;02/08/2025 01:07:15;Yellow
+1538411523;node;45.5075251;9.3895400;13404;TotalErg;TotalErg;Regazzetti Gianni;13404;Benzina;1.699;1;28/07/2025 07:46:06;Yellow
+1559425589;node;45.5299097;10.1875574;24341;IP;IP;A. & C. di Armogida R. e C. S.n.c.;24341;Benzina;1.749;1;28/07/2025 06:32:22;Yellow
+1559451480;node;45.0731130;9.3142463;31519;Vega Carburanti;;Vega Carburanti S.P.A.;31519;Benzina;1.709;1;30/07/2025 21:31:28;Yellow
+1562794112;node;45.5292479;10.1897229;7911;Q8;Q8;So.Lo.Erre S.a.s. di Randisi Leo e C.;7911;Benzina;1.699;1;02/08/2025 08:12:42;Yellow
+1585643140;node;45.5249596;10.1557244;25072;IP;IP;Ip Services S.R.L.;25072;Benzina;1.639;1;01/08/2025 09:01:51;Yellow
+1620257284;node;45.9483989;9.6849901;35771;Ernesto Rondini;Q8;Ernesto Rondini S.R.L.;35771;Benzina;1.655;1;01/08/2025 12:32:14;Yellow
+1631210590;node;45.5066423;9.2532900;27071;Q8;Q8;Servizi & Gestioni Italia S.R.L.;27071;Benzina;1.629;1;30/07/2025 01:05:26;Yellow
+1640057909;node;46.1548566;10.1573481;16782;Total;Total Erg;Negri Angelo;16782;Benzina;1.779;1;02/08/2025 02:30:07;Yellow
+1651522988;node;45.5068534;9.4114411;30795;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;30795;Benzina;1.719;1;30/07/2025 01:05:24;Yellow
+1664720453;node;45.5562438;10.1114485;25070;Api-Ip;;Ip Services S.r.l.;25070;Benzina;1.669;1;01/08/2025 09:01:43;Yellow
+1667754672;node;45.5779163;9.1444044;39661;Agip Eni;;Casolo Stefano;39661;Benzina;1.679;1;01/08/2025 08:24:08;Yellow
+1670824859;node;45.4181941;9.3926089;36810;Esso;Esso;Hassanein Ibrahim S.A.S. di Ibrahim Walid & C.;36810;Benzina;1.729;1;02/08/2025 07:58:43;Yellow
+1672581649;node;45.9480878;10.2118296;29280;Sia Fuel;;S.I.A. Engineering Construction S.r.l.;29280;Benzina;1.729;1;31/07/2025 17:11:57;Yellow
+1702621326;node;45.3642176;10.2044933;12184;Api-Ip;Esso;Crescini Mauro;12184;Benzina;1.719;1;24/07/2025 16:14:44;Yellow
+1702621327;node;45.3651767;10.2078056;17472;Keropetrol;Keropetrol;Dagani Giambattista;17472;Benzina;1.729;1;30/07/2025 20:09:35;Yellow
+1706091801;node;45.5295326;9.1999740;6442;Q8;Q8 Easy;Servizi & Gestioni Italia Srl;6442;Benzina;1.649;1;02/08/2025 01:07:11;Yellow
+1719115143;node;45.5753628;10.0713035;9252;Agip Eni;Agip;Baiguera Marco & C. S.n.c.;9252;Benzina;1.764;1;02/08/2025 07:08:23;Yellow
+1722683109;node;45.5499380;9.6042069;22458;;;Ditta Morzenti Antonio S.R.L.;22458;Benzina;1.629;1;02/08/2025 00:18:33;Yellow
+1726207100;node;45.0073068;10.3793154;18993;;;Dodo Carburanti S.A.S. di Galetti Gianluca e C.;18993;Benzina;1.659;1;30/07/2025 17:58:25;Yellow
+1755026374;node;45.5079784;10.4355348;28972;Sia Fuel;;S.I.A. Engineering Construction S.R.L.;28972;Benzina;1.695;1;31/07/2025 17:12:18;Yellow
+1814218229;node;45.5116142;10.4047716;8064;Eni;Distributore Carburanti AGIP;Pasquato Faustino;8064;Benzina;1.699;1;30/07/2025 08:53:13;Yellow
+1882213495;node;44.9874091;10.8486222;23723;Api-Ip;;Alessandro Srl;23723;Benzina;1.769;1;28/07/2025 08:26:19;Yellow
+1909919179;node;46.2082113;10.1548098;23259;;Distributore AGIP;Oil Invest 2000 Srl;23259;Benzina;1.739;1;02/08/2025 08:12:06;Yellow
+1932231855;node;45.3516980;10.1399453;21010;Eni;Eni;Stazione di Servizio Ip di Bolentini e Remondi e C. Snc;21010;Benzina;1.769;1;02/08/2025 06:56:15;Yellow
+1955683224;node;45.7618248;9.4490076;19195;Keropetrol;Keropetrol;Tedoldi Enrico Luigi;19195;Benzina;1.699;1;28/07/2025 08:54:51;Yellow
+1978116042;node;45.8153093;9.3981867;12059;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12059;Benzina;1.689;1;02/08/2025 06:00:40;Yellow
+1999659147;node;45.5509531;9.0802945;12065;Esso;Esso;Servizi e Gestioni Zenit Srl;12065;Benzina;1.778;1;02/08/2025 06:00:51;Yellow
+2020443338;node;45.5146587;10.1217221;27583;Api-Ip;IP;Braga Angelo;27583;Benzina;1.659;1;01/08/2025 19:49:10;Yellow
+2048207131;node;45.5023308;9.3858406;21484;IP;IP;Galli Cristiano;21484;Benzina;1.699;1;01/08/2025 18:12:22;Yellow
+2052189908;node;45.9526686;9.0950535;32236;Agip Eni;;Travella Andrea;32236;Benzina;1.785;1;02/08/2025 07:34:31;Yellow
+2072636518;node;45.1222813;10.0779467;24706;Api;Api-Ip;Ip Services S.R.L.;24706;Benzina;1.649;1;01/08/2025 15:01:37;Yellow
+2082844367;node;45.7169671;9.6634316;22452;;Zero 35;Ditta Morzenti Antonio S.R.L.;22452;Benzina;1.638;1;02/08/2025 00:10:50;Yellow
+2098284368;node;45.5737856;10.2309020;34323;Esso;Stazione di Servizio;I Rossi S.r.l.;34323;Benzina;1.749;1;01/08/2025 17:18:07;Yellow
+2098907865;node;45.1350478;10.3683257;28693;Ego;;C.I.S. Nord S.R.L.;28693;Benzina;1.679;1;28/07/2025 09:00:57;Yellow
+2106376584;node;45.1424425;10.0044232;37392;Eni;Eni;Am Station Service di Alloisio Marco Angelo;37392;Benzina;1.694;1;02/08/2025 08:04:09;Yellow
+2136470977;node;45.1686777;10.1962558;26058;Eni;Eni;Aiftinca Ana Daniela;26058;Benzina;1.764;1;02/08/2025 00:08:43;Yellow
+2144825863;node;45.4867008;10.0613216;25877;Agip Eni;Agip Lograto;Gestioni Innovative Italia S.r.l.;25877;Benzina;1.679;1;02/08/2025 07:02:07;Yellow
+2204274071;node;45.4752298;10.4121932;15516;Costantin;;Paghera Bruno di Beschi Patrizia e C. S.A.S.;15516;Benzina;1.699;1;31/07/2025 07:38:39;Yellow
+2218899550;node;45.6551068;10.2441515;9217;Api-Ip;;Capra Maurizio;9217;Benzina;1.749;1;28/07/2025 20:17:53;Yellow
+2223015839;node;45.6539336;10.2479736;36944;Sia fuel;;S.I.A. Engineering Construction S.R.L.;36944;Benzina;1.699;1;31/07/2025 11:13:16;Yellow
+2235007051;node;45.5908487;8.8995912;7946;Eni;Eni;Vinci S.A.S. di Vinci Salvatore & C.;7946;Benzina;1.709;1;02/08/2025 07:32:35;Yellow
+2245500548;node;45.6844823;9.1201672;9755;Api-Ip;;Radice Auto Sas di Radice Marco & C.;9755;Benzina;1.679;1;02/08/2025 08:02:29;Yellow
+2248270147;node;45.6737835;10.1860216;7085;Tamoil;Tamoil;Guerini e Pedretti di Guerini Pierlorenzo & C. S.N.C.;7085;Benzina;1.719;1;02/08/2025 07:38:21;Yellow
+2249282236;node;45.4449837;10.5679248;22105;IP;TE 24/24;Gestioni Europa - Società Per Azioni;22105;Benzina;1.679;1;01/08/2025 09:06:30;Yellow
+2249291064;node;45.4496391;10.5479960;7240;Eni;Eni;Petrol Service di Goffi Maura S.A.S.;7240;Benzina;1.719;1;02/08/2025 06:14:09;Yellow
+2249293894;node;45.4456498;10.5862846;7287;Q8;Q8;Servizi & Gestioni Italia S.r.l.;7287;Benzina;1.729;1;30/07/2025 15:36:10;Yellow
+2291849566;node;45.3632709;10.0434605;27399;Esso;;Stazione di Servizio di Fusari Fabio e C. S.n.c.;27399;Benzina;1.659;1;28/07/2025 08:38:28;Yellow
+2291887302;node;45.5597091;10.0166384;50061;;Pit Stop;PIT-STOP ROVATO SRL;50061;Benzina;1.649;1;01/08/2025 07:11:35;Yellow
+2298426651;node;45.6070503;8.9104218;5552;IP;IP;;5552;Benzina;1.639;1;01/08/2025 09:05:11;Yellow
+2312851391;node;45.8495613;9.3764648;11117;Q8;Q8;C.M.G. di Galbusera G. e Massetti F. S.N.C.;11117;Benzina;1.689;1;02/08/2025 08:22:34;Yellow
+2331849986;node;45.1700697;10.8240871;6518;Q8;Q8;Servizi & Gestioni Italia S.R.L.;6518;Benzina;1.639;1;02/08/2025 01:07:21;Yellow
+2374705407;node;45.5144323;10.1946219;25373;Tamoil;;T.D.M. S.r.l.;25373;Benzina;1.659;1;01/08/2025 12:09:36;Yellow
+2375929056;node;45.5913950;8.9358403;7399;Eni;Eni;Cobido Car Service di Dolce Antonino & C. S.N.C.;7399;Benzina;1.709;1;02/08/2025 07:18:11;Yellow
+2377388996;node;45.7567289;9.2250102;25666;Tamoil;Tamoil Self Service;F.lli Bonalumi di Bonalumi Vincenzo e Agostino S.N.C.;25666;Benzina;1.659;1;01/08/2025 15:06:20;Yellow
+2377948833;node;45.4087122;10.6266185;38379;Esso;;Albomar di Florioli A. e Lusenti A. S.n.c.;38379;Benzina;1.759;1;01/08/2025 08:25:57;Yellow
+2389295918;node;45.3353750;9.7338776;22520;Tamoil;Tamoil;Stazione di Servizio Formenti Roberto e C. S.N.C.;22520;Benzina;1.669;1;02/08/2025 07:08:22;Yellow
+2402485820;node;45.2446709;9.8108215;39394;Tamoil;Tamoil;Freschi Gianpiero;39394;Benzina;1.7;1;01/08/2025 08:10:01;Yellow
+2406113224;node;45.5611696;8.9704592;32345;IP;IP;Ip Services S.R.L.;32345;Benzina;1.669;1;01/08/2025 09:01:41;Yellow
+2417820214;node;45.1658383;9.7050721;17008;IP;IP;Albertario Roberto;17008;Benzina;1.729;1;29/07/2025 08:29:41;Yellow
+2426578393;node;45.2517457;9.1982102;37665;Api-Ip;IP;Clerici Renzo;37665;Benzina;1.729;1;31/07/2025 11:49:37;Yellow
+2428270148;node;45.3673340;9.6784294;32485;Q8;Q8;Servizi & Gestioni Italia S.R.L.;32485;Benzina;1.639;1;01/08/2025 01:36:39;Yellow
+2437296434;node;45.2577517;10.2908297;26678;Tamoil;Tamoil;Salami Giulio e Claudio S.n.c.;26678;Benzina;1.719;1;02/08/2025 07:42:12;Yellow
+2439701368;node;45.3530416;9.6872579;11569;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11569;Benzina;1.749;1;02/08/2025 07:06:18;Yellow
+2447334452;node;45.7178315;9.4567300;31007;IP;IP Distribuzione;Ip Services S.R.L.;31007;Benzina;1.679;1;01/08/2025 09:03:01;Yellow
+2451458892;node;44.9973034;10.8577650;41011;Tamoil;;T.D.M. S.R.L.;41011;Benzina;1.739;1;01/08/2025 11:36:11;Yellow
+2466862290;node;45.4439796;9.2237293;26196;Eni;Enilive;Chiapperini Domenico;26196;Benzina;1.699;1;02/08/2025 07:34:09;Yellow
+2481967673;node;45.3251958;9.2565233;31523;Vega;Vega;Vega Carburanti S.p.A.;31523;Benzina;1.679;1;31/07/2025 08:18:05;Yellow
+2506134086;node;45.7655278;8.7696532;37928;Total Erg;TotalErg;Bdm S.N.C. Dei F.lli Biasatti Massimiliano e Davide;37928;Benzina;1.708;1;31/07/2025 07:46:57;Yellow
+2520328843;node;45.6532216;10.2866919;21363;Ies;;M.T. di Maccarinelli Paride;21363;Benzina;1.749;1;01/08/2025 11:35:53;Yellow
+2538784540;node;45.7390997;10.2370884;12614;Eni;Eni;Frola Roberta & C. S.n.c.;12614;Benzina;1.734;1;02/08/2025 07:40:18;Yellow
+2538784565;node;45.6139823;10.2051482;12755;Api-Ip;;Corini Mario e Figli S.N.C. dei F.lli Corini Pierangelo, Fausto e Ferdinando;12755;Benzina;1.81;1;01/08/2025 13:05:11;Yellow
+2538784574;node;45.6718521;10.1867123;10723;IP;IP;Stazione di Servizio di Peli Fabiano e Contin Flavio S.N.C.;10723;Benzina;1.719;1;02/08/2025 07:35:24;Yellow
+2544062163;node;45.1162222;9.3517781;13091;Tamoil;;Carburanti Olii Lubrificanti Bronese S.R.L.;13091;Benzina;1.699;1;01/08/2025 14:37:10;Yellow
+2585493076;node;45.4416506;10.5180560;16512;IES;IES;Benaco 2000 S.A.S. di Mazzata Nadia & C.;16512;Benzina;1.689;1;01/08/2025 14:46:27;Yellow
+2590642402;node;45.3396668;10.5969219;37872;Costantin;COSTANTIN;Corazzina Marina;37872;Benzina;1.749;1;31/07/2025 12:38:19;Yellow
+2614508618;node;46.1372222;10.3366775;4384;Shell;;;4384;Benzina;1.739;1;01/08/2025 07:45:49;Yellow
+2618307730;node;45.3566039;9.3169513;28681;IP;IP;Ip Services S.R.L.;28681;Benzina;1.729;1;01/08/2025 09:04:53;Yellow
+2636658455;node;45.3612488;10.2206838;34650;San Marco Petroli;San Marco Petroli;San Marco Petroli Distribuzione S.R.L.;34650;Benzina;1.709;1;01/08/2025 19:02:19;Yellow
+2647502601;node;45.4282822;10.1883667;40905;Tamoil;Tamoil;Mor Maurizio;40905;Benzina;1.669;1;02/08/2025 07:24:03;Yellow
+2662861247;node;45.1614289;9.3027145;19641;Esso;Distributore Esso;F.lli Boneschi S.N.C. di Boneschi Maurizio e Mario;19641;Benzina;1.699;1;02/08/2025 05:53:02;Yellow
+2683240341;node;45.5264324;9.2336166;4272;Eni;Eni;Tufo Carmine S.N.C. di Tufo Carmine e C.;4272;Benzina;1.699;1;02/08/2025 00:23:00;Yellow
+2691373077;node;45.5231381;9.7334505;26151;Sia Fuel;Sia Fuel;S.I.A. Engineering Construction S.R.L.;26151;Benzina;1.709;1;31/07/2025 17:00:24;Yellow
+2698388610;node;45.0349770;10.7445510;18331;Total Erg;metano;Ghulam di Ghulam Sarwar & C. S.A.S.;18331;Benzina;1.669;1;01/08/2025 17:48:05;Yellow
+2698401711;node;45.1190764;10.7726705;17290;Agip Eni;;Casalino Angelo;17290;Benzina;1.739;1;02/08/2025 07:02:30;Yellow
+2703984964;node;46.1602359;10.0723786;22442;Q8;Q8;Fi.Ne. & Co. S.N.C. di Negri Maurizio e Corrado;22442;Benzina;1.699;1;01/08/2025 16:13:19;Yellow
+2749843044;node;45.5361597;9.1979934;11687;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11687;Benzina;1.689;1;02/08/2025 07:06:14;Yellow
+2782346188;node;45.5572849;10.1974778;36795;;Giuberti & Autoccasioni;Autoccasioni di Castellano Enrico & C. S.n.c.;36795;Benzina;1.699;1;29/07/2025 08:04:22;Yellow
+2805998430;node;45.8416497;8.7373988;40393;Oll;;Stazione di Servizio Fina - Officina Meccanica di Caturano Franc Esco;40393;Benzina;1.679;0;01/08/2025 07:40:22;Yellow
+2806856786;node;45.8364596;9.0658030;30362;IP;IP;Dama Sas di Carli Dario & C.;30362;Benzina;1.719;1;02/08/2025 00:17:33;Yellow
+2870400375;node;45.8896456;8.7882447;9138;;Sommese Petroli;Stop And Go di Piccinelli Claudio;9138;Benzina;1.749;1;29/07/2025 15:00:14;Yellow
+2925249070;node;45.6379065;10.5074299;11527;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11527;Benzina;1.699;1;29/07/2025 07:40:36;Yellow
+2925660040;node;45.4033748;9.5517270;35650;Tamoil;Tamoil;Awadin Ali;35650;Benzina;1.659;1;01/08/2025 08:38:07;Yellow
+2927525838;node;45.5643543;8.9332675;10086;IP;IP Matic;;10086;Benzina;1.669;1;01/08/2025 09:06:00;Yellow
+2935392995;node;45.5531885;8.8866296;35052;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;35052;Benzina;1.709;1;02/08/2025 06:00:53;Yellow
+2964026810;node;45.5506980;10.4216940;15431;Tamoil;;Gosetti F.lli di Gosetti Claudio e Gabriele & C. S.N.C.;15431;Benzina;1.754;0;29/07/2025 21:50:30;Yellow
+2964092494;node;45.5532266;10.4059011;34227;;;Ferrari Giancarlo;34227;Benzina;1.679;1;31/07/2025 16:43:30;Yellow
+2973736490;node;45.7920576;10.7444815;34728;Eni;Eni;Girardi Alessandra;34728;Benzina;1.899;1;29/07/2025 11:00:52;Orange
+3002534050;node;45.3599478;9.3310479;27557;Eni;Eni;Eni Fuel S.P.A.;27557;Benzina;1.769;1;02/08/2025 07:04:37;Yellow
+3002534054;node;45.2283657;9.5982673;26314;Europam;Indipendente;Mancastroppa Antonio;26314;Benzina;1.709;1;31/07/2025 15:22:49;Yellow
+3004583609;node;45.3297565;9.4011638;35400;;Oroil;Orecchia Snc di Orecchia Attilio e C;35400;Benzina;1.888;1;31/07/2025 02:17:24;Orange
+3032985271;node;45.7726307;9.0193384;11564;Q8;;Servizi & Gestioni Italia S.R.L.;11564;Benzina;1.699;1;31/07/2025 15:36:24;Yellow
+3068701287;node;45.8224222;8.8176887;33180;Q8;Q8;Servizi & Gestioni Italia S.R.L.;33180;Benzina;1.699;1;29/07/2025 07:40:33;Yellow
+3077337946;node;46.0256788;9.2072846;25728;Api-Ip;;Grandola Carburanti di Ortelli Giovanni S.A.S.;25728;Benzina;1.789;0;01/08/2025 08:40:26;Yellow
+3085305270;node;45.1594754;9.4230461;4593;;;Af Petrol S.R.L.;4593;Benzina;1.645;1;02/08/2025 00:14:03;Yellow
+3091462749;node;45.9562817;8.7621022;37637;Eni;Eni;Bianchi Alessio & C. S.A.S.;37637;Benzina;1.704;1;11/06/2025 09:16:31;Yellow
+3096360921;node;45.8235213;9.4181415;6547;Q8;;Servizi & Gestioni Italia Srl;6547;Benzina;1.655;1;31/07/2025 01:06:02;Yellow
+3096406771;node;45.8485991;9.4040932;29259;;Gp;Sesana Andrea;29259;Benzina;1.689;1;02/08/2025 07:04:29;Yellow
+3109297458;node;45.4061807;9.2851496;36312;;Benzina;Giordano Francesco;36312;Benzina;1.669;0;30/07/2025 07:25:40;Yellow
+3117340308;node;45.5830754;10.4500500;28272;Agip Eni;;2P di Piscitelli Maichol & C. S.n.c.;28272;Benzina;1.704;1;02/08/2025 07:50:07;Yellow
+3182653336;node;45.5328215;9.9197862;11530;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11530;Benzina;1.719;1;02/08/2025 01:07:15;Yellow
+3185229537;node;45.6362944;9.1230013;12717;Esso;Esso;Fabio Autofficina di Di Cicco Fabio;12717;Benzina;1.669;1;31/07/2025 10:03:59;Yellow
+3191781019;node;45.5401220;9.9396145;11533;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11533;Benzina;1.749;1;02/08/2025 07:06:19;Yellow
+3196234122;node;45.4607934;9.2316583;15638;Esso;Esso;Carriola Giovanni;15638;Benzina;1.789;0;28/07/2025 18:00:05;Yellow
+3208788064;node;45.9026478;9.9234964;11290;Q8;Stazione Servizio Q8 Castelletti Laura;Castelletti Laura;11290;Benzina;1.679;1;01/08/2025 07:20:18;Yellow
+3211591393;node;45.4841803;10.3875413;39306;Total Erg;;Secret Fly S.r.l.;39306;Benzina;1.689;1;02/08/2025 00:13:51;Yellow
+3211591394;node;45.4846666;10.3880494;39307;Total Erg;;Secret Fly S.r.l.;39307;Benzina;1.679;1;02/08/2025 06:26:12;Yellow
+3308527978;node;45.5798928;8.8651105;47231;Keropetrol;Keropetrol;Gas Service di Irritano Mario;47231;Benzina;1.739;1;02/08/2025 05:55:07;Yellow
+3337625434;node;45.5523185;10.0901135;11539;Q8;Stazione di Servizio Q8 Easy;Servizi & Gestioni Italia S.r.l.;11539;Benzina;1.669;1;02/08/2025 01:34:15;Yellow
+3359350482;node;45.5997052;10.4511015;16792;Esso;;Remi Mauro;16792;Benzina;1.669;1;02/08/2025 07:59:20;Yellow
+3463804140;node;44.9314224;10.6137556;29870;Agip Eni;;F.lli Cini di Sandro e Cesare Massimo Cini S.N.C.;29870;Benzina;1.754;1;02/08/2025 06:58:24;Yellow
+3505429664;node;45.9292270;8.8218110;8489;Tamoil;Tamoil;Achille Lorenzo;8489;Benzina;1.759;1;01/08/2025 16:30:08;Yellow
+3509946673;node;45.9081721;8.6232640;14100;Q8;Q8;Mezzanotte Guido;14100;Benzina;1.729;0;25/07/2025 08:57:09;Yellow
+3523074442;node;44.9291077;10.5051107;18162;Tamoil;;Stazione di Servizio Tamoil - Borrcarr - di Borrelli Vito e Carrozzo Mario S.N.C.;18162;Benzina;1.679;1;02/08/2025 07:32:06;Yellow
+3523074678;node;44.9309160;10.5222420;13050;;;Gozzi Stefano;13050;Benzina;1.699;1;01/08/2025 09:08:44;Yellow
+3541860637;node;45.5000706;9.1307982;11701;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11701;Benzina;1.699;1;01/08/2025 07:06:51;Yellow
+3575074146;node;45.4518760;9.1939953;15888;IP;IP;Calor Systems S.P.A.;15888;Benzina;1.709;1;02/08/2025 07:18:43;Yellow
+3575326803;node;45.5525203;10.1077388;40083;Tamoil;;T.D.M. S.r.l.;40083;Benzina;1.669;1;01/08/2025 11:48:12;Yellow
+3590250371;node;44.9805497;10.4229964;28483;IP;TotalErg;Gestioni Europa - Società Per Azioni;28483;Benzina;1.719;1;01/08/2025 09:05:56;Yellow
+3600390500;node;45.1616312;9.2954779;8027;Tamoil;;Amatruda Giovanni;8027;Benzina;1.699;1;01/08/2025 15:05:05;Yellow
+3615150245;node;45.4869425;9.1987134;4855;Esso;Esso;Zucchi Antonio;4855;Benzina;1.766;1;31/07/2025 11:13:41;Yellow
+3709815128;node;46.1225299;10.3226825;9782;Q8;Q8;Servizi & Gestioni Italia S.R.L.;9782;Benzina;1.709;1;02/08/2025 01:07:15;Yellow
+3741925053;node;45.9819865;10.3305009;35229;IP;IP;Totalbar S.n.c. di Ottelli D. e Zanardini F.;35229;Benzina;1.689;1;01/08/2025 16:20:19;Yellow
+3741925054;node;45.9821409;10.3297579;7072;IP;IP;Big Bar di Cotti Cottini Claudio & C. S.n.c.;7072;Benzina;1.689;1;01/08/2025 14:23:59;Yellow
+3743861392;node;45.5338413;9.0298737;11975;IP;IP;Ceriani Pierangelo;11975;Benzina;1.759;0;26/07/2025 07:28:07;Yellow
+3788859670;node;45.1304352;9.9990053;25772;Eni;Eni;Brahja Elona;25772;Benzina;1.694;1;02/08/2025 00:21:05;Yellow
+3801917179;node;46.2023408;10.1369700;6115;;Occhio al prezzo;Esseiesse S.N.C. di Bedogne' Sonia & C.;6115;Benzina;1.739;1;28/07/2025 06:22:14;Yellow
+3805066473;node;45.6097053;10.4037582;39953;Api-Ip;;Neboli Claudio;39953;Benzina;1.669;1;31/07/2025 08:25:43;Yellow
+3818004022;node;45.7867980;8.9272553;9729;IP;IP;;9729;Benzina;1.739;0;31/07/2025 07:36:09;Yellow
+3826806360;node;45.9740243;9.2614063;22640;Tamoil;;T.D.M. S.R.L.;22640;Benzina;1.729;1;01/08/2025 14:58:05;Yellow
+3865130385;node;45.7980643;9.1126725;25453;IP;IP;Tcm S.N.C. di Telve Claudio e Marco & C.;25453;Benzina;1.719;1;01/08/2025 18:15:44;Yellow
+3865212961;node;45.7768651;9.0305077;9730;IP;IP;;9730;Benzina;1.699;0;31/07/2025 07:36:16;Yellow
+3865343159;node;46.1393051;9.5997839;7899;Eni;Eni;Guerra Gomme S.R.L.;7899;Benzina;1.714;1;02/08/2025 07:08:42;Yellow
+3865343467;node;46.1408829;9.6058165;9950;Api-Ip;Reteitalia;Travaini Adamo;9950;Benzina;1.719;1;28/07/2025 09:37:28;Yellow
+3865740107;node;45.7306375;8.9010300;6947;Q8;Q8;Viscardi Snc di Castiglioni Giuseppina e C.;6947;Benzina;1.739;1;02/08/2025 06:54:59;Yellow
+3865942861;node;45.7937819;9.1744882;31288;IP;IP;Mercuri Stefano;31288;Benzina;1.739;0;31/07/2025 15:59:03;Yellow
+3865942862;node;45.7976231;9.1891400;8944;Q8;;Galimberti Andrea;8944;Benzina;1.749;1;31/07/2025 08:21:47;Yellow
+3866940688;node;45.5582604;9.0399989;3927;Esso;Esso;;3927;Benzina;2.029;1;31/07/2025 06:47:48;Orange
+3867091457;node;45.7481910;9.1845865;15813;;;Cappellini S.N.C. di Cappellini Fabio Cristian & C.;15813;Benzina;1.679;1;01/08/2025 08:30:56;Yellow
+3867091557;node;45.7706322;9.1832910;38537;Tamoil;Tamoil;T.D.M. S.R.L.;38537;Benzina;1.659;1;01/08/2025 12:26:30;Yellow
+3867144476;node;45.7250436;9.1449069;7768;Q8;Q8;Leonard Service S.R.L.;7768;Benzina;1.679;1;02/08/2025 07:58:11;Yellow
+3867162061;node;45.7229108;9.1473430;18933;;;Mo.Vi. S.N.C. di Morabito Francesco & C.;18933;Benzina;1.649;1;01/08/2025 07:43:44;Yellow
+3877168817;node;45.5073890;10.3307580;10010;Esso;Esso;Fumia Michel;10010;Benzina;1.669;1;25/07/2025 11:35:02;Yellow
+3884544779;node;46.1657817;9.8723648;7209;;Occhio al Prezzo;F.lli Romeri S.N.C. di Angelo e Michele;7209;Benzina;1.689;1;31/07/2025 10:27:45;Yellow
+3884656565;node;45.4156378;10.3737023;38909;Tamoil;Tamoil;T.D.M. S.R.L.;38909;Benzina;1.649;1;02/08/2025 07:14:15;Yellow
+3906706891;node;45.7299731;9.1348870;19574;Esso;;Noseda Daniela e Bernasconi Roberto S.N.C.;19574;Benzina;1.674;1;02/08/2025 08:10:35;Yellow
+3914851582;node;45.1037637;9.6844864;4772;;DKV;Erredue di Romagnoli Giovanni e C. Snc;4772;Benzina;1.675;1;01/08/2025 15:26:11;Yellow
+3920626695;node;45.1387015;9.6849816;27640;Eni;Eni;Gestioni Innovative Italia S.R.L.;27640;Benzina;1.684;1;02/08/2025 00:21:28;Yellow
+3928057097;node;45.2698739;9.5883440;15923;Keropetrol;;Keropetrol S.P.A.;15923;Benzina;1.699;1;02/08/2025 05:55:19;Yellow
+3928987073;node;45.6373093;10.6062992;29625;Tamoil;Tamoil PienOK;T.D.M. S.R.L.;29625;Benzina;1.719;1;01/08/2025 12:09:42;Yellow
+3941795644;node;45.2900933;9.4728353;24663;Api-Ip;;Ip Services S.R.L.;24663;Benzina;1.678;1;01/08/2025 15:01:29;Yellow
+3947874029;node;45.4072740;10.4679287;6517;Q8;;Servizi & Gestioni Italia Srl;6517;Benzina;1.679;1;01/08/2025 01:36:48;Yellow
+3954260599;node;45.4121814;9.2741318;15900;IP;IP;Bonfatti Sabbioni Vittorio e C. S.N.C.;15900;Benzina;1.749;1;02/08/2025 07:59:45;Yellow
+3966884293;node;45.4008848;9.8693438;22634;Eni;Eni;Ferrari Gianpaolo;22634;Benzina;1.679;1;02/08/2025 00:10:15;Yellow
+4032203801;node;45.5260056;9.2412791;11700;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11700;Benzina;1.659;1;29/07/2025 07:40:28;Yellow
+4060675977;node;45.7860612;9.2951318;7016;Eni;Eni;CCB s.r.l.;7016;Benzina;1.709;1;01/08/2025 11:36:04;Yellow
+4060693195;node;45.8217254;9.3210443;11619;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11619;Benzina;1.699;1;02/08/2025 07:06:13;Yellow
+4061634804;node;46.5180830;10.1871344;22687;Q8;Q8;Tre.Car. S.R.L.;22687;Benzina;1.287;1;31/07/2025 15:19:53;Green
+4087817010;node;45.6065037;8.8627594;29759;IP;IP;Ip Services S.R.L.;29759;Benzina;1.709;1;01/08/2025 15:03:54;Yellow
+4114498792;node;45.6090241;8.8891974;10479;;Sommese Petroli;F.lli Gadda S.N.C. di Giuseppe e Angelo Gadda;10479;Benzina;1.679;1;01/08/2025 08:32:21;Yellow
+4124657708;node;45.3357339;9.6924699;7934;Tamoil;Tamoil;Al Chiosco di Matteo Samarani;7934;Benzina;1.659;1;01/08/2025 17:16:06;Yellow
+4139341259;node;45.6148780;9.4255957;28614;IP;IP;Ip Services S.R.L.;28614;Benzina;1.699;1;01/08/2025 15:02:49;Yellow
+4165762377;node;45.6158664;9.3598621;29719;Q8;Q8;Servizi & Gestioni Italia S.R.L.;29719;Benzina;1.649;1;02/08/2025 01:07:10;Yellow
+4257803537;node;46.0162367;9.3695381;47444;IP;IP;Rossi Racing di Rossi Maurizio e C.;47444;Benzina;1.829;1;29/07/2025 05:01:15;Yellow
+4273311117;node;45.0792396;10.5958615;13794;Esso;Esso;Pieropan Paolo;13794;Benzina;1.689;1;02/08/2025 08:25:50;Yellow
+4273312013;node;45.1609744;10.8463968;13537;Esso;Esso;Laghezza Michele;13537;Benzina;1.669;1;02/08/2025 07:39:12;Yellow
+4277271690;node;45.7038940;10.0950086;37416;;Monte Isola Carburanti;Monte Isola Service S.R.L. Abbreviato M.I.S. S.R.L.;37416;Benzina;1.998;0;28/07/2025 10:10:43;Orange
+4310005001;node;45.5060180;9.1977902;15350;Esso;Esso;Colella Raffaele;15350;Benzina;1.739;1;01/08/2025 08:37:43;Yellow
+4310595393;node;45.3261386;10.6584141;11716;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11716;Benzina;1.779;1;02/08/2025 07:06:23;Yellow
+4310648528;node;45.3165596;10.6588582;38519;;;Borghini Alex;38519;Benzina;1.769;1;01/08/2025 16:27:08;Yellow
+4310681609;node;45.3115866;10.6592498;26737;Agip Eni;Distributore Eni Ercoli;Ercoli Andrea;26737;Benzina;1.769;1;31/07/2025 07:39:44;Yellow
+4312419591;node;45.5859127;10.5178305;11531;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11531;Benzina;1.719;1;29/07/2025 07:40:36;Yellow
+4324877578;node;45.3709934;9.6692773;18128;Keropetrol;Metano & GPL;Metano e Gpl di Festari Martino e C. Snc;18128;Benzina;1.679;1;01/08/2025 12:09:51;Yellow
+4330901030;node;45.4678736;8.8651434;56644;IP;IP;Economy Srl;56644;Benzina;1.659;1;01/08/2025 10:55:31;Yellow
+4359304189;node;45.5907819;9.0502304;39660;;G.Petroli di Gabanelli;G.Petroli S.A.S. di Gabanelli Livio & C.;39660;Benzina;1.659;1;01/08/2025 10:38:34;Yellow
+4366496293;node;45.7104843;9.6060161;11305;Api-Ip;Belotti Giampietro;Belotti Giampietro & C. S.N.C.;11305;Benzina;1.859;1;01/08/2025 12:41:48;Orange
+4388835292;node;45.4121853;9.9394802;16028;Api-Ip;IP;Saini Srl;16028;Benzina;1.669;1;30/07/2025 10:01:56;Yellow
+4472271664;node;45.6496749;10.2506939;11540;Q8;;Servizi & Gestioni Italia S.R.L.;11540;Benzina;1.699;1;30/07/2025 15:36:10;Yellow
+4473269937;node;45.6538728;10.2523656;27423;Esso;;Rossetti Anna Farida;27423;Benzina;1.709;1;30/07/2025 21:44:23;Yellow
+4479296189;node;45.2961824;10.8074803;31097;Af Petroli;AF Petroli;A.F. Petroli S.P.A.;31097;Benzina;1.696;1;01/08/2025 20:00:45;Yellow
+4536135919;node;45.5257520;10.3050305;37502;Agip Eni;;M. & L. di Moreschi F. & C. S.n.c.;37502;Benzina;1.679;1;02/08/2025 07:40:21;Yellow
+4541490592;node;46.5380139;10.1385010;21869;IP;IP;Bondi Carburanti S.N.C. di Bormolini Luigi e Fausto;21869;Benzina;1.284;1;01/08/2025 16:23:12;Green
+4542015886;node;45.4967780;10.1603346;7111;Total Erg;;Sa.Mar. di Mariotti Graziella e C. Snc o Brevemente Sa.Mar. Snc;7111;Benzina;1.749;1;30/07/2025 07:17:57;Yellow
+4551188939;node;45.0836630;9.3155674;3935;Eni;Eni;Stazione Agip di Pietralunga P. & F. S.N.C.;3935;Benzina;1.849;1;02/08/2025 00:25:01;Orange
+4557575412;node;45.1398509;10.0702011;22118;IP;Ip;F.lli Ieva S.N.C. di Alberto Ieva & C.;22118;Benzina;1.939;1;30/07/2025 09:34:07;Orange
+4560796759;node;45.5275952;9.5874824;8822;Esso;Esso;Pitzalis Giuseppe;8822;Benzina;1.679;1;01/08/2025 08:54:14;Yellow
+4596667100;node;45.5482077;9.2087523;3548;IP;IP;Nuova Sidap Srl;3548;Benzina;1.798;1;26/07/2025 08:00:06;Yellow
+4603702233;node;46.1709702;10.3444164;21452;Tamoil;Tamoil;;21452;Benzina;1.709;1;31/07/2025 16:17:18;Yellow
+4605446868;node;45.9612294;10.3128157;9995;Q8;Q8;Beatrici Gian Piero;9995;Benzina;1.667;1;26/07/2025 08:39:44;Yellow
+4605991514;node;45.3562425;9.0226743;25186;IP;IP;Ip Services S.R.L.;25186;Benzina;1.679;1;01/08/2025 15:02:51;Yellow
+4610658966;node;45.5824181;9.1292979;24399;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;24399;Benzina;1.699;1;02/08/2025 06:00:50;Yellow
+4617254840;node;45.9726231;10.3195096;37635;Agip Eni;;Spatti Dario;37635;Benzina;1.689;1;01/08/2025 08:03:51;Yellow
+4632583176;node;46.4649011;10.3673201;7735;Eni;Eni;Fratelli Rinaldi Snc di Rinaldi Luigi e Paolo;7735;Benzina;1.779;1;02/08/2025 07:38:24;Yellow
+4641661332;node;46.5265413;10.1757452;9205;Eni;Eni;Parrocchia di Sant'Anna;9205;Benzina;1.284;1;30/07/2025 13:00:17;Green
+4644981206;node;46.5297024;10.1289903;24309;IP;IP;;24309;Benzina;1.29;1;31/07/2025 16:27:37;Green
+4686981586;node;45.5298418;10.2526454;38321;Esso;Esso;B & o di Biondi Michel Snc;38321;Benzina;1.729;1;23/07/2025 07:48:29;Yellow
+4690870739;node;45.4803370;9.1654750;11045;Eni;Eni;Beltrami Alessandro;11045;Benzina;1.789;1;02/08/2025 06:38:07;Yellow
 4690944200;node;44.9910050;9.3008073;33530;Keropetrol;;Braga Massimo;33530;Benzina;1.745;1;28/07/2025 09:49:10;Yellow
-4835476005;node;45.2035130;9.1706181;10332;IP;Api-Ip;Gestioni Europa - Società Per Azioni;10332;Benzina;1.719;1;01/08/2025 09:05:10;Green
-4880275593;node;45.2246930;9.2094233;32068;Pan Oil;;Ronzi Aldo;32068;Benzina;1.729;1;28/07/2025 08:08:44;Green
+4701160554;node;45.7973449;9.6694397;7195;Esso;;Sonzogni Pietro Francesco;7195;Benzina;1.659;1;01/08/2025 07:31:29;Yellow
+4729204441;node;45.5065684;9.0968506;24317;;MAS;Metano Per Auto Settimo Milanese M.A.S. S.R.L.;24317;Benzina;1.715;1;02/08/2025 06:08:05;Yellow
+4744972330;node;45.6938668;9.6906469;16570;Esso;IP;Cornago Severo;16570;Benzina;1.759;1;31/07/2025 17:08:25;Yellow
+4818247683;node;45.5149331;10.2508199;30943;Sia Fuel;;S.I.A. Engineering Construction S.r.l.;30943;Benzina;1.699;1;31/07/2025 17:11:30;Yellow
+4835476005;node;45.2035130;9.1706181;10332;IP;Api-Ip;Gestioni Europa - Società Per Azioni;10332;Benzina;1.719;1;01/08/2025 09:05:10;Yellow
+4849117698;node;45.4093951;9.4431406;19197;Q8;Q8;Ypsilon Service di Catella Claudio Carlo Domenico & C. S.N.C.;19197;Benzina;1.749;1;02/08/2025 08:03:26;Yellow
+4868534525;node;45.5315088;10.2959493;39758;Api-Ip;;Ip Services S.r.l.;39758;Benzina;1.639;1;01/08/2025 09:01:51;Yellow
+4880275593;node;45.2246930;9.2094233;32068;Pan Oil;;Ronzi Aldo;32068;Benzina;1.729;1;28/07/2025 08:08:44;Yellow
+4890052842;node;45.4829360;8.9762644;6435;Q8;Q8;Servizi & Gestioni Italia Srl;6435;Benzina;1.649;1;31/07/2025 01:05:44;Yellow
+4911943373;node;45.7623006;9.0077323;15713;IP;IP;;15713;Benzina;1.699;0;31/07/2025 13:07:14;Yellow
+4972248419;node;45.7501646;9.2858639;19226;Esso;Esso;Pelucchi Maria Enrica & C. S.A.S.;19226;Benzina;1.669;1;27/07/2025 15:59:27;Yellow
+4987710858;node;45.6150730;8.9043304;6460;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia Srl;6460;Benzina;1.639;1;31/07/2025 01:05:50;Yellow
+5015866421;node;45.6130983;9.1475887;18309;Moro;Moro;Cursio Maurizio;18309;Benzina;1.649;1;01/08/2025 11:48:52;Yellow
+5021187550;node;45.5939691;8.7706880;10115;Total Erg;TotalErg;Gestioni Europa - Società Per Azioni;10115;Benzina;1.699;1;01/08/2025 09:06:42;Yellow
+5028947048;node;45.6340244;9.1380581;7811;Q8;Q8;Saetti Mara;7811;Benzina;1.659;1;01/08/2025 08:14:22;Yellow
+5028991207;node;45.8198237;8.8397214;14688;Eni;Eni;Guizzardi Davide;14688;Benzina;1.709;1;02/08/2025 07:32:29;Yellow
+5034926642;node;45.6100279;8.9100650;25132;Eni;Eni;Gestioni Innovative Italia S.R.L.;25132;Benzina;1.694;1;01/08/2025 00:24:24;Yellow
+5038238198;node;45.6357143;8.8591138;27295;IP;IP;Ip Services S.R.L.;27295;Benzina;1.699;1;01/08/2025 15:01:27;Yellow
+5057176384;node;45.4297742;9.9847303;9285;;;Girelli Maria Teresa;9285;Benzina;1.668;1;02/08/2025 07:22:11;Yellow
+5062837959;node;45.4041608;8.9258334;37531;Q8;Q8;Servizi & Gestioni Italia S.R.L.;37531;Benzina;1.639;1;02/08/2025 01:07:11;Yellow
+5075334548;node;45.4008438;9.9167341;11524;Q8;;Servizi & Gestioni Italia S.R.L.;11524;Benzina;1.729;1;02/08/2025 07:06:20;Yellow
+5088680847;node;45.5065038;9.2591386;33504;IP;IP;Ti-Quattro T.4 Srl;33504;Benzina;1.779;1;28/07/2025 06:01:34;Yellow
+5104473993;node;45.3839723;9.3438624;41059;Total Erg;Total Erg;Coro S.R.L.;41059;Benzina;1.739;1;02/08/2025 00:08:23;Yellow
+5109413839;node;45.4854332;10.2811449;21407;Esso;;Singh Lakhvinder;21407;Benzina;1.659;1;28/07/2025 08:08:33;Yellow
 5145963869;node;44.8667960;9.2644734;29142;;;Distributore Carburante Corradi Matteo;29142;Benzina;1.799;1;28/07/2025 14:18:11;Yellow
+5160031233;node;45.5475498;9.4533916;34825;Moro;;Raco di Rantuccio Giuseppe e Conti Carluccio S.N.C.;34825;Benzina;1.669;1;02/08/2025 00:16:33;Yellow
+5171761964;node;46.2358093;10.3864608;10089;IP;IP;Priuli Alberto;10089;Benzina;1.789;1;02/08/2025 00:16:44;Yellow
+5216149557;node;45.5056891;9.3781855;12143;Eni;Eni;Vinpe Servizi S.P.A.;12143;Benzina;1.674;1;02/08/2025 06:36:04;Yellow
+5273410536;node;45.2770684;10.2162144;7257;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7257;Benzina;1.759;1;01/08/2025 08:04:10;Yellow
+5273410537;node;45.2682424;10.2115547;27400;Api-Ip;Reteitalia;Stazione di Servizio di Fusari Fabio e C. S.n.c.;27400;Benzina;1.769;1;28/07/2025 09:38:57;Yellow
+5274921114;node;45.6388912;8.8846350;34089;Retitalia;Retitalia;Sommese Carburante S.R.L.;34089;Benzina;1.699;1;02/08/2025 00:24:17;Yellow
+5284355686;node;45.8459369;9.3940558;29380;;Commerciale Paganoni;Commerciale Paganoni S.P.A.;29380;Benzina;1.655;1;02/08/2025 00:09:04;Yellow
+5289521632;node;45.5850468;9.1953126;7752;Q8;Q8;Stazione Servizio Q8 di Di Padova Francesco e Matteo S.N.C.;7752;Benzina;1.689;1;31/07/2025 07:17:08;Yellow
+5295715255;node;45.4339280;9.1919487;6427;Q8;Q8;Servizi & Gestioni Italia Srl;6427;Benzina;1.659;1;31/07/2025 01:05:43;Yellow
+5297328844;node;45.5105831;9.6365055;40166;Q8;Q8;Nuova Sidap S.R.L.;40166;Benzina;1.899;1;01/08/2025 14:54:00;Orange
+5297328845;node;45.5117065;9.6344209;40315;Q8;Q8;Adda Nord;40315;Benzina;1.899;1;27/07/2025 06:49:45;Orange
+5306490499;node;45.9425935;10.2808508;11987;IP;IP;Distributore Carburanti Chiminelli Mauro e C. S.n.c.;11987;Benzina;1.768;1;31/07/2025 07:27:02;Yellow
+5335327510;node;45.2895686;9.5307572;45418;Tamoil;Tamoil;T.M.D. S.R.L.;45418;Benzina;1.679;1;01/08/2025 12:09:33;Yellow
+5335369674;node;45.2902137;9.5290385;24811;Api-Ip;;Ip Services S.R.L.;24811;Benzina;1.689;1;01/08/2025 09:03:44;Yellow
+5336398878;node;45.5986734;8.8607962;22418;IP;IP;Marino Rocco;22418;Benzina;1.737;1;30/07/2025 13:43:21;Yellow
+5338532923;node;45.5204599;9.9849902;18020;Q8;Q8;G.F. di Bonetti Giacomo & Domi Francesco Società in Nome Collettivo;18020;Benzina;1.699;1;30/07/2025 08:04:06;Yellow
+5345966204;node;45.2822809;9.5360915;11625;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11625;Benzina;1.669;1;02/08/2025 01:07:10;Yellow
+5347559612;node;45.4386080;9.1528299;19310;TotalErg;TotalErg;Zamperlin Angelo;19310;Benzina;1.699;1;26/07/2025 07:33:46;Yellow
+5347559619;node;45.4383895;9.1530773;14653;Eni;Eni;Cali' Marco;14653;Benzina;1.699;1;02/08/2025 07:38:23;Yellow
+5362479099;node;45.3074415;9.4100624;21394;Esso;;F.lli Sali di Sali Gianfranco e C. S.A.S.;21394;Benzina;1.719;1;01/08/2025 07:18:17;Yellow
+5413280439;node;45.1423277;10.0591425;11567;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11567;Benzina;1.669;1;02/08/2025 07:06:18;Yellow
+5429394530;node;45.8071860;10.0343786;5506;Eni;Eni;Eni Fuel S.P.A.;5506;Benzina;1.699;1;02/08/2025 00:16:55;Yellow
+5482133575;node;45.3977705;9.3243706;11679;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11679;Benzina;1.729;1;02/08/2025 01:07:11;Yellow
+5484597137;node;45.4458812;9.1597977;11661;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11661;Benzina;1.719;1;02/08/2025 07:06:15;Yellow
+5503260594;node;45.3224860;9.1871151;22415;Eni;Eni;Sirtam S.R.L.;22415;Benzina;1.679;1;31/07/2025 09:30:44;Yellow
+5571747241;node;45.4592229;9.1506752;28932;Q8;Q8;Servizi & Gestioni Italia S.R.L.;28932;Benzina;1.719;1;02/08/2025 07:06:15;Yellow
+5583808614;node;46.1445579;9.5390155;8239;;EuroGas;Eurogas S.R.L.;8239;Benzina;1.669;1;02/08/2025 08:02:17;Yellow
+5585032898;node;45.5530812;9.2095953;8744;IP;IP;Calogero Luca;8744;Benzina;1.649;1;01/08/2025 08:27:12;Yellow
+5595857367;node;45.8887610;10.1837844;12168;Api-Ip;;Tagliaferri Anna;12168;Benzina;1.699;1;26/07/2025 07:23:55;Yellow
+5599128592;node;45.5592545;9.2118216;6434;Q8;Q8;Servizi & Gestioni Italia Srl;6434;Benzina;1.639;1;02/08/2025 01:07:10;Yellow
+5600004125;node;45.6404740;9.1575873;32483;Q8;Q8;Servizi & Gestioni Italia S.R.L.;32483;Benzina;1.629;1;01/08/2025 14:05:04;Yellow
+5621764539;node;45.5033942;9.6276631;5647;Eni;Eni;Angelo Valaperta & C S.N.C.;5647;Benzina;1.679;1;02/08/2025 07:14:17;Yellow
+5673026570;node;45.5071679;9.6432012;13708;Ernesto Rondini;Ernesto Rondini prodotti petroliferi;Ernesto Rondini S.R.L.;13708;Benzina;1.649;1;01/08/2025 12:29:29;Yellow
+5673031088;node;45.4820023;9.6813127;12506;Ernesto Rondini;Ernesto Rondini prodotti petroliferi;Aresi Mattia e C. S.N.C.;12506;Benzina;1.659;1;31/07/2025 09:37:51;Yellow
+5777598643;node;45.4546454;9.1527285;16409;Eni;Eni;Denise Francesco;16409;Benzina;1.709;1;02/08/2025 07:04:29;Yellow
+5851830545;node;45.4598744;10.5738553;9900;IP;IP;Fuel Garage S.n.c. di Dal Santo Omar e Gamba Morris;9900;Benzina;1.86;1;01/08/2025 17:18:17;Orange
+5851831045;node;45.5394408;10.3838418;9117;Q8;;Servizi & Gestioni Italia S.r.l.;9117;Benzina;1.699;1;30/07/2025 01:07:54;Yellow
+5851831073;node;45.1306015;10.0455388;8855;IP;IP;Grassi Emilio;8855;Benzina;1.886;0;30/07/2025 14:33:31;Orange
+5851831296;node;45.5715014;9.6122995;8625;Tamoil;;M.B. di Medica Marco & C. Snc;8625;Benzina;1.629;1;01/08/2025 15:12:11;Yellow
 5851831313;node;45.3138850;9.0242722;8408;Eni;Eni;Bonizzoni S.N.C. di Bonizzoni Marco e C.;8408;Benzina;1.749;1;02/08/2025 07:26:15;Yellow
-5851831517;node;45.3089377;9.0164478;6454;Q8;Q8;Servizi & Gestioni Italia Srl;6454;Benzina;1.669;1;02/08/2025 01:07:14;Green
-5851834988;node;45.2102344;9.3528253;37247;Tamoil;Tamoil;T.D.M. S.R.L.;37247;Benzina;1.689;1;01/08/2025 12:09:00;Green
-5851835031;node;45.1726237;9.3162332;36918;Europam;;Europam S.P.A.;36918;Benzina;1.697;1;01/08/2025 15:20:57;Green
-5851837555;node;45.1505917;9.1202134;31524;Vega Carburanti;Vega Carburanti;Vega Carburanti S.P.A.;31524;Benzina;1.699;1;30/07/2025 21:31:34;Green
-5851842790;node;44.9991188;9.0219094;22647;Esso;Esso;Pisello Giuseppe Fabrizio;22647;Benzina;1.639;1;30/07/2025 10:07:02;Green
+5851831315;node;45.5834993;9.4091892;8387;Api-Ip;;Paini Arnaldo;8387;Benzina;1.659;1;31/07/2025 13:38:16;Yellow
+5851831322;node;45.7328274;8.8321440;8319;Esso;Esso;Malnati Riganti & C. S.N.C.;8319;Benzina;1.756;1;02/08/2025 07:36:29;Yellow
+5851831348;node;45.1303534;10.0461340;7941;Tamoil;Tamoil;Singh Gurmail;7941;Benzina;1.669;1;02/08/2025 07:28:07;Yellow
+5851831360;node;45.8573703;10.1578249;7849;Q8;;Sirtec Work S.r.l.;7849;Benzina;1.699;0;27/07/2025 05:45:30;Yellow
+5851831365;node;46.3130570;9.3970696;7776;Agip Eni;;Stabile Giovanni;7776;Benzina;1.714;1;02/08/2025 07:02:10;Yellow
+5851831370;node;45.3180623;10.3697687;7682;Agip Eni;;Capelli Ettore;7682;Benzina;1.728;1;29/07/2025 08:49:18;Yellow
+5851831410;node;45.3158451;10.1130222;7290;Q8;;Servizi & Gestioni Italia S.R.L.;7290;Benzina;1.679;1;02/08/2025 01:07:16;Yellow
+5851831411;node;45.4896317;10.2768092;7258;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.r.l.;7258;Benzina;1.659;1;31/07/2025 01:05:51;Yellow
+5851831512;node;44.9332529;10.5356241;6519;Q8;;Servizi & Gestioni Italia Srl;6519;Benzina;1.689;1;01/08/2025 01:36:48;Yellow
+5851831517;node;45.3089377;9.0164478;6454;Q8;Q8;Servizi & Gestioni Italia Srl;6454;Benzina;1.669;1;02/08/2025 01:07:14;Yellow
+5851831518;node;45.5953377;9.1325899;6450;Q8;Q8;Servizi & Gestioni Italia Srl;6450;Benzina;1.669;1;02/08/2025 01:07:13;Yellow
+5851831519;node;45.5469764;9.1441758;6447;Q8;Q8;Servizi & Gestioni Italia Srl;6447;Benzina;1.669;1;30/07/2025 01:05:29;Yellow
+5851831520;node;45.8215739;9.6735106;6426;Q8;;Servizi & Gestioni Italia Srl;6426;Benzina;1.649;1;29/07/2025 01:05:43;Yellow
+5851831521;node;45.6641253;9.8210291;6423;Q8;;Servizi & Gestioni Italia Srl;6423;Benzina;1.658;1;30/07/2025 01:05:22;Yellow
+5851831525;node;45.8868798;10.1819694;6348;Tamoil;;Zenia & Giusy S.N.C. di Signorini Zenia & Ribola Giuseppina;6348;Benzina;1.709;1;02/08/2025 07:32:18;Yellow
+5851831542;node;45.4026422;9.6270812;6150;Tamoil;Tamoil;Bossi Roberta e Bossi Graziano Giuseppe - Snc;6150;Benzina;1.699;1;01/08/2025 08:42:09;Yellow
+5851831549;node;45.5243162;9.6037325;41808;IP;IP;Mazzelli Michela;41808;Benzina;1.669;1;01/08/2025 07:07:22;Yellow
+5851831570;node;45.0016704;11.0712423;5652;Loro;;Loro F.lli-S.P.A.;5652;Benzina;1.659;1;30/07/2025 11:12:16;Yellow
+5851831582;node;45.6716430;9.6012220;5519;Total Erg;;Gestioni Europa S.P.A.;5519;Benzina;1.619;1;01/08/2025 09:05:24;Yellow
+5851831619;node;45.6322994;9.5980328;4645;Esso;Esso;Nuova Sidap S.R.L.;4645;Benzina;1.822;1;01/08/2025 17:30:09;Yellow
+5851831649;node;45.0369540;11.0417459;41232;Loro;;Loro F.lli-S.P.A.;41232;Benzina;1.699;1;27/07/2025 09:00:52;Yellow
+5851831663;node;45.4589159;10.4163085;41144;Total Erg;;Spillare Alberto;41144;Benzina;1.689;1;30/07/2025 08:11:15;Yellow
+5851831906;node;45.0462550;11.1815487;40925;Tamoil;Tamoil;T.D.M. S.R.L.;40925;Benzina;1.669;1;01/08/2025 12:12:05;Yellow
+5851831951;node;45.6577116;10.4213483;40597;Sia fuel;;S.I.A. Engineering Construction S.R.L.;40597;Benzina;1.739;1;31/07/2025 17:05:13;Yellow
+5851832188;node;44.9945286;10.8603474;40369;Retitalia;;Retitalia S.P.A.;40369;Benzina;1.759;1;01/08/2025 11:04:59;Yellow
+5851832200;node;45.4709921;9.2537901;41548;Q8;;Green Fuel Company S.p.A.;41548;Benzina;1.799;1;29/07/2025 16:05:35;Yellow
+5851832927;node;45.3696745;9.2133451;39523;Enercoop;Enercoop;Coop Lombardia Società Cooperativa;39523;Benzina;1.649;1;01/08/2025 14:04:45;Yellow
+5851832948;node;45.3156335;9.9931224;39367;Total Erg;;Salbed-S.R.L.;39367;Benzina;1.759;1;29/07/2025 18:17:22;Yellow
+5851833424;node;44.9924152;11.0052947;38887;Tamoil;;T.D.M. S.R.L.;38887;Benzina;1.689;1;01/08/2025 12:08:43;Yellow
+5851833426;node;45.0506416;10.5503102;38876;Tamoil;Tamoil;T.D.M. S.R.L.;38876;Benzina;1.669;1;01/08/2025 12:08:29;Yellow
+5851834072;node;45.3970403;9.4861820;38152;Tamoil;Tamoil;Chizzoli Giampiero - Stazione di Servizio Tamoil;38152;Benzina;1.669;1;02/08/2025 08:12:08;Yellow
+5851834081;node;45.6453287;9.7076681;38075;IP;IP;Gestioni Europa - Società Per Azioni;38075;Benzina;1.619;1;01/08/2025 09:04:36;Yellow
+5851834911;node;45.4498626;9.9203070;37837;Agip Eni;Tamoil;Saini Srl;37837;Benzina;1.669;1;01/08/2025 09:05:04;Yellow
+5851834927;node;45.5779000;9.8583017;37720;Total Erg;;Barbieri Roberto;37720;Benzina;1.709;1;02/08/2025 06:26:20;Yellow
+5851834988;node;45.2102344;9.3528253;37247;Tamoil;Tamoil;T.D.M. S.R.L.;37247;Benzina;1.689;1;01/08/2025 12:09:00;Yellow
+5851835031;node;45.1726237;9.3162332;36918;Europam;;Europam S.P.A.;36918;Benzina;1.697;1;01/08/2025 15:20:57;Yellow
+5851835218;node;45.1650076;10.1707730;36490;Keropetrol;;Keropetrol S.P.A.;36490;Benzina;1.719;1;02/08/2025 05:55:38;Yellow
+5851835255;node;45.6055959;9.4549450;36259;IP;IP;Ip Services S.R.L.;36259;Benzina;1.699;1;01/08/2025 15:02:49;Yellow
+5851836025;node;45.5953287;9.0956417;35748;Tamoil;Tamoil;Gallucci Sabrina;35748;Benzina;1.679;1;01/08/2025 18:52:16;Yellow
+5851836039;node;45.5288546;10.3716288;35686;Esso;;Castellano Leonardo;35686;Benzina;1.729;1;30/07/2025 09:10:35;Yellow
+5851836425;node;45.5194321;9.4486013;35216;Total Erg;;Gestioni Europa - Società Per Azioni;35216;Benzina;1.689;1;01/08/2025 09:04:40;Yellow
+5851836785;node;45.7140856;9.5608594;34929;Enercoop;;Coop Lombardia Società Cooperativa;34929;Benzina;1.639;1;01/08/2025 14:04:39;Yellow
+5851837099;node;45.4033802;9.5409750;34072;Api-Ip;TotalErg;Khatra Manpreet Kaur;34072;Benzina;1.699;1;01/08/2025 18:19:35;Yellow
+5851837169;node;45.5824101;9.6172522;33478;Q8;;Servizi & Gestioni Italia S.R.L.;33478;Benzina;1.619;1;02/08/2025 01:07:09;Yellow
+5851837175;node;45.6529296;9.8413634;33433;Sia Fuel;;S.I.A. Engineering Construction S.R.L.;33433;Benzina;1.709;1;31/07/2025 17:03:06;Yellow
+5851837185;node;46.4042398;9.3530073;33344;Retitalia;;Tunnel di Guanella Valeria;33344;Benzina;1.895;0;28/07/2025 07:23:52;Orange
+5851837207;node;45.8508734;8.7065397;44426;Sommese;Sommese;Sommese Carburante S.R.L.;44426;Benzina;1.667;1;02/08/2025 01:10:09;Yellow
+5851837239;node;45.6133419;9.1607271;32972;Tamoil;Tamoil;Servizi e Gestioni Zenit S.R.L. In Sigla - Zenit S.R.L.;32972;Benzina;1.659;1;02/08/2025 06:00:46;Yellow
+5851837243;node;45.5888948;9.7493657;32949;;;Ip Services S.R.L.;32949;Benzina;1.699;1;01/08/2025 09:03:49;Yellow
+5851837344;node;45.3264691;10.5200897;32385;Sia Fuel;;S.I.A. Engineering Construction S.R.L.;32385;Benzina;1.739;1;31/07/2025 17:14:39;Yellow
+5851837354;node;45.5410976;8.9517027;32343;Repsol;;Cornaredo Carburanti S.R.L.;32343;Benzina;1.699;1;01/08/2025 10:32:25;Yellow
+5851837372;node;45.1298150;10.0364808;32229;Tamoil;Tamoil;T.D.M. S.R.L.;32229;Benzina;1.649;1;01/08/2025 12:31:17;Yellow
+5851837546;node;45.4170528;10.3875276;31611;Total Erg;;Gestioni Europa S.p.A.;31611;Benzina;1.709;1;01/08/2025 09:05:03;Yellow
+5851837549;node;45.1317395;10.0430095;31572;Eni;Eni;R.B. Station di Boccu' Riccardo;31572;Benzina;1.699;1;02/08/2025 07:10:21;Yellow
+5851837555;node;45.1505917;9.1202134;31524;Vega Carburanti;Vega Carburanti;Vega Carburanti S.P.A.;31524;Benzina;1.699;1;30/07/2025 21:31:34;Yellow
+5851837575;node;45.5138674;9.9806446;31398;Esso;;Ferremi Battista - Società Per Azioni;31398;Benzina;1.699;1;31/07/2025 08:14:41;Yellow
+5851837589;node;45.4003160;10.2718759;31281;Api-Ip;;Ip Services S.R.L.;31281;Benzina;1.699;1;01/08/2025 09:01:46;Yellow
+5851837608;node;45.3979434;9.2533328;31161;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in sigla - Zenit S.R.L.;31161;Benzina;1.758;1;02/08/2025 06:00:52;Yellow
+5851837740;node;44.9556835;10.8153575;30184;IP;ip;Ip Services S.R.L.;30184;Benzina;1.659;1;01/08/2025 09:04:45;Yellow
+5851837889;node;45.6463962;9.3826276;29922;Api-Ip;;Ip Services S.R.L.;29922;Benzina;1.679;1;01/08/2025 09:03:03;Yellow
+5851837899;node;45.6977519;9.9463854;29869;Api-Ip;;Fieni Pierluigi;29869;Benzina;1.707;1;31/07/2025 08:46:20;Yellow
+5851837901;node;45.4049357;10.4632155;29851;Sia Fuel;;S.I.A. Engineering Construction S.R.L.;29851;Benzina;1.699;1;31/07/2025 17:08:46;Yellow
+5851837940;node;45.1370302;10.8634669;29545;Agip Eni;;Eni Station Risto & Bar di Sternieri Mario;29545;Benzina;1.759;1;02/08/2025 00:22:52;Yellow
+5851837947;node;45.1118683;9.8612239;29485;Europam;Europam;Europam S.P.A.;29485;Benzina;1.657;1;31/07/2025 12:00:23;Yellow
+5851837950;node;45.7069484;8.7957644;29438;Keropetrol;Keropetrol;Turri Veronica;29438;Benzina;1.699;1;30/07/2025 01:13:44;Yellow
+5851838409;node;45.4541319;10.1986069;28971;Sia Fuel;;S.I.A. Engineering Construction S.r.l.;28971;Benzina;1.679;1;31/07/2025 17:11:02;Yellow
+5851838454;node;45.5591746;9.1311447;28598;Esso;;Servizi e Gestioni Zenit S.R.L. In Sigla - Zenit S.R.L.;28598;Benzina;1.699;1;02/08/2025 06:00:52;Yellow
+5851838904;node;45.4448448;9.5495673;28236;Api-Ip;;Petrol Tober S.R.L.;28236;Benzina;1.769;1;31/07/2025 16:50:24;Yellow
+5851838951;node;45.1530068;10.0381206;27842;Eni;Eni;Gestioni Innovative Italia S.R.L.;27842;Benzina;1.689;1;02/08/2025 00:20:09;Yellow
+5851838955;node;45.5978917;10.0691763;27814;Q8;;Lube S.N.C. di Berveglieri Luca & C.;27814;Benzina;1.699;1;01/08/2025 11:10:59;Yellow
+5851838975;node;45.6045637;9.9628290;27623;Q8;Q8;Mauro Lorenzo Rinaldi;27623;Benzina;1.739;1;02/08/2025 08:20:48;Yellow
+5851839893;node;45.7496771;9.9084180;27518;Esso;;Valenti Giuseppe;27518;Benzina;1.709;0;28/07/2025 08:29:35;Yellow
+5851839936;node;45.1438382;9.9949676;27228;Tamoil;Tamoil;T.D.M. S.R.L.;27228;Benzina;1.679;1;01/08/2025 12:22:50;Yellow
+5851839949;node;45.5501365;10.1362880;27165;Tamoil;Tamoil;T.D.M. S.r.l.;27165;Benzina;1.669;1;01/08/2025 09:48:02;Yellow
+5851839965;node;45.5408441;9.2224925;27082;Oil One;;Acema S.P.A.;27082;Benzina;1.648;1;02/08/2025 00:13:10;Yellow
+5851840896;node;45.3806301;10.5010366;26863;Agip Eni;;Eni Fuel S.P.A.;26863;Benzina;1.769;1;02/08/2025 00:23:36;Yellow
+5851840932;node;45.5023376;10.3518120;26469;Esso;;Singh Lakhvinder;26469;Benzina;1.659;1;28/07/2025 08:12:08;Yellow
+5851840963;node;45.4322310;9.9901289;26153;Sia Fuel;;S.I.A. Engineering Construction S.R.L.;26153;Benzina;1.685;1;31/07/2025 11:12:34;Yellow
+5851841537;node;45.5098009;10.3967799;25446;Q8;Q8;Servizi & Gestioni Italia S.R.L.;25446;Benzina;1.689;1;02/08/2025 01:07:15;Yellow
+5851841541;node;45.6092497;9.0931762;25413;Tamoil;Tamoil;Artico & Palazzi S.N.C. di Artico Nicholas;25413;Benzina;1.679;1;01/08/2025 15:06:18;Yellow
+5851841568;node;45.5314596;9.7051093;46786;Ernesto Rondini;;Ernesto Rondini S.R.L.;46786;Benzina;1.649;1;01/08/2025 12:32:52;Yellow
+5851841880;node;45.2205389;9.8714599;24162;Api-Ip;;Betti Fabio;24162;Benzina;1.609;1;29/07/2025 08:12:23;Yellow
+5851842341;node;45.2569924;10.0749598;23118;Api-Ip;;Ip Services S.R.L.;23118;Benzina;1.679;1;01/08/2025 09:01:46;Yellow
+5851842343;node;46.1746143;9.6779447;23111;IP;IP;Codazzi Roberto;23111;Benzina;1.699;1;27/07/2025 22:23:56;Yellow
+5851842344;node;45.9429900;9.4629962;23107;Total Erg;;Molteni Mario Enrico;23107;Benzina;1.709;1;28/07/2025 14:37:25;Yellow
+5851842381;node;45.4863839;10.3227094;22794;Agip Eni;;Serenissima Trading S.p.A.;22794;Benzina;1.659;1;31/07/2025 15:08:26;Yellow
+5851842521;node;45.7386686;9.4215175;23790;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23790;Benzina;1.699;1;31/07/2025 07:38:31;Yellow
+5851842790;node;44.9991188;9.0219094;22647;Esso;Esso;Pisello Giuseppe Fabrizio;22647;Benzina;1.639;1;30/07/2025 10:07:02;Yellow
 5851842812;node;45.2620871;8.8548612;22393;Tamoil;;F.lli Zerbi di Zerbi Davide e Zerbi Cesare S.N.C.;22393;Benzina;1.829;0;30/07/2025 00:03:30;Yellow
-5851844637;node;45.1976820;9.3184280;15103;Api-Ip;;Capelletti Maurizio;15103;Benzina;1.699;1;02/08/2025 07:36:52;Green
+5851842844;node;45.4636595;10.4711978;22121;Tamoil;;Ieva Emanuele;22121;Benzina;1.659;1;02/08/2025 07:38:16;Yellow
+5851842848;node;45.4651371;10.6052732;22097;Q8 Easy;Q8easy;Servizi & Gestioni Italia S.R.L.;22097;Benzina;1.719;1;02/08/2025 01:07:15;Yellow
+5851842870;node;46.1529846;9.4575334;21898;Tamoil;;Prati Cristina;21898;Benzina;1.659;1;01/08/2025 12:40:53;Yellow
+5851842879;node;45.5791665;9.7605318;21834;Total Erg;;Lefosse Francesco;21834;Benzina;1.699;1;31/07/2025 10:10:04;Yellow
+5851843007;node;45.6775987;9.7311292;21602;Q8;Q8;Bentoglio e Rossi - S.N.C.;21602;Benzina;1.729;1;30/07/2025 09:59:05;Yellow
+5851843026;node;45.3280441;10.0763331;21440;Api-Ip;;Oil Invest 2000 S.r.l.;21440;Benzina;1.739;1;02/08/2025 07:44:11;Yellow
+5851843072;node;45.0672994;11.1413111;20881;Esso;;Stazione di Servizio Abetone Brennero Est S.N.C. di Compri Sergio Carletto Isabella Ambrosi Amedeo Luigi;20881;Benzina;1.699;1;01/08/2025 07:58:41;Yellow
+5851843138;node;45.0794820;10.3552131;20230;Total Erg;;Azzoni Serena;20230;Benzina;1.699;1;01/08/2025 18:17:58;Yellow
+5851843172;node;45.3724022;10.4206623;19916;Agip Eni;;Nicoli Maurizio;19916;Benzina;1.764;1;02/08/2025 06:56:20;Yellow
+5851843175;node;45.9535773;10.2969407;19864;Retitalia;;Fedriga Vittorio;19864;Benzina;1.679;1;28/07/2025 17:07:10;Yellow
+5851843178;node;45.6845597;9.7664648;19834;Ies;;Martinelli Daniele;19834;Benzina;1.729;1;01/08/2025 19:37:31;Yellow
+5851843310;node;45.8594133;8.8568087;19572;Agip Eni;;Redaelli Roberto;19572;Benzina;1.709;1;02/08/2025 07:08:11;Yellow
+5851843603;node;45.5621222;9.9856040;18326;Agip Eni;;Navoni Giorgio;18326;Benzina;1.709;1;02/08/2025 07:46:08;Yellow
+5851843617;node;45.2612077;10.5741973;18142;Agip Eni;;Ercoli Gilberto;18142;Benzina;1.769;1;02/08/2025 07:28:11;Yellow
+5851843667;node;45.1538433;10.6544115;17590;Tamoil;;Asinari Luca;17590;Benzina;1.679;1;02/08/2025 07:08:19;Yellow
+5851843918;node;45.0604775;10.7553879;16998;IP;IP;;16998;Benzina;1.679;0;30/07/2025 14:56:27;Yellow
+5851844338;node;45.1070770;10.4772683;15965;Api-Ip;;Calor Systems S.P.A.;15965;Benzina;1.779;1;02/08/2025 08:15:50;Yellow
+5851844343;node;45.0587290;10.1900446;15911;Keropetrol;;Keropetrol S.P.A.;15911;Benzina;1.679;1;02/08/2025 05:55:31;Yellow
+5851844344;node;45.1290927;10.0219386;15908;IP;IP;Calor Systems S.P.A.;15908;Benzina;1.679;1;01/08/2025 15:32:21;Yellow
+5851844348;node;45.5220461;9.7553377;15873;IP;IP;Calor Systems S.P.A.;15873;Benzina;1.719;1;01/08/2025 15:25:08;Yellow
+5851844357;node;45.6513226;9.4632760;15828;Tamoil;;Autoservice di Giovanni D'Aloia S.A.S.;15828;Benzina;1.679;1;01/08/2025 15:05:05;Yellow
+5851844359;node;45.1812063;10.9013981;15823;Keropetrol;Keropetrol;;15823;Benzina;1.679;1;02/08/2025 05:55:06;Yellow
+5851844596;node;45.8207984;8.7472120;15477;Total Erg;;Marreddu Stefano;15477;Benzina;1.899;0;29/07/2025 15:53:05;Orange
+5851844618;node;45.8244060;10.0277281;15305;Retitalia;Retitalia;;15305;Benzina;1.749;1;30/07/2025 08:47:47;Yellow
+5851844623;node;45.7047512;9.6058488;15255;Q8;Q8;C.T. S.N.C. di Coffetti Giorgio & C.;15255;Benzina;1.659;1;28/07/2025 06:52:44;Yellow
+5851844637;node;45.1976820;9.3184280;15103;Api-Ip;;Capelletti Maurizio;15103;Benzina;1.699;1;02/08/2025 07:36:52;Yellow
+5851844665;node;45.5723330;10.1342708;14829;Agip Eni;;Lu.Da. Service di Bignotti Leonardo & C. S.a.s.;14829;Benzina;1.729;1;02/08/2025 00:16:05;Yellow
+5851844667;node;45.3329592;10.0433011;14826;Api-Ip;;O.M.A. Service S.n.c. di Martiri Luca & C.;14826;Benzina;1.724;1;02/08/2025 07:11:50;Yellow
+5851844672;node;45.8205943;10.4672588;14785;Esso;;Sueri Roberto;14785;Benzina;1.799;1;31/07/2025 11:19:07;Yellow
+5851844917;node;45.5913461;9.7681761;14315;Tamoil;;4Erre di Rossoni Giancarlo & C. S.N.C.;14315;Benzina;1.679;1;02/08/2025 06:36:04;Yellow
+5851845202;node;45.9607781;9.9265525;13727;Shell;;;13727;Benzina;1.729;1;31/07/2025 18:34:49;Yellow
+5851845211;node;45.5641049;10.3710790;13679;Total Erg;;Zanetti Fabrizio;13679;Benzina;1.679;0;01/08/2025 07:11:29;Yellow
 5851845218;node;45.2796031;8.6042503;13643;Eni;Eni;Ferrari Claudio;13643;Benzina;1.759;1;02/08/2025 07:40:15;Yellow
-5851845661;node;45.0603024;9.3031321;10565;Q8;;F.lli Cassi di Cassi Maurizio Antonio e Cassi Gabriele Marco S.N.C.;10565;Benzina;1.709;1;01/08/2025 08:01:19;Green
-5853342997;node;45.2308335;9.0758369;9004;Indipendente;Indipendente;Ambrogio Moro S.P.A.;9004;Benzina;1.679;1;02/08/2025 00:19:32;Green
-5853343452;node;45.2062936;9.0118841;37442;;;Verri Cristiano;37442;Benzina;1.725;1;29/07/2025 19:10:39;Green
-28411635;way;45.2008877;9.1943867;31522;Vega;Vega;Vega Carburanti S.P.A.;31522;Benzina;1.709;1;30/07/2025 21:29:23;Green
-1068903167;way;45.2637249;8.7611921;29254;;;Dam Sas Carburanti di Cutrona G. e C.;29254;Benzina;1.649;1;02/08/2025 05:32:10;Green
+5851845262;node;45.4273230;9.3718824;13327;Agip Eni;;Spoldi S.A.S. di Spoldi Raffaele & C.;13327;Benzina;1.729;1;02/08/2025 07:02:40;Yellow
+5851845284;node;45.1003298;10.4933118;13156;Agip Eni;;Spezia Marco;13156;Benzina;1.729;1;02/08/2025 00:23:42;Yellow
+5851845342;node;45.6718718;9.6370375;12534;Agip Eni;;Cosma Fabrizio;12534;Benzina;1.739;1;02/08/2025 08:22:08;Yellow
+5851845346;node;45.1715788;9.9128663;12497;Keropetrol;;Visigalli Stefania;12497;Benzina;1.739;1;01/08/2025 08:56:19;Yellow
+5851845384;node;45.6061436;9.8074829;12141;IP;IP;D.M. Carburanti di Maestri Danny;12141;Benzina;1.679;1;28/07/2025 10:25:40;Yellow
+5851845494;node;45.5450852;9.1301149;12069;Esso;;Servizi e Gestioni Zenit S.R.L. In Sigla - Zenit S.R.L.;12069;Benzina;1.709;1;02/08/2025 06:00:51;Yellow
+5851845495;node;45.7902152;9.4170089;12057;Esso;Esso;Servizi e Gestioni Zenit S.R.L. In Sigla - Zenit S.R.L.;12057;Benzina;1.689;1;02/08/2025 06:00:40;Yellow
+5851845537;node;45.3950582;10.4759931;11718;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11718;Benzina;1.699;1;01/08/2025 07:06:53;Yellow
+5851845538;node;45.0056421;11.2881826;11717;Q8;;Servizi & Gestioni Italia S.R.L.;11717;Benzina;1.719;1;01/08/2025 08:04:12;Yellow
+5851845544;node;45.4003430;9.5601629;11571;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11571;Benzina;1.669;1;02/08/2025 07:06:19;Yellow
+5851845545;node;45.7645529;9.2055831;11566;Q8;Q8;Servizi & Gestioni Italia Srl;11566;Benzina;1.659;1;01/08/2025 01:36:32;Yellow
+5851845546;node;45.7377502;9.1372161;11561;Q8;;Servizi & Gestioni Italia S.R.L.;11561;Benzina;1.674;1;29/07/2025 07:40:19;Yellow
+5851845556;node;45.6212925;9.5485678;11495;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11495;Benzina;1.659;1;02/08/2025 07:06:17;Yellow
+5851845567;node;45.4795350;10.3904617;11401;Agip Eni;;Capponi Pierangelo;11401;Benzina;1.699;1;02/08/2025 07:00:06;Yellow
+5851845580;node;45.6908438;9.5620042;11306;Esso;;All Car Service S.N.C. Dei F.lli Sana;11306;Benzina;1.669;1;02/08/2025 07:54:27;Yellow
+5851845609;node;45.6111900;8.9400210;11118;Agip Eni;;Vele S.A.S. di Verduci Antonino & Cc;11118;Benzina;1.699;1;02/08/2025 07:58:11;Yellow
+5851845637;node;45.6457631;8.7933117;10817;Agip Eni;;C.R. S.N.C. di Candiani Simone & Ravasi Paolo;10817;Benzina;1.744;1;02/08/2025 07:08:15;Yellow
+5851845640;node;45.7803380;9.6202796;10798;TotalErg;TotalErg;Zanetti Omar;10798;Benzina;1.679;1;02/08/2025 08:18:45;Yellow
+5851845657;node;46.0817779;10.3656569;10607;Tamoil;Tamoil;Mion Pier Giorgio;10607;Benzina;1.899;1;02/08/2025 08:12:33;Orange
+5851845661;node;45.0603024;9.3031321;10565;Q8;;F.lli Cassi di Cassi Maurizio Antonio e Cassi Gabriele Marco S.N.C.;10565;Benzina;1.709;1;01/08/2025 08:01:19;Yellow
+5851845670;node;45.6161289;9.3127289;10398;Eni;Eni;Ilmappa di Mapelli Marco;10398;Benzina;1.729;1;02/08/2025 06:52:03;Yellow
+5851845677;node;45.6820953;9.7897060;10304;IP;IP;Stazione Servizio Erg - Bar Autolavaggio 24H di Patelli Annamaria & C. S.N.C.;10304;Benzina;1.669;1;01/08/2025 15:46:54;Yellow
+5851845688;node;45.4179610;10.3851704;10208;Q8;;Pasini Marco;10208;Benzina;1.699;1;31/07/2025 10:19:34;Yellow
+5853342997;node;45.2308335;9.0758369;9004;Indipendente;Indipendente;Ambrogio Moro S.P.A.;9004;Benzina;1.679;1;02/08/2025 00:19:32;Yellow
+5853343009;node;44.9955277;10.4174125;8345;;Ariete;Sarzi Sartori Gianfranco & C. S.N.C.;8345;Benzina;1.679;1;29/07/2025 16:37:43;Yellow
+5853343013;node;45.5850999;8.7609940;7787;;;Staz. di Serv. Fina A. Brusatori di Pasquato Franco;7787;Benzina;1.699;1;30/07/2025 20:04:29;Yellow
+5853343038;node;45.5404235;9.6396232;5266;;MPM;Mpm Service S.R.L.;5266;Benzina;1.645;1;02/08/2025 06:35:01;Yellow
+5853343043;node;45.3529478;9.0707266;4984;;;Procogen S.R.L.;4984;Benzina;1.668;1;29/07/2025 22:00:05;Yellow
+5853343375;node;45.6050498;8.9018172;43583;;;Grandi Magazzini e Supermercati Il Gigante S.P.A.;43583;Benzina;1.629;1;01/08/2025 18:47:26;Yellow
+5853343399;node;46.2689750;9.8663852;38814;GP;;Venzi Giuseppe;38814;Benzina;1.709;1;29/07/2025 15:10:10;Yellow
+5853343452;node;45.2062936;9.0118841;37442;;;Verri Cristiano;37442;Benzina;1.725;1;29/07/2025 19:10:39;Yellow
+5853343477;node;45.7335797;9.9078047;36913;;;Martina 77 S.R.L.;36913;Benzina;1.679;1;31/07/2025 15:08:33;Yellow
+5853343572;node;45.8829612;9.9606273;35106;;;Scandella Andrea S.R.L.;35106;Benzina;1.689;1;01/08/2025 07:18:27;Yellow
+5853343858;node;46.1554144;9.8065980;33445;;;So.Ge. - Sondrio Gestioni - Società a Responsabilità Limitata;33445;Benzina;1.675;1;01/08/2025 10:54:12;Yellow
+5853343876;node;45.6764819;9.7314513;32952;;;Af Petrol S.R.L.;32952;Benzina;1.608;1;02/08/2025 00:17:22;Yellow
+5853344055;node;45.5552221;10.0801338;17099;;;Bignotti Luciano;17099;Benzina;1.723;1;25/07/2025 10:41:59;Yellow
+5853344169;node;45.5003545;9.1397056;29891;;;Meola Chiara Maria;29891;Benzina;1.659;1;28/07/2025 07:42:21;Yellow
+5853344179;node;44.9854860;10.5716425;29502;;;Fiorasi & Gnaccarini S.R.L.;29502;Benzina;1.68;1;28/07/2025 08:10:03;Yellow
+5853344313;node;45.5791543;9.0587439;28454;;EKO Point;C- Petrol S.R.L.;28454;Benzina;1.668;1;02/08/2025 08:08:11;Yellow
+5853344397;node;45.1522684;10.7242113;25784;;il gigante;Rialto S.R.L.;25784;Benzina;1.649;1;01/08/2025 18:27:48;Yellow
+5853344517;node;45.3226288;9.4785190;22317;;;De Gregorio Giuseppe;22317;Benzina;1.679;1;30/07/2025 18:54:50;Yellow
+5853344525;node;46.1752385;9.9244699;21785;;;Paruscio Mario;21785;Benzina;1.729;1;01/08/2025 11:51:37;Yellow
+5853344578;node;45.6563718;9.8039255;19985;;;Cmb Carburanti Milesi Bergamo S.R.L.;19985;Benzina;1.658;1;01/08/2025 08:10:14;Yellow
+5853344608;node;45.7826566;9.8234402;18642;;;Cicli Moto Bazzana Sas di Bazzana Walter e Giacomo;18642;Benzina;1.74;0;02/08/2025 07:33:34;Yellow
+5853344989;node;46.0300024;9.7426387;15430;;Cattaneo Petroli;Cattaneo Marco;15430;Benzina;1.75;1;28/07/2025 17:12:12;Yellow
+5853345033;node;45.5651800;8.7825189;13995;;;Autogas S.R.L.;13995;Benzina;1.709;1;02/08/2025 07:38:17;Yellow
+5853345044;node;45.5706495;8.8063359;13607;;;Sommese Carburante S.R.L.;13607;Benzina;1.699;1;02/08/2025 00:24:14;Yellow
+5853345081;node;45.1050332;10.1822850;12256;indipendente;indipendente;Pirotti Giuseppina;12256;Benzina;1.645;1;30/07/2025 08:47:18;Yellow
+5853345326;node;45.5631725;8.8896651;10058;;;De Nigris Antonio;10058;Benzina;1.749;1;23/07/2025 09:10:15;Yellow
+6330918536;node;46.0756090;10.3491314;16502;Eni;Eni;Stop And Go di Gazzoli Alberto e Morgani Flavio S.n.c.;16502;Benzina;1.699;1;02/08/2025 07:30:05;Yellow
+6469798075;node;45.5251324;9.9406710;4410;Agip Eni;Agip;Distributore Carburante di Buelli Silvio & C. S.n.c.;4410;Benzina;1.709;1;02/08/2025 07:02:33;Yellow
+6499352514;node;45.7079137;9.6926303;13929;Agip Eni;Eni;Stazione di Servizio Agip di Bonzi Leonardo;13929;Benzina;1.719;1;02/08/2025 08:10:12;Yellow
+6499352517;node;45.7066382;9.6995196;21173;Q8;Q8;Servizi & Gestioni Italia S.R.L.;21173;Benzina;1.699;1;01/08/2025 14:05:05;Yellow
+6499365806;node;45.6937668;9.6520069;29630;TotalErg;TotalErg;Gestioni Europa - Società Per Azioni;29630;Benzina;1.619;1;01/08/2025 09:05:53;Yellow
+6499369654;node;45.6934109;9.6450841;9501;Eni;Eni;Prandi Luigi;9501;Benzina;1.719;1;02/08/2025 06:58:10;Yellow
+6499370002;node;45.6748553;9.6607000;6425;Q8;Q8 Easy;Servizi & Gestioni Italia S.R.L.;6425;Benzina;1.675;1;02/08/2025 01:07:09;Yellow
+6528686401;node;45.6165735;10.4834264;33480;Q8;;Jolly Car S.N.C. di Calubini Loris & C. in Breve Jolly Car S.N.C.;33480;Benzina;1.719;1;28/07/2025 09:54:17;Yellow
+6539609641;node;45.4994175;10.2918091;40861;Esso;;Gill Service di Gill Balraj & C. S.a.s.;40861;Benzina;1.689;1;01/08/2025 07:05:41;Yellow
+6539672047;node;45.4989087;10.3024251;38389;Esso;Esso;Gill Service di Gill Balraj & C. S.a.s.;38389;Benzina;1.689;1;01/08/2025 07:05:12;Yellow
+6577053126;node;45.4838985;9.7809150;6550;Q8;Q8;Servizi & Gestioni Italia S.R.L.;6550;Benzina;1.675;1;30/07/2025 01:05:44;Yellow
+6604579623;node;45.5810436;9.5711601;14318;Agip Eni;;Ital Carb. di Tanga Gerardo e Tanga Stefano S.N.C.;14318;Benzina;1.734;1;02/08/2025 07:22:19;Yellow
+6640926526;node;45.6993280;9.6853166;11489;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11489;Benzina;1.699;1;31/07/2025 01:36:15;Yellow
+6899014071;node;45.4628263;9.1516181;49777;Keropetrol;Keropetrol;Keropetrol Spa;49777;Benzina;1.719;1;02/08/2025 05:55:22;Yellow
+6960474880;node;45.5174171;9.6012573;46828;Enercoop;Enercoop;Coop Lombardia Società Cooperativa;46828;Benzina;1.639;1;01/08/2025 14:04:51;Yellow
+7005720713;node;45.5188108;9.5845816;41895;Esso;Esso;Trussardi Petroli S.p.A.;41895;Benzina;1.699;1;01/08/2025 12:22:30;Yellow
+7176837526;node;45.6808569;9.7425342;24148;;;Iper Montebello S.P.A.;24148;Benzina;1.609;1;01/08/2025 17:15:32;Yellow
+7726103982;node;45.6680677;8.7956366;38380;IP;IP;Gestioni Europa - Società Per Azioni;38380;Benzina;1.719;1;01/08/2025 09:04:29;Yellow
+7803492729;node;45.6534363;8.7859136;31851;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;31851;Benzina;1.719;1;02/08/2025 01:07:14;Yellow
+8039746320;node;45.3994111;9.2820349;43259;Tamoil;Tamoil;T.D.M. S.R.L.;43259;Benzina;1.699;1;01/08/2025 12:34:35;Yellow
+8409078015;node;45.4028774;9.5456677;59531;Tamoil;Tamoil;M.A. Service S.A.S. di Moustafa Saber;59531;Benzina;1.799;1;31/07/2025 11:36:15;Yellow
+8588879160;node;45.6589003;8.7829484;17205;;Lo Turco;Lo Turco Bruno;17205;Benzina;1.719;1;02/08/2025 01:14:11;Yellow
+8614265319;node;45.6555436;8.7828183;6458;Q8;Q8;Servizi & Gestioni Italia Srl;6458;Benzina;1.719;1;02/08/2025 01:07:14;Yellow
+8659126830;node;45.5543707;9.0525674;37165;IP;IP;Mc Servizi S.A.S. di Fertonani Chiara e C.;37165;Benzina;1.785;1;30/07/2025 09:22:21;Yellow
+8707261895;node;45.5114967;9.5866305;53417;AF Petroli;;A.F. Petroli Treviglio (Bg);53417;Benzina;1.639;1;31/07/2025 15:37:21;Yellow
+8806238609;node;45.6527820;8.7924904;28790;Eni;Eni;Ellepi Service di Luca Pulvirenti;28790;Benzina;1.739;1;02/08/2025 00:26:42;Yellow
+8806240947;node;45.6506746;8.7947112;10130;IP;IP;Gestioni Europa - Società Per Azioni;10130;Benzina;1.719;1;01/08/2025 09:06:21;Yellow
+9645884418;node;45.6603893;8.9750792;38341;Esso;Esso;W.M. Service S.N.C. di Rimoldi William e Varano Manuel;38341;Benzina;1.689;1;28/07/2025 09:31:29;Yellow
+9725874861;node;45.4802759;10.5258116;42259;KEROPETROL;;Keropetrol S.p.A.;42259;Benzina;1.689;1;02/08/2025 05:55:15;Yellow
+9893248073;node;45.5366060;9.1049876;17687;IP;IP Matic MI Bollate;Ip Services Srl;17687;Benzina;1.689;1;01/08/2025 09:03:46;Yellow
+10572907948;node;45.5012969;9.6311412;55452;IP;IP;Ip;55452;Benzina;1.699;1;28/07/2025 18:56:59;Yellow
+10614529930;node;45.5887024;9.1732863;11678;Q8;Q8;;11678;Benzina;1.629;1;02/08/2025 08:08:23;Yellow
+10674120766;node;45.5135807;9.0697913;3816;Q8;Q8;Due Vele S.N.C. di Liguori Franco e C.;3816;Benzina;1.999;1;29/07/2025 09:09:24;Orange
+10753104281;node;45.5595926;9.0402974;3555;Q8;Q8;;3555;Benzina;1.749;1;01/08/2025 15:00:17;Yellow
+10880928399;node;45.4612981;10.3191170;6471;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.r.l.;6471;Benzina;1.649;1;01/08/2025 14:05:07;Yellow
+11289105736;node;45.6100215;9.5665958;31854;;Q8;Servizi & Gestioni Italia S.R.L.;31854;Benzina;1.769;1;01/08/2025 07:06:54;Yellow
+11305630611;node;45.5328000;9.4125838;31060;Api-Ip;;Ip Services S.R.L.;31060;Benzina;1.709;1;01/08/2025 09:02:59;Yellow
+11608485451;node;45.3441983;9.9779288;13178;IP;IP;Fratelli Pedroni S.N.C. di Pedroni Claudio & C.;13178;Benzina;1.699;1;29/07/2025 14:26:03;Yellow
+11665829184;node;45.5930247;9.6692686;4706;;Union Carburanti;Idea di Carminati Maurizio e Sergio S.N.C.;4706;Benzina;1.639;1;02/08/2025 04:52:10;Yellow
+11900976615;node;45.9148457;9.3280689;29335;Eni;Eni;Gestioni Innovative Italia S.R.L.;29335;Benzina;1.729;1;02/08/2025 00:22:06;Yellow
+11900976629;node;45.9141682;9.3276027;29026;Eni;Eni;Garolini S.A.S. di Garolini Christian e Michele;29026;Benzina;1.729;1;02/08/2025 00:14:04;Yellow
+11922079641;node;45.4448613;9.0734744;37664;Esso;Esso;Adm Sas di Squeri Alberto & C.;37664;Benzina;1.899;1;31/07/2025 10:07:41;Orange
+12277207145;node;45.6924296;9.6167086;24759;Q8;Q8;Servizi & Gestioni Italia S.R.L.;24759;Benzina;1.589;1;02/08/2025 01:07:09;Yellow
+12724195701;node;45.3597952;9.6654496;34926;Enercoop;Enercoop;Coop Lombardia Società Cooperativa;34926;Benzina;1.639;1;01/08/2025 14:04:34;Yellow
+12725949959;node;45.8095681;9.2334773;22163;IP;IP;Spreafico Manuela;22163;Benzina;1.679;1;01/08/2025 08:53:04;Yellow
+12747854249;node;45.5003948;9.2359031;23486;Tamoil;Tamoil;Cierre Snc di Caputo Giovanni & C.;23486;Benzina;1.639;1;01/08/2025 15:05:13;Yellow
+28411635;way;45.2008877;9.1943867;31522;Vega;Vega;Vega Carburanti S.P.A.;31522;Benzina;1.709;1;30/07/2025 21:29:23;Yellow
+61653801;way;46.5284582;10.1280610;21866;IP;IP;;21866;Benzina;1.284;1;01/08/2025 16:22:12;Green
+61654444;way;45.7044538;9.0905455;7769;Esso;Esso;Giovi Service di Galimberti Fabio e C. S.A.S.;7769;Benzina;1.669;1;01/08/2025 07:13:56;Yellow
+72234552;way;45.1764024;9.6578608;23440;Q8;;Servizi & Gestioni Italia S.R.L.;23440;Benzina;1.669;1;01/08/2025 01:36:34;Yellow
+76912152;way;46.5190583;10.1248961;22628;Eni;Eni;Ges.Car. S.A.S. di Cusini Bernardo e C.;22628;Benzina;1.292;1;31/07/2025 15:37:24;Green
+77747030;way;45.6920236;9.6221112;11492;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11492;Benzina;1.629;1;29/07/2025 07:40:30;Yellow
+80694656;way;45.7189619;9.1546650;34925;Enercoop;Enercoop;Coop Lombardia Società Cooperativa;34925;Benzina;1.639;1;01/08/2025 14:04:29;Yellow
+82259223;way;45.6791918;9.6511640;6424;Q8;Q8;Servizi & Gestioni Italia S.R.L.;6424;Benzina;1.619;1;01/08/2025 01:36:33;Yellow
+82639829;way;45.7234983;9.0704763;14942;Q8;Q8;Emme2Enne S.R.L.;14942;Benzina;1.689;1;31/07/2025 06:52:51;Yellow
+82882686;way;45.7119748;9.6706166;6848;Tamoil;Tamoil;F.lli Dentella - S.N.C.;6848;Benzina;1.639;1;02/08/2025 07:56:11;Yellow
+85009326;way;46.5260335;10.1278230;22670;Eni;Agip;Cu.Ba S.A.S. di Cusini Barbara Maria & C.;22670;Benzina;1.291;1;31/07/2025 15:26:01;Green
+95986435;way;45.7229565;8.9867453;13565;IP;IP;;13565;Benzina;1.736;0;31/07/2025 08:10:13;Yellow
+96469168;way;45.5461491;9.1757678;27870;Tamoil;Tamoil;T.D.M. S.R.L.;27870;Benzina;1.649;1;01/08/2025 12:48:21;Yellow
+99703117;way;45.3032657;9.4144266;22135;Q8;Caldi;Servizi & Gestioni Italia S.R.L.;22135;Benzina;1.719;1;02/08/2025 01:07:12;Yellow
+103418917;way;45.7470474;9.1292149;37544;Agip Eni;Eni;Amicabile Enrico;37544;Benzina;1.689;1;02/08/2025 07:50:12;Yellow
+110028315;way;45.8089909;9.0757796;27216;IP;IP;;27216;Benzina;1.739;0;18/07/2025 17:15:26;Yellow
+110687735;way;45.5680107;10.0689845;26946;IP;IP;F.lli Mingardi Snc di A. & G. Mingardi;26946;Benzina;1.829;1;30/07/2025 13:39:18;Yellow
+113499148;way;45.6917699;9.5177843;26246;IP;IP;Manenti Ivan & C. S.N.C.;26246;Benzina;1.719;1;02/08/2025 06:25:32;Yellow
+120415138;way;45.6912694;9.6269858;8053;Q8;Q8;Co.Rina. S.N.C. di Corna Rinaldi & C.;8053;Benzina;1.629;1;29/07/2025 18:21:33;Yellow
+129734930;way;45.9745249;9.6547216;37379;Pompe Bianche;;Molinari Gilberto;37379;Benzina;1.729;1;28/07/2025 07:52:15;Yellow
+129828462;way;44.9848892;10.7534452;28007;Eni;Eni;Fiordaligi Massimo;28007;Benzina;1.766;1;02/08/2025 07:10:10;Yellow
+133730728;way;45.7058241;9.7236385;10416;Q8;Q8;F.lli Assolari di Umberto e Michela & C. S.N.C.;10416;Benzina;1.789;1;29/07/2025 15:15:44;Yellow
+134577344;way;46.2616570;9.3884940;8737;Tamoil;;Balatti Fermo S.A.S. di Balatti Valentino e C.;8737;Benzina;1.699;1;02/08/2025 08:16:06;Yellow
+142229369;way;45.6851611;9.7261049;28174;Esso;Esso;Esso Service Sas di Assi Giancarlo Valentina & C.;28174;Benzina;1.659;1;01/08/2025 07:26:13;Yellow
+142612871;way;45.1865368;9.4728932;15331;Agip Eni;;Malabarba Valerio;15331;Benzina;1.719;1;02/08/2025 00:10:17;Yellow
+142612873;way;45.1818326;9.4941857;25856;Agip Eni;;Comizzoli Fabrizio;25856;Benzina;1.719;1;02/08/2025 06:56:09;Yellow
+151040117;way;45.7303969;9.0633023;11562;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11562;Benzina;1.679;1;31/07/2025 01:05:42;Yellow
+159248991;way;45.3158881;10.1191322;9943;Keropetrol;;Capra Alberto e Gazzoldi Michele S.n.c.;9943;Benzina;1.689;1;31/07/2025 08:07:02;Yellow
+159965584;way;45.9281233;9.6678787;19202;Agip Eni;;F.lli Bonetti S.N.C.;19202;Benzina;1.749;1;02/08/2025 08:02:28;Yellow
+160599556;way;45.5546449;9.1740807;12068;Esso;;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12068;Benzina;1.678;1;02/08/2025 06:00:49;Yellow
+160686658;way;45.4262047;10.4136609;30070;Costantin;;Costantin Distribuzione e Servizi Srl;30070;Benzina;1.669;1;30/07/2025 11:09:51;Yellow
+161817133;way;45.4500069;10.4714074;31073;Eni;Eni;Bar Il Diamante di Scutteri Franco;31073;Benzina;1.659;1;01/08/2025 07:01:38;Yellow
+162031192;way;45.4753454;10.4052010;31332;Api-Ip;;Ip Services S.R.L.;31332;Benzina;1.669;1;01/08/2025 09:01:26;Yellow
+162031193;way;45.4739086;10.4479894;36581;Total Erg;;Ghulam Amra di Shamriz Ali Sabir & C. Sas;36581;Benzina;1.659;1;31/07/2025 07:45:05;Yellow
+162031194;way;45.4731240;10.4491296;26859;Agip Eni;;Eni Fuel S.P.A.;26859;Benzina;1.669;1;02/08/2025 00:16:04;Yellow
+162614193;way;45.4958971;10.4478131;38381;Esso;;Albomar di Florioli A. e Lusenti A. S.N.C.;38381;Benzina;1.759;1;01/08/2025 08:26:45;Yellow
+163003771;way;45.4683446;10.3027164;15925;Esso;;Grechi Andrea;15925;Benzina;1.676;1;31/07/2025 19:22:15;Yellow
+166261459;way;45.5870786;9.3102303;25015;Q8;Q8;Servizi & Gestioni Italia S.R.L.;25015;Benzina;1.649;1;30/07/2025 01:05:23;Yellow
+166401654;way;45.4050745;9.9612273;39466;Tamoil;;T.D.M. S.R.L.;39466;Benzina;1.669;1;02/08/2025 07:16:09;Yellow
+166896195;way;45.3717048;10.0959952;36535;Total Erg;;A.L.G. S.R.L.;36535;Benzina;1.679;1;01/08/2025 11:09:31;Yellow
+169303520;way;45.7060899;9.6795613;37343;Api-Ip;TotalErg;Crippa Alessandro e C. S.N.C.;37343;Benzina;1.699;1;02/08/2025 08:26:25;Yellow
+169638884;way;45.8131781;9.8580488;4504;Agip;Agip;P. & K. New Electric S.N.C. di Pezzoli Paolo & C.;4504;Benzina;1.689;1;01/08/2025 10:12:51;Yellow
+173540598;way;45.7126454;8.8623020;18798;Pompe Bianche;Garoil;Autoriparazioni Martignoni Corrado;18798;Benzina;1.719;1;01/08/2025 14:05:49;Yellow
+173952932;way;45.6882185;8.8865763;11925;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11925;Benzina;1.699;1;02/08/2025 01:07:14;Yellow
+174851085;way;45.6807304;8.8443356;36260;IP;IP;Ip Services S.R.L.;36260;Benzina;1.699;1;01/08/2025 09:01:24;Yellow
+175144658;way;45.3275104;10.5636813;4254;Eni;Eni;Tenedini Riccardo;4254;Benzina;1.769;1;02/08/2025 07:08:14;Yellow
+181483474;way;45.7154707;9.8834837;11485;Q8;;Servizi & Gestioni Italia S.R.L.;11485;Benzina;1.679;1;01/08/2025 01:07:18;Yellow
+183057951;way;45.3992549;10.5019436;15536;Agip Eni;;Top Fuel di Nervi Nicola e C. S.N.C.;15536;Benzina;1.669;1;02/08/2025 06:26:13;Yellow
+184741798;way;45.7241172;9.5525208;22453;Pompe Bianche;;Ditta Morzenti Antonio S.R.L.;22453;Benzina;1.615;1;02/08/2025 00:11:04;Yellow
+185322044;way;45.7985280;9.4333078;35264;IP;IP;Barocelli Luigi di Fabio e Massimiliano Barocelli S.N.C.;35264;Benzina;1.699;1;31/07/2025 07:31:15;Yellow
+185939567;way;45.6939313;9.6770485;11482;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11482;Benzina;1.729;1;01/08/2025 08:04:09;Yellow
+187381838;way;45.8401070;9.2483886;19160;Tamoil;Tamoil;Carta Cristiana;19160;Benzina;1.669;1;02/08/2025 06:30:02;Yellow
+188793668;way;45.5236713;9.4641939;44993;General Oil;General Oil;General Oil di Massimo Farinotti e C. S.A.S.;44993;Benzina;1.689;1;01/08/2025 14:41:32;Yellow
+189090422;way;45.6844447;9.6563455;10094;Api-Ip;IP;Ip Services S.R.L.;10094;Benzina;1.619;1;01/08/2025 09:05:55;Yellow
+194584943;way;45.7920111;9.6507125;38583;Pompe Bianche;;Commerciale Paganoni S.P.A.;38583;Benzina;1.655;1;02/08/2025 00:08:17;Yellow
+195203330;way;45.4375243;9.0915641;9555;Q8;;Viotti Paolo;9555;Benzina;1.709;1;01/08/2025 07:45:36;Yellow
+197702038;way;45.4279171;10.5152593;15100;Pompe Bianche;benzina/diesel/gpl/metano;Iper Montebello S.p.A.;15100;Benzina;1.649;1;01/08/2025 17:13:50;Yellow
+201141626;way;45.6860387;9.6019849;14558;Esso;;Dorelei Carburanti di Gualco Davide & C. S.A.S.;14558;Benzina;1.666;1;18/06/2025 07:54:50;Yellow
+204574052;way;45.6902917;9.7023004;10629;Eni;Agip;Pezzali Osvaldo;10629;Benzina;1.713;1;01/08/2025 00:12:16;Yellow
+204574053;way;45.6911157;9.6998197;6452;Q8;Q8;Servizi & Gestioni Italia S.R.L.;6452;Benzina;1.669;1;02/08/2025 01:07:13;Yellow
+206667246;way;46.1705276;9.8960283;38847;Agip Eni;Agip;Cioccarelli Claudio e Figli S.N.C.;38847;Benzina;1.719;1;02/08/2025 07:32:33;Yellow
+220945453;way;45.6567502;9.1456344;6432;Q8;Q8;Servizi & Gestioni Italia Srl;6432;Benzina;1.629;1;01/08/2025 14:05:05;Yellow
+221069220;way;45.5743044;9.1754626;24113;Pompe Bianche;Beyfin;S.M.C. S.N.C. di Agnani Massimo e Stefano;24113;Benzina;1.619;1;02/08/2025 08:07:10;Yellow
+228881660;way;45.5699226;9.2844518;6433;Q8;Q8;Servizi & Gestioni Italia Srl;6433;Benzina;1.649;1;30/07/2025 01:05:24;Yellow
+233888765;way;45.5818621;9.2969814;11641;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11641;Benzina;1.699;1;29/07/2025 07:40:22;Yellow
+234829504;way;45.2069476;10.7937066;15609;Tamoil;;Ferro Davide;15609;Benzina;1.649;1;02/08/2025 07:04:27;Yellow
+236126001;way;45.8029271;9.5032049;38317;Ies;;Comune di Costa Valle Imagna;38317;Benzina;1.639;1;28/07/2025 10:40:13;Yellow
+236859325;way;45.5797436;9.2607564;29921;Api-Ip;IP;Ip Services S.R.L.;29921;Benzina;1.669;1;01/08/2025 09:04:42;Yellow
+236870656;way;45.6465356;9.6058386;16536;Agip Eni;;Invernizzi Roberto e C. S.N.C.;16536;Benzina;1.739;1;02/08/2025 07:38:09;Yellow
+236961490;way;45.6652512;8.7495505;4185;Pompe Bianche;Prealpina Carburanti;Prealpina Distribuzione Carburanti S.R.L.;4185;Benzina;1.697;1;29/07/2025 09:23:18;Yellow
+237834241;way;45.6974735;9.4802123;11431;Q8;;Biffi Daniele;11431;Benzina;1.699;1;30/07/2025 07:50:54;Yellow
+240806998;way;45.6610689;8.7832265;24620;IP;IP;Ip Services S.R.L.;24620;Benzina;1.729;1;01/08/2025 09:01:44;Yellow
+240823177;way;45.5932077;9.2610930;17009;Total Erg;TotalErg;Erreci S.N.C. di Angelo Rocco e C.;17009;Benzina;1.696;0;02/08/2025 07:21:51;Yellow
+241916323;way;45.5720524;9.3139658;11638;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11638;Benzina;1.669;1;31/07/2025 07:38:30;Yellow
+241917570;way;45.5805358;9.3001885;13606;è Petrol;è Petrol;Baselice Francesco;13606;Benzina;1.718;1;02/08/2025 08:08:13;Yellow
+241939933;way;45.6491371;8.8166891;4135;Pompe Bianche;Vargas;Vargas Srl;4135;Benzina;1.699;1;02/08/2025 00:09:08;Yellow
+243645679;way;45.6506007;8.8074792;40509;Eni;Eni;Busellato Massimo;40509;Benzina;1.744;1;02/08/2025 07:38:12;Yellow
+244303658;way;45.6290546;9.2445318;15439;IP;IPlanet;Mastrogiovanni Fabio;15439;Benzina;1.689;1;01/08/2025 09:50:04;Yellow
+245317292;way;45.5786360;9.2717658;21145;Esso;Esso;Stelluti Libero Snc;21145;Benzina;1.689;1;02/08/2025 06:41:08;Yellow
+245323886;way;45.5686808;9.2520408;24973;Agip Eni;Eni;Lucarelli Leonardo;24973;Benzina;1.709;1;02/08/2025 07:34:35;Yellow
+245463053;way;45.5663749;9.2613819;11651;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11651;Benzina;1.669;1;01/08/2025 07:06:50;Yellow
+245481315;way;45.5782038;9.2548202;31387;Total Erg;TotalErg;Gestioni Europa - Società Per Azioni;31387;Benzina;1.669;1;01/08/2025 09:05:58;Yellow
+246645140;way;45.5722716;9.2482953;6439;Q8;Q8;Servizi & Gestioni Italia S.R.L.;6439;Benzina;1.659;1;31/07/2025 01:05:45;Yellow
+246652679;way;45.5790101;9.2530001;37759;Esso;Esso;Essebi S.N.C. di Boracco Lorenzo e Sala Andrea;37759;Benzina;1.699;1;02/08/2025 08:04:56;Yellow
+248216039;way;45.5122848;9.1750391;11660;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11660;Benzina;1.659;1;01/08/2025 08:04:08;Yellow
+248834834;way;46.1638908;9.6935822;38471;Pompe Bianche;Oil Service;Oil Service S.R.L.;38471;Benzina;1.675;1;02/08/2025 00:08:57;Yellow
+248924511;way;46.1620210;9.8236596;33884;Tamoil;Tamoil;T.D.M. S.R.L.;33884;Benzina;1.619;1;01/08/2025 11:36:02;Yellow
+249207788;way;45.5794043;9.2902954;11646;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11646;Benzina;1.694;1;02/08/2025 01:07:10;Yellow
+249807120;way;46.1661869;9.8640078;18789;Api-Ip;Total;Fanchetti Fabio;18789;Benzina;1.719;1;29/07/2025 18:25:34;Yellow
+250536108;way;45.5677142;9.2440914;6254;Agip Eni;Eni;Brambilla S.N.C. di Gabriele Brambilla & C.;6254;Benzina;1.709;1;02/08/2025 00:23:32;Yellow
+251662259;way;45.6950310;8.6740629;13516;Pompe Bianche;Occhio al prezzo;Ferrari Gian Franco S.N.C. di Rodolfo & Gabriele Ferrari;13516;Benzina;1.739;1;01/08/2025 11:06:23;Yellow
+251682592;way;45.6460536;8.7038915;27030;IP;IP;Botta Roberto;27030;Benzina;1.698;1;31/07/2025 20:12:06;Yellow
+252915995;way;45.6030474;9.2518456;15800;Agip Eni;Eni;D'Aloia Giovanni;15800;Benzina;1.719;1;02/08/2025 07:28:15;Yellow
+253353396;way;45.5758187;9.2301035;10320;Total Erg;TotalErg;Foltran Marco;10320;Benzina;1.696;1;31/07/2025 09:08:35;Yellow
+253355567;way;45.5745631;9.2469057;38524;Eni;Eni;Eni Fuel S.P.A.;38524;Benzina;1.679;1;02/08/2025 00:21:13;Yellow
+254556370;way;45.4908678;9.2373335;35098;IP;IP;Gobbi Marzio Enrico;35098;Benzina;1.779;1;29/07/2025 15:41:13;Yellow
+255407719;way;45.6488799;8.7845459;34446;Sommese Petroli;Sommese Petroli;Gavazzi Marco;34446;Benzina;1.719;1;02/08/2025 07:36:07;Yellow
+259348569;way;45.6742446;8.7973683;28889;Eni;Eni;Cozzi Andrea;28889;Benzina;1.739;1;02/08/2025 06:56:20;Yellow
+259381203;way;45.5643343;9.2800122;38935;IP;IP;Siliato Luigi;38935;Benzina;1.679;1;02/08/2025 07:16:30;Yellow
+259381625;way;45.5657359;9.2812860;11644;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11644;Benzina;1.679;1;01/08/2025 08:04:07;Yellow
+263276419;way;45.4321627;9.2885252;5445;Agip Eni;Agip;Eni Fuel S.P.A.;5445;Benzina;1.729;1;02/08/2025 07:04:28;Yellow
+264281596;way;45.8379953;8.8151798;16887;Eni;Eni;Berg di Ambrosini Mauro;16887;Benzina;1.709;1;31/07/2025 16:05:17;Yellow
+264455935;way;45.8043146;8.8405136;30798;Q8;Q8;Servizi & Gestioni Italia S.R.L.;30798;Benzina;1.699;1;29/07/2025 07:40:46;Yellow
+264944438;way;45.6241751;9.2440130;12233;Tamoil;Tamoil;Zaccone Fratelli S.N.C. di Fabio e Maurizio Zaccone;12233;Benzina;1.679;1;02/08/2025 06:48:11;Yellow
+264945074;way;45.6023014;9.2315578;39112;Q8;Q8;Servizi & Gestioni Italia S.R.L.;39112;Benzina;1.679;1;01/08/2025 07:06:51;Yellow
+264946886;way;45.6152244;9.2483355;11645;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11645;Benzina;1.669;1;01/08/2025 01:36:33;Yellow
+264946887;way;45.6195698;9.2339861;32684;Tamoil;Tamoil;T.D.M. S.R.L.;32684;Benzina;1.669;1;01/08/2025 12:26:10;Yellow
+265639146;way;45.8336722;8.8199676;24047;Q8;Q8;Servizi & Gestioni Italia S.R.L.;24047;Benzina;1.699;1;29/07/2025 07:40:33;Yellow
+268505787;way;45.5538734;9.2023390;29861;Api-Ip;IP;Ip Services S.R.L.;29861;Benzina;1.649;1;01/08/2025 09:03:46;Yellow
+272260765;way;45.6397709;8.8328723;24961;IP;IP;Ip Services S.R.L.;24961;Benzina;1.699;1;01/08/2025 15:03:07;Yellow
+273732668;way;45.6814667;8.7151816;5978;Total Erg;TotalErg;Gestioni Europa S.P.A.;5978;Benzina;1.698;1;01/08/2025 09:04:27;Yellow
+275978343;way;45.6498901;9.2216134;32462;IP;IP;Ip Services S.R.L.;32462;Benzina;1.669;1;01/08/2025 15:02:52;Yellow
+275979962;way;45.6415230;9.2049471;23494;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23494;Benzina;1.659;1;02/08/2025 01:07:11;Yellow
+280794684;way;45.4181478;9.0519364;35904;Q8;Q8;Servizi & Gestioni Italia S.R.L.;35904;Benzina;1.699;1;02/08/2025 07:06:16;Yellow
+288816609;way;45.6155045;9.4362521;7277;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7277;Benzina;1.739;1;29/07/2025 07:40:20;Yellow
+297344692;way;45.5253415;9.9101513;30174;Total Erg;TotalErg;Flo di De Remigis & C. S.N.C.;30174;Benzina;1.739;1;02/08/2025 05:32:40;Yellow
+298121579;way;45.5410119;9.9117694;31283;Api-Ip;IP;Ip Services S.R.L.;31283;Benzina;1.729;1;01/08/2025 15:03:57;Yellow
+298508036;way;45.6044990;9.3055195;32759;Api-Ip;Ip;Ip Services S.R.L.;32759;Benzina;1.639;1;01/08/2025 09:01:37;Yellow
+299511839;way;45.7241478;8.6470945;13950;IP;TotalErg;Antonio Soldi;13950;Benzina;1.699;1;31/07/2025 07:55:27;Yellow
+300287682;way;45.7654881;9.2772346;25582;Q8;Q8;Valli Mario & C. S.N.C. di Bruno e Marco;25582;Benzina;1.699;1;03/06/2025 11:16:40;Yellow
+301588908;way;45.6936967;9.0272539;17902;IP;IP;Butti Maria;17902;Benzina;1.736;0;24/07/2025 17:37:46;Yellow
+303177949;way;45.6041636;9.3242609;28937;Tamoil;Tamoil;Autoservice di Giovanni D'Aloia S.A.S.;28937;Benzina;1.649;1;01/08/2025 15:10:13;Yellow
+303177950;way;45.6047688;9.3246452;9456;Tamoil;Tamoil;Due Esse di Secchiero Vittorio e C. Snc;9456;Benzina;1.649;1;01/08/2025 15:08:31;Yellow
+307427904;way;45.6716622;8.8228678;25391;Eni;Eni;Gestioni Innovative Italia S.R.L.;25391;Benzina;1.689;1;02/08/2025 00:20:54;Yellow
+308970210;way;45.8623736;9.4001123;12261;Agip Eni;Eni;Rusconi Carlo;12261;Benzina;1.719;1;02/08/2025 08:04:12;Yellow
+311911852;way;45.6527641;8.7663450;41177;IP;IP;Severo Carburanti di Severo Alessandro;41177;Benzina;1.729;1;01/08/2025 13:00:31;Yellow
+315001234;way;45.6305087;9.0377773;13898;Eni;Eni;D. & V. S.N.C. di Valenti Morgan e Curro' Stefano;13898;Benzina;1.739;1;02/08/2025 07:22:24;Yellow
+315140713;way;45.5484175;9.2442253;24145;Q8;Q8;Servizi & Gestioni Italia S.R.L.;24145;Benzina;1.639;1;01/08/2025 01:36:36;Yellow
+315175300;way;45.6314068;9.0391045;23188;Keropetrol;Keropetrol;Sprocati Stefano;23188;Benzina;1.769;1;29/07/2025 14:50:18;Yellow
+316115703;way;45.6241002;9.0457581;19040;Eni;Eni;Mope Snc di Fuscaldo G. e Paticella F.;19040;Benzina;1.739;1;02/08/2025 07:08:13;Yellow
+317178880;way;45.8904640;9.4221648;12285;Agip Eni;;Perini Luigi;12285;Benzina;1.719;1;02/08/2025 07:20:15;Yellow
+317224355;way;45.4602143;9.0990156;38980;Agip Eni;Agip;Eni Fuel S.P.A.;38980;Benzina;1.684;1;02/08/2025 07:32:16;Yellow
+317942553;way;45.6874459;8.7201809;13597;Esso;Sommese Petroli;Sommese Carburante S.R.L.;13597;Benzina;1.709;1;01/08/2025 07:36:13;Yellow
+318895142;way;45.3198220;9.4922253;11624;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11624;Benzina;1.669;1;02/08/2025 01:07:10;Yellow
+318895145;way;45.3571480;9.3663383;13239;Api-Ip;;Soleto Alessandro;13239;Benzina;1.739;1;28/07/2025 16:59:27;Yellow
+318895150;way;45.3649074;9.3620670;18519;Total Erg;;F.lli Zacchetti S.N.C. di Zacchetti Claudio e Zacchetti Marco;18519;Benzina;1.739;1;28/07/2025 16:58:26;Yellow
+318895530;way;45.2338692;9.3998898;21416;Esso;Esso;Eredi Stroppa S.N.C. di Stroppa Enrico & C.;21416;Benzina;1.766;1;31/07/2025 19:34:03;Yellow
+318895531;way;45.2363846;9.4159439;26198;Q8;Q8;Negroni Felice;26198;Benzina;1.769;1;01/08/2025 07:18:42;Yellow
+318895539;way;45.2474933;9.5352360;27470;Total Erg;;Piara S.N.C. di F.lli Singh Parmjit e Singh Tarlochan;27470;Benzina;1.669;1;31/07/2025 07:40:13;Yellow
+318895545;way;45.2042407;9.6137071;29916;Tamoil;Tamoil;T.D.M. S.R.L.;29916;Benzina;1.669;1;01/08/2025 12:34:22;Yellow
+318895829;way;45.2126804;9.6958081;31711;Tamoil;;Autofficina Marauto di Fusari Mario;31711;Benzina;1.679;1;02/08/2025 00:17:12;Yellow
+318895832;way;45.1486267;9.6976688;24344;Pompe Bianche;;Start Service S.N.C. di Mattia Malabarba & C.;24344;Benzina;1.699;1;29/07/2025 23:59:26;Yellow
+318895841;way;45.1657061;9.7040949;11969;Ego;;Cortesi Stefano;11969;Benzina;1.669;1;01/08/2025 16:06:57;Yellow
+318895844;way;45.1220242;9.6869595;25073;IP;IP;Ip Services S.R.L.;25073;Benzina;1.667;1;01/08/2025 15:01:30;Yellow
+318895845;way;45.1645733;9.6956324;10768;Tamoil;Tamoil;Inzadi Giovanna;10768;Benzina;1.679;1;02/08/2025 00:17:10;Yellow
+318895846;way;45.1776189;9.6540183;34664;Tamoil;Tamoil;T.D.M. S.R.L.;34664;Benzina;1.669;1;01/08/2025 11:54:08;Yellow
+319874171;way;45.5306374;9.2520542;36302;Q8;Q8;Servizi & Gestioni Italia S.R.L.;36302;Benzina;1.659;1;29/07/2025 07:40:26;Yellow
+325714827;way;45.7219855;8.6904168;33708;Pompe Bianche;Sommese Petroli;G2A Sas di Chinetti Gianpaolo & C.;33708;Benzina;1.699;1;02/08/2025 07:32:53;Yellow
+327076918;way;45.6556352;9.2542156;37708;Q8;Q8;Chkih El Mokhtar;37708;Benzina;1.719;0;01/08/2025 13:01:16;Yellow
+327113366;way;45.3502475;9.6116647;7415;Total Erg;Benzina;Palazzi & Calci Snc di Palazzi Mauro e C.;7415;Benzina;1.649;1;31/07/2025 09:46:48;Yellow
+329285603;way;45.6482827;9.6830375;12537;Agip;Agip;Cosma Fabrizio;12537;Benzina;1.704;1;02/08/2025 07:58:12;Yellow
+332019143;way;45.2074047;10.8952876;16331;Agip Eni;metano;Miro di Mirandola Andrea & C. S.A.S.;16331;Benzina;1.759;1;01/08/2025 15:59:41;Yellow
+335245989;way;45.1647898;10.8280497;41962;IP;IP;Coro S.R.L.;41962;Benzina;1.719;1;02/08/2025 08:08:14;Yellow
+336657642;way;45.6756913;9.2426049;32325;IP;IP;;32325;Benzina;1.699;1;01/08/2025 15:01:27;Yellow
+343784402;way;45.8443960;9.4003505;23709;Esso;IP;Servizi e Gestioni Zenit S.R.L. in sigla - Zenit S.R.L.;23709;Benzina;1.679;1;02/08/2025 06:00:40;Yellow
+344162729;way;46.1416229;9.3976225;37676;Esso;Esso;Lariana Petroli S.r.l.;37676;Benzina;1.639;1;29/07/2025 09:33:01;Yellow
+345333036;way;44.9392461;10.5340245;18267;Q8;;Vera di Veraldi Fabrizio & C. S.N.C.;18267;Benzina;1.699;1;31/07/2025 08:50:15;Yellow
+350898487;way;45.6729275;9.4242982;11253;Agip Eni;Agip;Car Service S.N.C. di Caslini Alessandro e Zonca Romeo & C.;11253;Benzina;1.724;1;02/08/2025 07:04:27;Yellow
+351899621;way;45.6233050;9.2250791;11643;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11643;Benzina;1.679;1;01/08/2025 07:06:49;Yellow
+351909874;way;45.6361517;9.2245595;11649;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11649;Benzina;1.679;1;01/08/2025 07:06:50;Yellow
+356021690;way;45.7258269;8.6347483;7313;IP;IP;Pavan Sergio;7313;Benzina;1.729;1;01/08/2025 10:27:58;Yellow
+356025504;way;45.6363694;8.8464912;39853;Pompe Bianche;Sommese Petroli;Sommese Carburante S.R.L.;39853;Benzina;1.697;1;02/08/2025 00:24:22;Yellow
+356027821;way;45.6371086;8.8497698;23156;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23156;Benzina;1.699;1;31/07/2025 01:05:49;Yellow
+356028385;way;45.6287370;8.8415878;9058;Esso;Esso;Lepri Marco;9058;Benzina;1.756;1;31/07/2025 08:29:16;Yellow
+356030693;way;45.6686150;8.8169095;21271;Pompe Bianche;Sommese Petroli;Car-Tel S.N.C. di Telesca R. & Cartini M. L.;21271;Benzina;1.689;1;01/08/2025 07:02:28;Yellow
+356033617;way;45.4881304;9.1964794;25774;Agip Eni;Eni;Gaio S.N.C. di Gaio Marco & C.;25774;Benzina;1.699;1;05/07/2025 00:04:06;Yellow
+358540893;way;45.5464975;9.2262312;20204;Esso;Esso;Stazione di Servizio Snc di De Nardi Roberto & C.;20204;Benzina;1.699;1;01/08/2025 09:04:13;Yellow
+358540898;way;45.5451003;9.2250622;40566;Keropetrol;Keropetrol;Keropetrol S.P.A.;40566;Benzina;1.699;1;02/08/2025 05:55:11;Yellow
+358542049;way;45.5465726;9.2293619;5529;Total Erg;Te;Gestioni Europa S.P.A.;5529;Benzina;1.639;1;01/08/2025 09:05:59;Yellow
+358544148;way;45.5477315;9.2331340;31194;Q8;Q8;Alca S.N.C. di Troiano e Lupoli;31194;Benzina;1.659;1;01/08/2025 09:39:45;Yellow
+359990921;way;45.6131157;9.2490360;33749;Keropetrol;Keropetrol;Idc Santambrogio Dario;33749;Benzina;1.759;0;01/08/2025 18:02:27;Yellow
+367130043;way;45.4866865;9.2639892;31916;Vega;Vega;Vega Carburanti S.p.A.;31916;Benzina;1.659;1;30/07/2025 21:26:34;Yellow
+368108327;way;45.5072390;9.2234057;12747;Eni;Agip Eni;Zambelli Roberto;12747;Benzina;1.709;1;02/08/2025 08:16:06;Yellow
+370206369;way;45.5986407;8.9399392;24513;Eni;Eni;Cobido Car Service di Dolce Antonino & C. Snc;24513;Benzina;1.709;1;02/08/2025 05:32:11;Yellow
+370206376;way;45.5981370;8.9392832;11673;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11673;Benzina;1.689;1;01/08/2025 08:04:07;Yellow
+370206377;way;45.5965314;8.9372794;5530;IP;TE;Gestioni Europa S.P.A.;5530;Benzina;1.649;1;01/08/2025 09:05:42;Yellow
+376305186;way;45.6502932;9.5508203;33398;Pompe Bianche;LiquiMoly;Mazzola Roberto;33398;Benzina;1.638;1;02/08/2025 00:13:39;Yellow
+379236594;way;45.5103991;9.2510050;34772;Europam;Europam;Europam S.P.A.;34772;Benzina;1.637;1;31/07/2025 11:16:21;Yellow
+380942384;way;45.6054793;9.5853658;29720;Q8;Q8 Easy;Servizi & Gestioni Italia S.R.L.;29720;Benzina;1.769;1;01/08/2025 07:06:52;Yellow
+381699992;way;45.7425812;9.1972956;20750;Moro;Ambrogio Moro;Uboldi Snc di Luca Uboldi e C.;20750;Benzina;1.682;1;02/08/2025 00:16:50;Yellow
+384592841;way;45.6437464;9.0795232;33177;Q8;Q8;Servizi & Gestioni Italia S.R.L.;33177;Benzina;1.659;1;29/07/2025 07:40:25;Yellow
+390240115;way;45.4603369;10.4902257;11541;Q8;;Servizi & Gestioni Italia S.R.L.;11541;Benzina;1.659;1;01/08/2025 01:36:40;Yellow
+390396072;way;45.5021740;9.1988976;48002;Esso;Esso;Egi-2Go S.R.L.;48002;Benzina;1.809;1;02/08/2025 08:06:00;Yellow
+390619216;way;45.6078550;9.5424415;15101;Pompe Bianche;IperStation;Iper Montebello S.P.A.;15101;Benzina;1.619;1;01/08/2025 17:14:01;Yellow
+394842777;way;45.7702679;8.5942474;32673;Api-Ip;IP;Ip Services S.R.L.;32673;Benzina;1.719;1;01/08/2025 09:03:50;Yellow
+394842781;way;45.7762802;8.5885461;14404;Sommese Petroli;Sommese Petroli;Balzarini e Brovelli di Lorenzo e Luca Balzarini & C. S.N.C;14404;Benzina;1.719;1;01/08/2025 09:00:29;Yellow
+395862732;way;45.6497031;9.0819778;7242;IP;IP;Distributore Erg di Mazzucchelli Claudia;7242;Benzina;1.899;0;31/07/2025 11:33:17;Orange
+398838616;way;45.4184961;9.0726144;41220;Eni;Eni;Metta Gerardo;41220;Benzina;1.699;1;02/08/2025 07:14:15;Yellow
+398838618;way;45.4191937;9.0730001;24775;Api-Ip;IP;Ip Services S.R.L.;24775;Benzina;1.679;1;01/08/2025 09:03:47;Yellow
+400141065;way;45.5465155;9.3112753;28263;IP;IP;Rausa Maurizio;28263;Benzina;1.659;1;01/08/2025 15:01:21;Yellow
+400653175;way;45.7907272;8.7534516;12159;Api-Ip;IP;Corti Gioele;12159;Benzina;1.739;1;29/07/2025 07:39:05;Yellow
+400684487;way;45.5245612;9.2412953;7357;Esso;Esso;Gobbi Paolo;7357;Benzina;1.659;1;02/08/2025 06:53:17;Yellow
+403446001;way;45.6910442;9.4365550;16552;Api-Ip;;Fm2 S.N.C. di Magni Emanuele e Sebastiano;16552;Benzina;1.699;1;29/07/2025 17:34:43;Yellow
+406673743;way;45.8150522;9.3776381;21974;KEROPETROL;Fratelli Spreafico;Fratelli Spreafico S.N.C. di Ornella Spreafico;21974;Benzina;1.839;1;31/07/2025 07:33:25;Orange
+408453183;way;45.3579298;9.6717566;16310;Eni;Eni;Mandelli Michele;16310;Benzina;1.744;1;02/08/2025 00:22:13;Yellow
+415414657;way;45.8254533;8.8074595;11109;Eni;;Di.Esse S.N.C. di Massimo & Stefano Roselli;11109;Benzina;1.709;1;02/08/2025 07:38:29;Yellow
+421948984;way;45.6253922;9.3241845;13852;Agip Eni;Eni;Mp di Perrone Salvatore;13852;Benzina;1.724;1;02/08/2025 07:44:13;Yellow
+422411463;way;45.6004267;9.1286809;12872;Eni;Eni;Agostini Oliviero e Pieri Giacomo S.N.C.;12872;Benzina;1.679;1;02/08/2025 07:12:07;Yellow
+422411480;way;45.5977068;9.1386359;11648;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11648;Benzina;1.679;1;29/07/2025 07:40:21;Yellow
+425577988;way;45.6917191;9.6980072;26763;Api-Ip;Q8;Ip Services S.R.L.;26763;Benzina;1.669;1;01/08/2025 09:05:54;Yellow
+425718732;way;45.4389561;9.1261535;10843;Eni;Eni;F.lli Vizzielli Snc di Vizzielli Felice Danilo e C;10843;Benzina;1.699;1;02/08/2025 08:22:12;Yellow
+426807851;way;45.4243762;9.0679787;11677;Q8;;Servizi & Gestioni Italia S.R.L.;11677;Benzina;1.689;1;01/08/2025 01:36:37;Yellow
+428703719;way;45.4956986;9.1952614;39995;IP;IP;;39995;Benzina;1.799;1;01/08/2025 09:04:18;Yellow
+431049170;way;45.4294938;9.0666307;13219;IP;IP;Fc Fratelli Cesareo Snc di Antonio e Matteo Cesareo;13219;Benzina;1.689;1;30/07/2025 18:42:25;Yellow
+431539933;way;45.6817570;9.3982073;40383;Eni;Eni;Matteo Services di Mariani Matteo Claudio;40383;Benzina;1.724;1;02/08/2025 07:32:27;Yellow
+431664502;way;45.6850722;9.3986774;14854;Api-Ip;Erg;C.D.P. S.N.C. di Colombo Luigi e Colombo Luca;14854;Benzina;1.719;1;31/07/2025 07:26:22;Yellow
+432071741;way;45.6649872;9.6909726;34941;Pompe Bianche;Iper Station Stop & Go;Iper Montebello S.P.A.;34941;Benzina;1.609;1;01/08/2025 17:17:35;Yellow
+435776167;way;45.5822625;9.9243625;11208;Esso;Esso;F.lli Pezzoni S.N.C. di Pezzoni Rienzo e Emiliano;11208;Benzina;1.669;1;02/08/2025 07:22:20;Yellow
+436626842;way;45.4858253;9.2397367;11697;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11697;Benzina;1.729;1;02/08/2025 07:06:15;Yellow
+438735127;way;45.5165334;9.2069506;54777;Esso;Esso;Dambra Martina;54777;Benzina;1.749;1;01/08/2025 10:20:24;Yellow
+445010986;way;45.5175041;9.2093426;18478;Keropetrol;Keropetrol;Ip Lavaggio Sarca S.A.S. di Vespo Salvatore Claudio & C.;18478;Benzina;1.786;0;01/08/2025 15:42:24;Yellow
+445314775;way;45.5900443;9.6180602;26764;Total Erg;TE 24/24;Gestioni Europa;26764;Benzina;1.619;1;01/08/2025 09:05:56;Yellow
+446401290;way;45.4104671;9.8693979;31320;Api-Ip;;Ip Services S.R.L.;31320;Benzina;1.669;1;01/08/2025 09:01:32;Yellow
+448296490;way;45.7393287;9.7445951;16605;Api-Ip;IP;Elettrauto Acerbis Nembro S.N.C. di Acerbis Alberto e C.;16605;Benzina;1.739;1;01/08/2025 09:47:44;Yellow
+449241244;way;45.4436429;9.0008050;17952;Tamoil;Tamoil;Lanoil S.A.S. di Simone Lanzilli & C.;17952;Benzina;1.639;1;01/08/2025 15:04:40;Yellow
+449250478;way;45.4798962;8.9407618;7359;Q8;Q8;Girimonti Antonio;7359;Benzina;1.689;1;02/08/2025 06:31:30;Yellow
+452662565;way;46.1614295;9.7418962;11837;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11837;Benzina;1.679;1;02/08/2025 07:06:18;Yellow
+457173052;way;45.7535063;9.0503674;14065;Tamoil;Tamoil;Casa' Giovanni & C. S.A.S.;14065;Benzina;1.649;1;02/08/2025 07:48:06;Yellow
+457177480;way;45.7624934;9.0553414;25592;IP;IP;;25592;Benzina;1.666;0;29/07/2025 15:11:19;Yellow
+459839279;way;45.4054833;9.0141729;36486;Eni;Eni;Eni Fuel S.P.A.;36486;Benzina;1.684;1;02/08/2025 00:22:47;Yellow
+461161007;way;45.4414677;9.0432435;31149;Eni;Eni;Perrone Luca;31149;Benzina;1.711;1;02/08/2025 08:02:28;Yellow
+461836969;way;45.8385325;8.6997166;6197;IP;IP;S. & S. Snc di Sanfelici Claudio e James;6197;Benzina;1.669;1;02/08/2025 00:11:19;Yellow
+463972811;way;45.5763515;9.9428734;40454;IP;IP;Gh & Sans 2 di Hussain Tariq & C. Sas;40454;Benzina;1.659;1;02/08/2025 06:56:13;Yellow
+467178945;way;45.4469241;9.2011437;13013;Eni;Eni;Lu.Ca. S.R.L.;13013;Benzina;1.699;1;02/08/2025 07:04:16;Yellow
+472055370;way;45.5144693;9.2249003;22494;IP;IP;Ip Services S.R.L.;22494;Benzina;1.759;1;01/08/2025 09:06:34;Yellow
+472055371;way;45.5181035;9.2266821;18859;TotalErg;TotalErg;Tecniservice - S.N.C. di Ierardi Simone & C.;18859;Benzina;1.759;1;01/08/2025 13:49:19;Yellow
+472055372;way;45.5152694;9.2259272;33361;Oil One;Oil One;Meta Wash Srl;33361;Benzina;1.719;1;01/08/2025 15:26:52;Yellow
+487952043;way;45.8744833;9.9051731;34292;Zero 35;Zero 35;Ditta Morzenti Antonio S.R.L.;34292;Benzina;1.639;1;02/08/2025 00:10:56;Yellow
+494432373;way;45.4416716;9.0978327;6441;Q8;Q8;Servizi & Gestioni Italia Srl;6441;Benzina;1.639;1;30/07/2025 01:05:26;Yellow
+495712443;way;45.4508719;9.0842441;7966;Total Erg;Erg;Quinto Luigia Concetta;7966;Benzina;1.963;0;01/08/2025 08:50:30;Orange
+495945338;way;45.4421842;9.1017445;22889;IP;IP;Ip Services S.R.L.;22889;Benzina;1.649;1;01/08/2025 09:04:50;Yellow
+496938248;way;45.4296468;9.0796094;14630;Eni;Eni;Vizzielli S.A.S. di Vizzielli Monica e C.;14630;Benzina;1.699;1;02/08/2025 07:08:15;Yellow
+512901585;way;45.3155658;10.3307937;18985;Api-Ip;;Cavagna Antonella;18985;Benzina;1.689;1;30/07/2025 07:42:50;Yellow
+516023775;way;45.6315691;8.8587443;7166;Eni;Eni;Vinci S.A.S. di Vinci Salvatore & C.;7166;Benzina;1.739;1;02/08/2025 06:56:19;Yellow
+519358450;way;45.3056386;10.3234841;40311;Costantin;;Cavagna Fabio e C. Snc;40311;Benzina;1.719;1;02/08/2025 08:05:05;Yellow
+548140081;way;45.4374481;9.1929229;33261;Eni;Eni;Lu.Ca. S.R.L.;33261;Benzina;1.689;1;02/08/2025 05:58:16;Yellow
+550665321;way;45.5557125;9.9804984;32540;Sia Fuel;Sia Fuel;S.I.A. Engineering Construction S.R.L.;32540;Benzina;1.719;1;31/07/2025 17:11:24;Yellow
+575566974;way;45.8451211;9.3661697;38928;Tamoil;Tamoil;Officina dei Sapori S.N.C. di Fumagalli Ivan e Radaelli Filippo;38928;Benzina;1.659;1;01/08/2025 09:50:05;Yellow
+577810213;way;45.7013066;9.1759645;15768;Eni;eni;Furlan Giuliano;15768;Benzina;1.684;1;02/08/2025 07:28:08;Yellow
+599390270;way;45.3793034;9.3082546;11706;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11706;Benzina;1.759;1;02/08/2025 01:07:12;Yellow
+604061214;way;45.5381067;9.1309192;30023;Eni;;Del Giudice Bonaventura;30023;Benzina;1.659;1;01/08/2025 19:05:27;Yellow
+618068897;way;45.5046269;9.2382152;23117;IP;IP;Ip Services S.R.L.;23117;Benzina;1.629;1;01/08/2025 09:01:45;Yellow
+627386127;way;45.6996512;9.4084449;17574;Esso;Esso;Lentini Roberto;17574;Benzina;1.709;1;02/08/2025 08:20:14;Yellow
+629504518;way;45.1289290;10.7882135;14922;Eni;Eni;;14922;Benzina;1.759;1;30/07/2025 00:22:14;Yellow
+629506308;way;45.1259494;10.7826880;39438;Tamoil;;T.D.M. S.R.L.;39438;Benzina;1.659;1;01/08/2025 12:48:15;Yellow
+731950156;way;45.5074479;9.0957651;5440;Eni;Eni;Eni Fuel S.P.A.;5440;Benzina;1.684;1;02/08/2025 00:24:37;Yellow
+753349342;way;45.6411073;9.3689062;47977;Il Gigante self 24h;Il Gigante self 24h;Rialto S.p.a.;47977;Benzina;1.639;1;01/08/2025 15:54:54;Yellow
+760562142;way;45.4900478;9.2615101;52478;;Outlet del carburante;;52478;Benzina;1.638;1;02/08/2025 00:17:32;Yellow
+761155086;way;46.0369152;9.1254840;11563;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11563;Benzina;1.739;1;01/08/2025 08:04:07;Yellow
+768729627;way;45.5298133;9.7567958;11487;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11487;Benzina;1.659;1;01/08/2025 08:04:12;Yellow
+790400463;way;45.1328948;10.3552305;23120;IP;IP;Ip Services S.R.L.;23120;Benzina;1.679;1;01/08/2025 09:03:04;Yellow
+838434065;way;45.7428355;9.9080693;37626;Agip Eni;Agip;Service In Action di Pellegrini Alex;37626;Benzina;1.704;1;02/08/2025 04:50:09;Yellow
+855641437;way;45.4890012;9.1409006;11704;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11704;Benzina;1.699;1;01/08/2025 15:04:51;Yellow
+885292558;way;45.8494806;10.1225231;11259;Europam;;Stazione di Servizio di Martinoli Silvano e C. S.A.S.;11259;Benzina;1.729;0;01/08/2025 07:33:57;Yellow
+892363212;way;46.0311049;9.3823521;49134;;Autofficina Pasetti di Pasetti Fabio e C.;;49134;Benzina;1.849;1;30/07/2025 07:39:16;Orange
+937543931;way;45.6902882;9.4129202;13462;Api-Ip;TotalErg;Biella Rossella;13462;Benzina;1.719;1;01/08/2025 13:22:36;Yellow
+939348930;way;45.7013651;9.4105465;11618;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11618;Benzina;1.699;1;31/07/2025 07:38:30;Yellow
+954850150;way;45.5109865;9.2539781;6448;Q8;Q8;Servizi & Gestioni Italia Srl;6448;Benzina;1.629;1;30/07/2025 01:05:29;Yellow
+955630956;way;45.4995594;9.2399054;37031;Esso;Esso;D.K.G. di Davide Agazzi;37031;Benzina;1.659;1;02/08/2025 00:15:40;Yellow
+963365046;way;45.5124337;9.2705703;30060;Tamoil;Tamoil;T.D.M. S.R.L.;30060;Benzina;1.619;1;01/08/2025 12:08:56;Yellow
+963990885;way;45.5018000;9.2868844;11671;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11671;Benzina;1.649;1;02/08/2025 07:06:16;Yellow
+964239407;way;45.4965652;9.2899688;16098;IP;IP;Deda Carburanti S.N.C. di Dedamiani Vito & C.;16098;Benzina;1.679;1;28/07/2025 17:29:42;Yellow
+965542943;way;45.5193614;9.3652340;11688;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11688;Benzina;1.669;1;01/08/2025 01:36:34;Yellow
+969724182;way;45.5013809;9.3313710;12081;Eni;Eni;Pneuscars 2 S.A.S. di Terrane Fabio & C.;12081;Benzina;1.704;1;01/08/2025 11:15:42;Yellow
+970375676;way;45.5041471;9.3388546;11293;Agip Eni;Agip;Duelle S.N.C. di Marco e Simone Levati;11293;Benzina;1.744;1;01/08/2025 14:44:12;Yellow
+970375738;way;45.5151023;9.3314501;27881;Esso;Esso;Oil Company di Lovino Filomeno;27881;Benzina;1.649;1;01/08/2025 15:53:40;Yellow
+976221259;way;45.5272291;9.3964361;6430;Q8;Q8;Servizi & Gestioni Italia Srl;6430;Benzina;1.649;1;29/07/2025 01:05:44;Yellow
+976888264;way;45.5491728;9.3891756;11711;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11711;Benzina;1.669;1;29/07/2025 07:40:28;Yellow
+976969495;way;45.5246408;9.4016401;15816;IP;IP;Effemme Sas di Meroni Fulvio Gaspare e C.;15816;Benzina;1.699;1;30/07/2025 09:07:39;Yellow
+982195948;way;45.4840053;9.4023337;24429;IP;IP;Chiummo Nicola;24429;Benzina;1.699;1;31/07/2025 22:34:38;Yellow
+988247140;way;45.5453818;9.3344058;37970;IP;IP;Gestioni Europa - Società Per Azioni;37970;Benzina;1.639;1;01/08/2025 09:05:10;Yellow
+1006688049;way;45.6124947;9.0314423;20637;Q8;Q8;Mcr S.N.C. di Martella Francesco e C.;20637;Benzina;1.699;1;01/08/2025 19:20:04;Yellow
+1006918470;way;45.5622017;9.1546984;39823;Agip;Agip;Vago Stefano;39823;Benzina;1.859;1;01/08/2025 09:20:08;Orange
+1020529419;way;45.3642930;9.3228284;11666;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11666;Benzina;1.769;1;01/08/2025 07:06:51;Yellow
+1020918742;way;45.3451792;9.3262863;13705;IP;IP;Fontes Angelo;13705;Benzina;1.729;1;01/08/2025 21:43:48;Yellow
+1023155330;way;45.6465019;9.6165721;12959;Agip;Agip;Mora Renato Gaetano;12959;Benzina;1.749;1;26/07/2025 11:31:48;Yellow
+1023973569;way;45.6318720;9.6004337;25613;Q8;Q8;Nuova Sidap S.R.L.;25613;Benzina;1.754;1;01/08/2025 14:00:11;Yellow
+1024451850;way;45.3981719;9.2637130;36333;Q8;Q8;Cecere Gerardino;36333;Benzina;1.779;1;02/08/2025 08:11:45;Yellow
+1024451881;way;45.3979585;9.2845605;15949;KEROPETROL;;Ke.Ro Impianti S.R.L.;15949;Benzina;1.699;1;02/08/2025 05:55:32;Yellow
+1035045973;way;45.5958132;9.5143952;37035;IP;IP;Tre Erre S.A.S. di Radaelli Emanuele e Radaelli Giuseppe e C.;37035;Benzina;1.779;1;30/07/2025 22:30:39;Yellow
+1035747497;way;45.6870847;9.1883039;38584;Q8;CP Paganoni;Commerciale Paganoni S.P.A.;38584;Benzina;1.655;1;02/08/2025 00:08:29;Yellow
+1047061040;way;45.4262207;9.2505756;33179;Q8;Q8;Servizi & Gestioni Italia S.R.L.;33179;Benzina;1.699;1;02/08/2025 01:07:13;Yellow
+1068903167;way;45.2637249;8.7611921;29254;;;Dam Sas Carburanti di Cutrona G. e C.;29254;Benzina;1.649;1;02/08/2025 05:32:10;Yellow
+1079840249;way;45.5237494;9.5537962;28100;Tamoil;Tamoil;Fa.Ma. S.A.S. di Mangini Marco & C.;28100;Benzina;1.629;1;02/08/2025 06:42:09;Yellow
+1080456286;way;45.0825830;10.5666892;32881;Keropetrol;;Keropetrol S.P.A.;32881;Benzina;1.699;1;02/08/2025 05:55:05;Yellow
+1109089532;way;45.5588743;9.1707886;13647;Eni;Eni;Stazione Agip di Vetri Paolo e C. S.A.S.;13647;Benzina;1.699;1;02/08/2025 06:54:05;Yellow
+1149748970;way;45.6176373;9.0644547;11665;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11665;Benzina;1.677;1;30/07/2025 01:05:28;Yellow
+1213037485;way;45.9436368;8.8307083;8738;Sodin;Sodin;Area di Servizio Sodin di Paronzini Ettorino;8738;Benzina;1.789;1;28/07/2025 08:55:24;Yellow
+1214010195;way;45.6016159;8.8614923;11920;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11920;Benzina;1.719;1;01/08/2025 01:36:38;Yellow
+1232644221;way;46.2550398;10.5149488;20457;Esso;Esso;Sandrini S.R.L.;20457;Benzina;1.789;1;01/08/2025 10:15:03;Yellow
+1256472831;way;45.5252129;9.9100198;30174;Total Erg;TotalErg;Flo di De Remigis & C. S.N.C.;30174;Benzina;1.739;1;02/08/2025 05:32:40;Yellow
+1267019256;way;45.7235101;9.0701560;14942;Q8;Q8;Emme2Enne S.R.L.;14942;Benzina;1.689;1;31/07/2025 06:52:51;Yellow
+1270313972;way;45.6211139;9.3464094;10127;Total Erg;Te;Gestioni Europa - Società Per Azioni;10127;Benzina;1.649;1;01/08/2025 09:06:00;Yellow
+1270380283;way;45.8627396;9.3868878;23977;;Union;Gianola Massimiliano;23977;Benzina;1.699;1;01/08/2025 08:37:15;Yellow
+1280925949;way;46.3253654;10.3268537;40814;Tamoil;Tamoil;T.D.M. S.R.L.;40814;Benzina;1.729;1;01/08/2025 11:40:05;Yellow
+1296354617;way;45.3769580;9.7446096;33594;Esso;Esso;Piccione Pinuccia S.A.S di Pinuccia Piccione;33594;Benzina;1.709;1;01/08/2025 08:17:23;Yellow
+1315726416;way;45.8369462;9.8704220;30080;Eni;Eni;Area di Servizio Carb;30080;Benzina;1.704;1;02/08/2025 06:54:04;Yellow
+1328583081;way;45.8302594;8.8345477;34223;;Sommese Petroli;Ro.Ca. Snc di Stefano Rocca e Marco Cassani;34223;Benzina;1.709;1;30/07/2025 07:13:24;Yellow
+1346360248;way;45.8252263;8.8059488;37599;;Coil;Bertoni Iller Luigi Angelo;37599;Benzina;1.689;1;01/08/2025 12:02:46;Yellow
+1408603840;way;45.6917190;9.0414321;40208;Eni;Eni;Corti Donato.;40208;Benzina;1.714;1;02/08/2025 06:58:12;Yellow
+5269524;relation;45.6967451;9.2274904;5636;Q8;Q8;Fratelli Carlucci S.N.C. di Carlucci Paolo & C.;5636;Benzina;1.699;1;01/08/2025 15:14:30;Yellow
+5605152;relation;45.6300123;9.8731868;6207;Agip Eni;;Area Servizio (Agip) Oasi di Pagnoncelli Massimiliano e C. S.N.C;6207;Benzina;1.699;1;02/08/2025 05:32:11;Yellow
+11792974;relation;45.6763541;9.2070891;28970;Tamoil;Tamoil;T.D.M. S.R.L.;28970;Benzina;1.659;1;01/08/2025 11:50:14;Yellow
+11797017;relation;45.6684061;9.2022839;5160;Esso;Esso;Vanoli S.N.C. di Vanoli Firmino e Maroni;5160;Benzina;1.686;1;01/08/2025 18:55:36;Yellow
