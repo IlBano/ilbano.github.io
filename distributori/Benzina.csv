@@ -1,208 +1,108 @@
-lat;lon;brand;name;operator;refmise;price;fuel;isSelf;color;date
-44.9144077;9.1910799;;Occhio al Prezzo;Bar L'Alpino di Montagna Antonella;21385;2.15;Benzina;0;Red;27/07/2025 06:08:52
-45.101419;8.745809;Eni;Eni;Pampuri Emiliano;10833;1.759;Benzina;1;Yellow;02/08/2025 06:46:16
-45.06834;9.265536;Eni;Eni;Baisa S.N.C. di Tiozzo S. Distasi D. e C.;8094;0.0;Benzina;;Blue;
-45.158638;9.378242;Agip;Agip;Agip;;0.0;Benzina;;Blue;
-45.1874262;9.1761666;Agip Eni;Agip;Scicchitano Mario;10840;0.0;Benzina;;Blue;
-45.1985867;9.181184;Eni;Agip;Pischedda Andrea;17612;1.759;Benzina;1;Yellow;02/08/2025 00:24:51
-45.33308;8.879652;Eni;Eni;Lepre Enrico;8010;0.0;Benzina;;Blue;
-44.9934165;9.0175184;Agip Eni;Eni;Bozzi Angelo Davide;7156;0.0;Benzina;;Blue;
-44.9954932;8.9857142;Eni;Eni;Cattani Lauretta;13825;1.749;Benzina;1;Yellow;02/08/2025 00:20:15
-45.1019269;8.9001613;Agip Eni;Agip;Ta S.N.C. di Albini Claudia - Tarini Chiara e C.;7932;0.0;Benzina;;Blue;
-45.3258389;8.8755964;Agip;Agip;Iovane Michele;17443;1.744;Benzina;1;Yellow;02/08/2025 07:32:20
-45.078786;9.3014944;Eni;Eni;La Gaccia Paolo;36540;0.0;Benzina;;Blue;
-45.1931029;9.1666342;Eni;Agip;Pischedda Andrea;30084;1.759;Benzina;1;Yellow;02/08/2025 07:32:18
-45.3557244;8.8168228;Agip;Agip;Agip;;0.0;Benzina;;Blue;
-45.3052351;8.8528719;Eni;Eni;;58809;1.689;Benzina;1;Green;02/08/2025 00:24:52
-44.998189;9.041528;Api;Retitalia;Autogas Viola Niccolo';29385;0.0;Benzina;;Blue;
-44.9991565;9.0690754;;Iper;Iper Montebello S.P.A.;24149;1.604;Benzina;1;Green;01/08/2025 17:16:01
-44.9781488;9.0081271;Total Erg;Erg;Sbarra Mauro;13335;1.679;Benzina;1;Green;30/07/2025 07:39:27
-44.9971095;8.9767038;IP;Erg;Gestioni Europa - Società Per Azioni;22291;1.659;Benzina;1;Green;01/08/2025 09:06:01
-45.071111;9.1024725;Tamoil;Tamoil;Tessarin Andrea;12209;0.0;Benzina;;Blue;
-44.9825554;8.9804385;IP;IP;;33640;0.0;Benzina;;Blue;
-45.0078381;9.1096902;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11788;1.639;Benzina;1;Green;31/07/2025 07:05:48
-44.9868746;8.9933781;;Restiani;;24415;1.699;Benzina;1;Green;01/08/2025 16:38:39
-45.00975;8.996408;IP;IP;IP;;0.0;Benzina;;Blue;
-44.9949375;8.9890052;IP;Api;Gruppo Sam Snc di Sudesh Kumar & C.;40596;1.659;Benzina;1;Green;29/07/2025 08:32:14
-45.016499;9.131184;Q8;Q8;Farina Pierluigi;8205;0.0;Benzina;;Blue;
-44.9428496;9.0121062;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;7685;1.725;Benzina;1;Green;02/08/2025 06:00:58
-44.9250314;9.0259578;Tamoil;Tamoil;G.V. Carburanti Snc di Giangrassi R. e Viola D.;27414;1.689;Benzina;1;Green;02/08/2025 06:58:21
-44.972958;9.061618;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21858;1.725;Benzina;1;Green;02/08/2025 06:00:59
-45.0371725;9.0486656;;Indipend.;Nebbiolo Nicolino;12979;1.66;Benzina;1;Green;01/08/2025 16:37:46
-44.7783753;9.2469824;ERG;Erg;Erg;;0.0;Benzina;;Blue;
-44.9969758;9.0117307;Eni;Eni;Distributore Agip di Ferigo Claudio;6237;0.0;Benzina;;Blue;
-45.0391667;9.0811111;Independent;Indipend.;Indipend.;;0.0;Benzina;;Blue;
-45.121111;9.115599;Total;Total;Stazione di Servizio Total di De Cosmo Gianbattista;36164;0.0;Benzina;;Blue;
-45.13593;9.119485;Erg;Erg;Due D&S S.N.C. di Busnelli Davide e C.;32740;0.0;Benzina;;Blue;
-45.157796;9.128881;Q8;Q8;Ara S.R.L.;34181;0.0;Benzina;;Blue;
-45.162879;9.134395;Esso;Esso;Esso di Fogarolo Flavio;31040;0.0;Benzina;;Blue;
-45.167741;9.140795;Retitalia;Retitalia;Vinpe Servizi S.P.A.;41194;0.0;Benzina;;Blue;
-45.170815;9.14427;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11786;1.699;Benzina;1;Green;01/08/2025 08:04:09
-45.1748391;9.1463411;Repsol;Repsol;M.C.S. Società a Responsabilità Limitata o in forma abbreviata M.C.S. S.R.L.;9845;0.0;Benzina;;Blue;
-45.0314569;9.1302924;Repsol;Repsol;Maggi Luigi;8452;0.0;Benzina;;Blue;
-45.084258;9.1146018;Total;Total;Servizi & Gestioni Italia S.R.L.;6455;0.0;Benzina;;Blue;
-45.000465;8.96096;Eni;Agip;Eni Fuel S.P.A.;5453;0.0;Benzina;;Blue;
-45.00001;8.959136;Tamoil;Tamoil;T.D.M. S.R.L.;26682;1.659;Benzina;1;Green;01/08/2025 11:38:10
-44.8242091;9.1259872;Tamoil;Tamoil;Pastore Petroli - S.R.L.;26140;1.699;Benzina;1;Green;01/08/2025 09:40:37
-44.8249296;9.1844836;Tamoil;Tamoil;T.D.M. S.R.L.;39362;1.689;Benzina;1;Green;01/08/2025 12:09:33
-45.0098219;8.9277552;Tamoil;Tamoil;T.D.M. S.R.L.;29629;1.659;Benzina;1;Green;01/08/2025 14:46:09
-44.9991693;9.0919054;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia Srl;6453;1.619;Benzina;1;Green;02/08/2025 01:07:13
-45.1488612;8.9925327;Esso;Esso;Nuova Sidap S.R.L.;3558;1.882;Benzina;1;Orange;01/08/2025 17:32:00
-45.147315;8.9901698;Q8;Q8;Acistar Nove S.R.L.;29714;1.799;Benzina;1;Yellow;29/07/2025 14:05:07
-45.0006167;9.0692194;;Indipend.;Moro Paolo;27924;0.0;Benzina;;Blue;
-45.0086324;9.1082974;Metano;Metano;Metano;;0.0;Benzina;;Blue;
-45.0123378;9.1171983;Esso;Esso;Pisello Giuseppe Fabrizio;22662;1.629;Benzina;1;Green;01/08/2025 10:45:27
-45.023261;9.128705;Total Erg;TE;Gestioni Europa - Società Per Azioni;10144;0.0;Benzina;;Blue;
-45.1724151;9.1449253;Metano;Metano;Metano Pavia di Guastoni Alessandro e C. S.N.C.;14699;0.0;Benzina;;Blue;
-45.057266;9.135733;Esso;IP;Maggi Luigi;39840;0.0;Benzina;;Blue;
-45.1969929;9.1596198;Q8;Q8;Servizi & Gestioni Italia S.R.L.;14281;1.714;Benzina;1;Green;02/08/2025 01:07:13
-45.1797774;9.1518098;Q8;Q8;Tidona Marco;33980;0.0;Benzina;;Blue;
-45.1818232;9.1776292;Tamoil;Tamoil;Graziano Daniela;12627;0.0;Benzina;;Blue;
-45.037941;9.083467;Total Erg;TotalErg;La Rosa Dei Venti di Guarnaschelli Roberto;15098;1.799;Benzina;0;Yellow;29/07/2025 08:18:39
-45.198195;9.157383;Q8;Q8;S.M.A.L.P. S.N.C. di Losi Stefano Maria e Ferlisi Andrea e C.;25356;1.759;Benzina;1;Yellow;26/07/2025 10:33:13
-45.1767214;9.2057735;IP;IP;Quadrelli Luigi;29040;0.0;Benzina;;Blue;
-45.199734;9.150796;Esso;Esso;Giordano Gianluca;17921;0.0;Benzina;;Blue;
-45.3628637;8.8001773;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7279;1.699;Benzina;1;Green;02/08/2025 07:06:17
-45.197371;8.916006;Q8;Q8;Crotti Battista;37471;1.85;Benzina;1;Yellow;31/07/2025 06:50:24
-45.2419199;8.7485802;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11791;1.629;Benzina;1;Green;01/08/2025 01:36:38
-45.256137;8.744339;;;D.A.R.M. Petroli S.R.L.;38240;0.0;Benzina;;Blue;
-45.280081;8.791873;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11792;1.629;Benzina;1;Green;01/08/2025 08:35:10
-45.324996;9.206564;IP;IP;Maverna Claudio;16580;1.669;Benzina;1;Green;03/06/2025 15:12:25
-45.325823;8.8761434;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11789;1.679;Benzina;1;Green;31/07/2025 07:38:32
-45.3197808;8.8457023;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11787;1.699;Benzina;1;Green;02/08/2025 07:06:17
-44.9966355;9.0174458;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11793;1.639;Benzina;1;Green;31/07/2025 01:05:48
-45.32228;8.82848;Tamoil;Tamoil;Maggi Stefano;10851;1.679;Benzina;1;Green;02/08/2025 07:06:08
-45.0542212;8.8085575;Q8;Q8;Servizi & Gestioni Italia S.R.L.;9601;1.659;Benzina;1;Green;02/08/2025 01:07:13
-45.163052;9.025762;IP;IP;Campagna Mario;9885;0.0;Benzina;;Blue;
-45.1579553;9.0876073;Retitalia;;Tronci Nicola;38440;0.0;Benzina;;Blue;
-45.198207;8.768018;Q8;Q8;Palma Giovanni;5087;1.659;Benzina;1;Green;31/07/2025 07:16:32
-45.306602;8.874308;Tamoil;Tamoil;Di Palma Carlo;14096;1.689;Benzina;1;Green;30/07/2025 08:19:27
-45.2534824;9.0386753;;Pit Stop;Castoldi Valerio;38129;1.659;Benzina;1;Green;31/07/2025 13:55:36
-45.0827652;9.3184206;IP;IP;Stradella S.R.L.;3763;1.869;Benzina;1;Yellow;31/07/2025 11:01:35
-45.0491761;9.2326945;Tamoil;Tamoil;Carburanti Olii Lubrificanti Bronese S.R.L.;13083;1.699;Benzina;1;Green;01/08/2025 14:36:55
-45.0649938;9.2586358;Esso;Esso;Villani Gianangelo;29734;0.0;Benzina;;Blue;
-45.067023;9.261807;;B station;;41227;0.0;Benzina;;Blue;
-45.087468;9.257634;Q8;Q8;Rga S.R.L.;38946;0.0;Benzina;;Blue;
-45.1189709;9.2333072;IP;IP;La Vida S.N.C. di Curatella Vincenzo & Virgillo Daniele;24819;0.0;Benzina;;Blue;
-45.080949;9.258685;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;7683;1.769;Benzina;1;Yellow;02/08/2025 06:00:57
-45.1774743;9.2026772;Q8;Q8;Ambrogio Moro S.P.A.;24634;1.689;Benzina;1;Green;29/07/2025 12:05:16
-45.192535;9.1812664;Q8;Q8;Servizi & Gestioni Italia Srl;6457;1.714;Benzina;1;Green;02/08/2025 01:07:14
-45.1897083;9.1892545;TotalErg;TE 24/24;Gestioni Europa S.P.A.;5539;0.0;Benzina;;Blue;
-45.186321;9.171138;Total;Total;Legacy di Borelli Tania e C. S.A.S.;23767;1.729;Benzina;1;Green;02/08/2025 06:57:00
-45.072391;9.27003;Eni;Eni;La Gaccia Gianfran;41535;1.759;Benzina;1;Yellow;02/08/2025 07:28:07
-45.0755275;9.2775088;Keropetrol;Keropetrol;Ricchini Paolo e Maurizio & C. S.N.C.;7833;0.0;Benzina;;Blue;
-45.1863041;9.2087524;IP;IP;Egaf di Calcaterra Anna Maria e C. S.A.S.;8491;0.0;Benzina;;Blue;
-45.044036;9.258283;Tamoil;Tamoil;P & J di Biani Piero e Pozzi Jennifer S.N.C. Denominazione Abbreviata P & J di Biani e Pozzi S.N.C.;17214;1.879;Benzina;0;Orange;17/07/2025 07:44:23
-44.7384551;9.2807627;Agip Eni;;Tacchini Carburanti S.R.L.;30596;0.0;Benzina;;Blue;
-45.331905;8.836827;Esso;Esso;Aresi di Sironi Fabio;35940;1.729;Benzina;1;Green;02/08/2025 06:39:43
-45.167198;8.997889;Q8;Q8;Ansaldi Fabio;19876;0.0;Benzina;;Blue;
-45.1886926;9.1364215;Erg;Erg;Lemillebolle S.N.C. di Cau Giov Battista e C.;26279;0.0;Benzina;;Blue;
-44.9026336;9.0513367;Total Erg;Erg;Gestioni Europa - Società Per Azioni;20672;1.669;Benzina;1;Green;01/08/2025 09:05:00
-44.857375;9.08329;;Indipend.;Vitras Sas di Angeleri Carlo & C.;36028;1.689;Benzina;1;Green;02/08/2025 07:20:15
-45.2557523;8.7418946;Erg;Erg;Erg;;0.0;Benzina;;Blue;
-45.328519;8.878911;TotalErg;TotalErg;Schiesari Maurizio & C. S.A.S.;33033;0.0;Benzina;;Blue;
-45.165004;9.017115;Total;Total;Gestioni Europa - Società Per Azioni;35729;0.0;Benzina;;Blue;
-45.326595;8.760674;Total Erg;Erg;Cedrino Mirko;30605;0.0;Benzina;;Blue;
-45.191005;8.941305;Esso;Esso;Shah Mohammadi Hamid;41255;0.0;Benzina;;Blue;
-45.3120429;8.8659932;IP;Api;Dssoki Yasir;37323;0.0;Benzina;;Blue;
-45.3121123;8.8655151;IP;TotalErg;Total;;0.0;Benzina;;Blue;
-45.193954;8.928988;Esso;;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12177;1.738;Benzina;1;Green;02/08/2025 06:00:57
-45.095761;8.907251;Tamoil;Tamoil;Tassi Paolo;20838;0.0;Benzina;;Blue;
-45.0969537;8.9074587;Esso;Esso;Biscuola Thomas;39183;1.689;Benzina;1;Green;31/07/2025 13:17:15
-45.0985327;8.9056858;Total Erg;TotalErg;Mangiarotti Dario;13835;1.709;Benzina;1;Green;31/07/2025 15:19:28
-45.303419;8.8702135;;;M.T.M.Di Magnani Daniele & C.S.N.C;33228;1.629;Benzina;1;Green;30/07/2025 07:39:36
-45.248229;8.905363;Tamoil;Tamoil;Di Palma Carlo;14085;0.0;Benzina;;Blue;
-45.1619318;8.9457232;Agip Eni;Agip;Stazione di Servizio Agip F.lli Lodola S.N.C.;32241;1.739;Benzina;1;Green;02/08/2025 08:02:18
-45.2562737;8.8690953;Q8;Q8;Lagana' Graziella;10904;0.0;Benzina;;Blue;
-45.164745;8.7912205;Q8;Q8;Mattia Scabeni;35663;1.729;Benzina;1;Green;31/07/2025 07:48:43
-45.150111;8.825626;Total Erg;Total;Faraz Haroon;24826;0.0;Benzina;;Blue;
-45.3151265;9.2678346;Api-Ip;;Ip Services S.R.L.;5964;0.0;Benzina;;Blue;
-45.295494;8.745911;Api-Ip;Api;Odelli Lucia;19033;0.0;Benzina;;Blue;
-45.244512;8.731019;Metano;Metano;Metano Per Auto C.M.G. Srl;21779;0.0;Benzina;;Blue;
-45.249014;8.721128;Tamoil;Tamoil;T.D.M. S.R.L.;36367;1.649;Benzina;1;Green;01/08/2025 11:42:07
-45.2472;8.7252;ERG;Erg;Erg;;0.0;Benzina;;Blue;
-45.249483;8.718123;Total Erg;Erg;Pampuri Mauro;35385;0.0;Benzina;;Blue;
-45.289682;9.289252;Tamoil;Tamoil;Merlini Sandro;16671;0.0;Benzina;;Blue;
-45.181137;8.59736;Giap;Giap;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;34184;1.739;Benzina;1;Green;02/08/2025 06:00:59
-45.289531;8.584528;Api;Api;Ghibriali Marco Nardino;48106;1.739;Benzina;1;Green;29/07/2025 17:02:31
-45.069482;9.304532;Q8;Q8;Q8;;0.0;Benzina;;Blue;
-45.3110363;8.8526353;;;Lambo Carburanti di Balsamo Francesco;38786;0.0;Benzina;;Blue;
-45.310707;8.844788;IP;TotalErg;Vecchia Ditta Snc di Bertolotto S. e C.;18564;0.0;Benzina;;Blue;
-45.297139;8.852974;Kerotris;K;K Net S.R.L.;13744;0.0;Benzina;;Blue;
-45.3156069;8.863551;Retitalia;;Di Palma Carlo;51483;1.699;Benzina;1;Green;30/07/2025 08:19:37
-45.324728;8.874836;IP;IP;Ip Services S.R.L.;17691;1.679;Benzina;1;Green;01/08/2025 09:03:50
-45.3136192;9.2064137;Eni;Eni;Servizio Sicuro S.N.C. di Samarati Stefano e Scaglioni Giancarlo;14693;1.679;Benzina;1;Green;02/08/2025 07:12:09
-45.280349;9.212026;IP;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21857;1.728;Benzina;1;Green;02/08/2025 06:01:00
-45.233717;9.1833328;Esso;Esso;Damiani Anita;21401;1.739;Benzina;1;Green;30/07/2025 18:10:32
-45.0674782;9.329182;Tamoil;Tamoil;T.D.M. S.R.L.;28396;1.699;Benzina;1;Green;01/08/2025 11:48:14
-45.272516;9.253433;Tamoil;Tamoil;Tamoil;;0.0;Benzina;;Blue;
-45.107886;9.449927;IP;IP;;5963;0.0;Benzina;;Blue;
-45.255275;9.233146;Tamoil;Tamoil;Bonizzoni Pietro Giuseppe;12780;1.689;Benzina;1;Green;30/07/2025 12:02:08
-45.293358;9.243836;Api;Api;Maini Maurizio;9206;0.0;Benzina;;Blue;
-45.208476;9.146671;;Giovi Gas;Hercules S.N.C. di Cristescu P. & Pervulescu L.;40804;0.0;Benzina;;Blue;
-45.1599019;9.3984749;Tamoil;Tamoil;Rizzi Pierluigi;9302;1.649;Benzina;1;Green;02/08/2025 07:28:05
-45.3219086;8.8726601;Q8;Q8;Servizi & Gestioni Italia Srl;6456;1.659;Benzina;1;Green;30/07/2025 01:05:30
-45.3012596;8.8626389;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23012;1.629;Benzina;1;Green;30/07/2025 01:05:30
-45.2926887;8.8534426;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12179;1.658;Benzina;1;Green;02/08/2025 06:00:58
-45.316545;8.880636;;;Vitras Sas di Angeleri Carlo & C.;33347;0.0;Benzina;;Blue;
-45.316905;8.880601;Esso;Esso;Vett -Amo Snc di Vettorello Roberta Luisa e Amolaro Fabio Walter;32414;1.686;Benzina;1;Green;02/08/2025 07:27:55
-45.2490477;8.7435361;IP;IP;Gamma Petroli S.R.L.;17971;1.649;Benzina;1;Green;29/07/2025 09:04:52
-45.121222;8.796524;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12178;1.759;Benzina;1;Yellow;02/08/2025 06:00:58
-45.1134764;8.6690104;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;35002;1.739;Benzina;1;Green;02/08/2025 06:00:59
-45.320557;8.8719265;IES;IES;Garbini S.P.A.;36257;1.659;Benzina;1;Green;02/08/2025 00:19:29
-45.1000217;8.7410344;Total Erg;TotalErg;Cerra Costanza;12508;0.0;Benzina;;Blue;
-45.1920956;9.3877929;Total Erg;;Cerutti S.N.C. di Cerutti Silvio & Rosangela;6853;1.729;Benzina;1;Green;01/08/2025 10:35:21
-45.0252498;8.9138242;Agip Eni;;Sirtam S.R.L.;22417;1.684;Benzina;1;Green;30/07/2025 12:04:14
-44.8760761;9.1613497;Sia Fuel;Mirina;S.I.A. Engineering Construction S.R.L.;39855;0.0;Benzina;;Blue;
-44.9552263;9.0104093;;Centro Calor;Centro Calor S.R.L.;10041;1.699;Benzina;1;Green;31/07/2025 08:56:02
-45.0372005;9.2995806;;Keropetrol;Benzoil Società a Responsabilità Limitata Semplificata;37891;0.0;Benzina;;Blue;
-45.073113;9.3142463;Vega Carburanti;;Vega Carburanti S.P.A.;31519;1.709;Benzina;1;Green;30/07/2025 21:31:28
-45.1290659;8.6291765;Gamma Petroli;;Chilò Michele;33486;0.0;Benzina;;Blue;
-45.0010587;9.0540501;Tamoil;Tamoil;Oilgest S.R.L.;23703;0.0;Benzina;;Blue;
-45.2517457;9.1982102;Api-Ip;IP;Clerici Renzo;37665;1.729;Benzina;1;Green;31/07/2025 11:49:37
-45.3251958;9.2565233;Vega;Vega;Vega Carburanti S.p.A.;31523;1.679;Benzina;1;Green;31/07/2025 08:18:05
-45.1162222;9.3517781;Tamoil;;Carburanti Olii Lubrificanti Bronese S.R.L.;13091;1.699;Benzina;1;Green;01/08/2025 14:37:10
-45.1614289;9.3027145;Esso;Distributore Esso;F.lli Boneschi S.N.C. di Boneschi Maurizio e Mario;19641;1.699;Benzina;1;Green;02/08/2025 05:53:02
-45.1594754;9.4230461;;;Af Petrol S.R.L.;4593;1.645;Benzina;1;Green;02/08/2025 00:14:03
-45.1606504;9.3091999;IP;IP;Ferlisi Giuseppe;37206;0.0;Benzina;;Blue;
-45.1615485;9.4500157;Metano;Ali Fuel;Ali Fuel S.r.l.;34799;0.0;Benzina;;Blue;
-45.1616312;9.2954779;Tamoil;;Amatruda Giovanni;8027;1.699;Benzina;1;Green;01/08/2025 15:05:05
-44.8346903;9.323751;Sia Fuel;Mirina;S.I.A. Engineering Construction S.R.L.;39856;0.0;Benzina;;Blue;
-45.083663;9.3155674;Eni;Eni;Stazione Agip di Pietralunga P. & F. S.N.C.;3935;1.849;Benzina;1;Yellow;02/08/2025 00:25:01
-44.991005;9.3008073;Keropetrol;;Braga Massimo;33530;1.745;Benzina;1;Yellow;28/07/2025 09:49:10
-44.9949417;9.2977733;Agip Eni;;Denis Kabashi;22956;0.0;Benzina;;Blue;
-45.203513;9.1706181;IP;Api-Ip;Gestioni Europa - Società Per Azioni;10332;1.719;Benzina;1;Green;01/08/2025 09:05:10
-45.224693;9.2094233;Pan Oil;;Ronzi Aldo;32068;1.729;Benzina;1;Green;28/07/2025 08:08:44
-44.866796;9.2644734;;;Distributore Carburante Corradi Matteo;29142;1.799;Benzina;1;Yellow;28/07/2025 14:18:11
-45.313885;9.0242722;Eni;Eni;Bonizzoni S.N.C. di Bonizzoni Marco e C.;8408;1.749;Benzina;1;Yellow;02/08/2025 07:26:15
-45.3089377;9.0164478;Q8;Q8;Servizi & Gestioni Italia Srl;6454;1.669;Benzina;1;Green;02/08/2025 01:07:14
-45.208181;9.1468759;Loro;;Full Crief di Crinta Edmond Emanuel;40713;0.0;Benzina;;Blue;
-45.2739962;8.777877;Esso;;Brixia Finanziaria S.R.L.;37790;0.0;Benzina;;Blue;
-45.2102344;9.3528253;Tamoil;Tamoil;T.D.M. S.R.L.;37247;1.689;Benzina;1;Green;01/08/2025 12:09:00
-45.1726237;9.3162332;Europam;;Europam S.P.A.;36918;1.697;Benzina;1;Green;01/08/2025 15:20:57
-45.1505917;9.1202134;Vega Carburanti;Vega Carburanti;Vega Carburanti S.P.A.;31524;1.699;Benzina;1;Green;30/07/2025 21:31:34
-44.9991188;9.0219094;Esso;Esso;Pisello Giuseppe Fabrizio;22647;1.639;Benzina;1;Green;30/07/2025 10:07:02
-45.2620871;8.8548612;Tamoil;;F.lli Zerbi di Zerbi Davide e Zerbi Cesare S.N.C.;22393;1.829;Benzina;0;Yellow;30/07/2025 00:03:30
-45.1373678;9.0506208;Total Erg;;Boscati Marilena;17495;0.0;Benzina;;Blue;
-45.2528814;8.7448161;Total Erg;;Ghibriali Marco Nardino;15490;0.0;Benzina;;Blue;
-45.197682;9.318428;Api-Ip;;Capelletti Maurizio;15103;1.699;Benzina;1;Green;02/08/2025 07:36:52
-45.0513656;8.8058705;Api-Ip;;Castini Roberto;14378;0.0;Benzina;;Blue;
-45.2796031;8.6042503;Eni;Eni;Ferrari Claudio;13643;1.759;Benzina;1;Yellow;02/08/2025 07:40:15
-45.2329423;8.6875221;Retitalia;;Rubin Rosa Angela;12884;0.0;Benzina;;Blue;
-45.0603024;9.3031321;Q8;;F.lli Cassi di Cassi Maurizio Antonio e Cassi Gabriele Marco S.N.C.;10565;1.709;Benzina;1;Green;01/08/2025 08:01:19
-45.2308335;9.0758369;Indipendente;Indipendente;Ambrogio Moro S.P.A.;9004;1.679;Benzina;1;Green;02/08/2025 00:19:32
-45.2062936;9.0118841;;;Verri Cristiano;37442;1.725;Benzina;1;Green;29/07/2025 19:10:39
-45.0578731;8.6681663;;Occhio al Prezzo;Baldo Aldo Mario;12620;0.0;Benzina;;Blue;
-45.3009423;8.8741642;;Vigevano Carburanti;;;0.0;Benzina;;Blue;
-45.1621986;9.2910375;Biomet;Biomet;;;0.0;Benzina;;Blue;
-45.2819189;9.1161;;Acqua & Sole;;;0.0;Benzina;;Blue;
-45.2008877;9.1943867;Vega;Vega;Vega Carburanti S.P.A.;31522;1.709;Benzina;1;Green;30/07/2025 21:29:23
-45.2191457;9.1775313;IP;IP;Ricchini e Masala S.N.C.;17271;0.0;Benzina;;Blue;
-45.3188266;9.0221021;IP;IP;Stazione Ip - Gruppo Api di Demasi Vincenzo;38509;0.0;Benzina;;Blue;
-44.9730037;9.0616121;;;;;0.0;Benzina;;Blue;
-45.1253082;8.9098499;Api-Ip;;Camana Antony;39777;0.0;Benzina;;Blue;
-45.1614294;9.4500128;;;;;0.0;Benzina;;Blue;
-45.1862866;9.2087154;;;;;0.0;Benzina;;Blue;
-45.1919986;9.2172277;Tamoil;Tamoil;Astidias Cardenas Miguel Angel;;0.0;Benzina;;Blue;
-45.2637249;8.7611921;;;Dam Sas Carburanti di Cutrona G. e C.;29254;1.649;Benzina;1;Green;02/08/2025 05:32:10
-45.3270707;8.8366099;IP;IP;;;0.0;Benzina;;Blue;
+@id;@type;@lat;@lon;ref:mise;brand;name;operator;idImpianto;descCarburante;prezzo;isSelf;dtComu;color
+208518509;node;44.9144077;9.1910799;21385;;Occhio al Prezzo;Bar L'Alpino di Montagna Antonella;21385;Benzina;2.15;0;27/07/2025 06:08:52;Red
+227013247;node;45.1014190;8.7458090;10833;Eni;Eni;Pampuri Emiliano;10833;Benzina;1.759;1;02/08/2025 06:46:16;Yellow
+227013658;node;45.1985867;9.1811840;17612;Eni;Agip;Pischedda Andrea;17612;Benzina;1.759;1;02/08/2025 00:24:51;Yellow
+227013986;node;44.9954932;8.9857142;13825;Eni;Eni;Cattani Lauretta;13825;Benzina;1.749;1;02/08/2025 00:20:15;Yellow
+227014603;node;45.3258389;8.8755964;17443;Agip;Agip;Iovane Michele;17443;Benzina;1.744;1;02/08/2025 07:32:20;Yellow
+227014961;node;45.1931029;9.1666342;30084;Eni;Agip;Pischedda Andrea;30084;Benzina;1.759;1;02/08/2025 07:32:18;Yellow
+227015438;node;45.3052351;8.8528719;58809;Eni;Eni;;58809;Benzina;1.689;1;02/08/2025 00:24:52;Green
+227549319;node;44.9991565;9.0690754;24149;;Iper;Iper Montebello S.P.A.;24149;Benzina;1.604;1;01/08/2025 17:16:01;Green
+227549320;node;44.9781488;9.0081271;13335;Total Erg;Erg;Sbarra Mauro;13335;Benzina;1.679;1;30/07/2025 07:39:27;Green
+227549325;node;44.9971095;8.9767038;22291;IP;Erg;Gestioni Europa - Società Per Azioni;22291;Benzina;1.659;1;01/08/2025 09:06:01;Green
+227552619;node;45.0078381;9.1096902;11788;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11788;Benzina;1.639;1;31/07/2025 07:05:48;Green
+227552833;node;44.9868746;8.9933781;24415;;Restiani;;24415;Benzina;1.699;1;01/08/2025 16:38:39;Green
+227553016;node;44.9949375;8.9890052;40596;IP;Api;Gruppo Sam Snc di Sudesh Kumar & C.;40596;Benzina;1.659;1;29/07/2025 08:32:14;Green
+227555087;node;44.9428496;9.0121062;7685;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;7685;Benzina;1.725;1;02/08/2025 06:00:58;Green
+227555336;node;44.9250314;9.0259578;27414;Tamoil;Tamoil;G.V. Carburanti Snc di Giangrassi R. e Viola D.;27414;Benzina;1.689;1;02/08/2025 06:58:21;Green
+227555585;node;44.9729580;9.0616180;21858;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21858;Benzina;1.725;1;02/08/2025 06:00:59;Green
+227556528;node;45.0371725;9.0486656;12979;;Indipend.;Nebbiolo Nicolino;12979;Benzina;1.66;1;01/08/2025 16:37:46;Green
+227580180;node;45.1708150;9.1442700;11786;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11786;Benzina;1.699;1;01/08/2025 08:04:09;Green
+227596313;node;45.0000100;8.9591360;26682;Tamoil;Tamoil;T.D.M. S.R.L.;26682;Benzina;1.659;1;01/08/2025 11:38:10;Green
+227598867;node;44.8242091;9.1259872;26140;Tamoil;Tamoil;Pastore Petroli - S.R.L.;26140;Benzina;1.699;1;01/08/2025 09:40:37;Green
+227599239;node;44.8249296;9.1844836;39362;Tamoil;Tamoil;T.D.M. S.R.L.;39362;Benzina;1.689;1;01/08/2025 12:09:33;Green
+227601206;node;45.0098219;8.9277552;29629;Tamoil;Tamoil;T.D.M. S.R.L.;29629;Benzina;1.659;1;01/08/2025 14:46:09;Green
+227610142;node;44.9991693;9.0919054;6453;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia Srl;6453;Benzina;1.619;1;02/08/2025 01:07:13;Green
+227611730;node;45.1488612;8.9925327;3558;Esso;Esso;Nuova Sidap S.R.L.;3558;Benzina;1.882;1;01/08/2025 17:32:00;Orange
+227611946;node;45.1473150;8.9901698;29714;Q8;Q8;Acistar Nove S.R.L.;29714;Benzina;1.799;1;29/07/2025 14:05:07;Yellow
+227615893;node;45.0123378;9.1171983;22662;Esso;Esso;Pisello Giuseppe Fabrizio;22662;Benzina;1.629;1;01/08/2025 10:45:27;Green
+227623119;node;45.1969929;9.1596198;14281;Q8;Q8;Servizi & Gestioni Italia S.R.L.;14281;Benzina;1.714;1;02/08/2025 01:07:13;Green
+227633586;node;45.0379410;9.0834670;15098;Total Erg;TotalErg;La Rosa Dei Venti di Guarnaschelli Roberto;15098;Benzina;1.799;0;29/07/2025 08:18:39;Yellow
+227649215;node;45.1981950;9.1573830;25356;Q8;Q8;S.M.A.L.P. S.N.C. di Losi Stefano Maria e Ferlisi Andrea e C.;25356;Benzina;1.759;1;26/07/2025 10:33:13;Yellow
+227693186;node;45.3628637;8.8001773;7279;Q8;Q8;Servizi & Gestioni Italia S.R.L.;7279;Benzina;1.699;1;02/08/2025 07:06:17;Green
+227693392;node;45.1973710;8.9160060;37471;Q8;Q8;Crotti Battista;37471;Benzina;1.85;1;31/07/2025 06:50:24;Yellow
+227693393;node;45.2419199;8.7485802;11791;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11791;Benzina;1.629;1;01/08/2025 01:36:38;Green
+227693399;node;45.2800810;8.7918730;11792;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11792;Benzina;1.629;1;01/08/2025 08:35:10;Green
+227693592;node;45.3249960;9.2065640;16580;IP;IP;Maverna Claudio;16580;Benzina;1.669;1;03/06/2025 15:12:25;Green
+227693786;node;45.3258230;8.8761434;11789;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11789;Benzina;1.679;1;31/07/2025 07:38:32;Green
+227693991;node;45.3197808;8.8457023;11787;Q8;Q8;Servizi & Gestioni Italia S.R.L.;11787;Benzina;1.699;1;02/08/2025 07:06:17;Green
+227754609;node;44.9966355;9.0174458;11793;Q8 Easy;Q8 Easy;Servizi & Gestioni Italia S.R.L.;11793;Benzina;1.639;1;31/07/2025 01:05:48;Green
+227757850;node;45.3222800;8.8284800;10851;Tamoil;Tamoil;Maggi Stefano;10851;Benzina;1.679;1;02/08/2025 07:06:08;Green
+227760068;node;45.0542212;8.8085575;9601;Q8;Q8;Servizi & Gestioni Italia S.R.L.;9601;Benzina;1.659;1;02/08/2025 01:07:13;Green
+227768606;node;45.1982070;8.7680180;5087;Q8;Q8;Palma Giovanni;5087;Benzina;1.659;1;31/07/2025 07:16:32;Green
+227769618;node;45.3066020;8.8743080;14096;Tamoil;Tamoil;Di Palma Carlo;14096;Benzina;1.689;1;30/07/2025 08:19:27;Green
+227775732;node;45.2534824;9.0386753;38129;;Pit Stop;Castoldi Valerio;38129;Benzina;1.659;1;31/07/2025 13:55:36;Green
+227781608;node;45.0827652;9.3184206;3763;IP;IP;Stradella S.R.L.;3763;Benzina;1.869;1;31/07/2025 11:01:35;Yellow
+227788957;node;45.0491761;9.2326945;13083;Tamoil;Tamoil;Carburanti Olii Lubrificanti Bronese S.R.L.;13083;Benzina;1.699;1;01/08/2025 14:36:55;Green
+227789818;node;45.0809490;9.2586850;7683;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;7683;Benzina;1.769;1;02/08/2025 06:00:57;Yellow
+227790183;node;45.1774743;9.2026772;24634;Q8;Q8;Ambrogio Moro S.P.A.;24634;Benzina;1.689;1;29/07/2025 12:05:16;Green
+227794568;node;45.1925350;9.1812664;6457;Q8;Q8;Servizi & Gestioni Italia Srl;6457;Benzina;1.714;1;02/08/2025 01:07:14;Green
+227795117;node;45.1863210;9.1711380;23767;Total;Total;Legacy di Borelli Tania e C. S.A.S.;23767;Benzina;1.729;1;02/08/2025 06:57:00;Green
+227804398;node;45.0723910;9.2700300;41535;Eni;Eni;La Gaccia Gianfran;41535;Benzina;1.759;1;02/08/2025 07:28:07;Yellow
+227805161;node;45.0440360;9.2582830;17214;Tamoil;Tamoil;P & J di Biani Piero e Pozzi Jennifer S.N.C. Denominazione Abbreviata P & J di Biani e Pozzi S.N.C.;17214;Benzina;1.879;0;17/07/2025 07:44:23;Orange
+227836949;node;45.3319050;8.8368270;35940;Esso;Esso;Aresi di Sironi Fabio;35940;Benzina;1.729;1;02/08/2025 06:39:43;Green
+227869927;node;44.9026336;9.0513367;20672;Total Erg;Erg;Gestioni Europa - Società Per Azioni;20672;Benzina;1.669;1;01/08/2025 09:05:00;Green
+227887038;node;44.8573750;9.0832900;36028;;Indipend.;Vitras Sas di Angeleri Carlo & C.;36028;Benzina;1.689;1;02/08/2025 07:20:15;Green
+227954565;node;45.1939540;8.9289880;12177;Esso;;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12177;Benzina;1.738;1;02/08/2025 06:00:57;Green
+227954976;node;45.0969537;8.9074587;39183;Esso;Esso;Biscuola Thomas;39183;Benzina;1.689;1;31/07/2025 13:17:15;Green
+227955196;node;45.0985327;8.9056858;13835;Total Erg;TotalErg;Mangiarotti Dario;13835;Benzina;1.709;1;31/07/2025 15:19:28;Green
+227957347;node;45.3034190;8.8702135;33228;;;M.T.M.Di Magnani Daniele & C.S.N.C;33228;Benzina;1.629;1;30/07/2025 07:39:36;Green
+227957356;node;45.1619318;8.9457232;32241;Agip Eni;Agip;Stazione di Servizio Agip F.lli Lodola S.N.C.;32241;Benzina;1.739;1;02/08/2025 08:02:18;Green
+227969643;node;45.1647450;8.7912205;35663;Q8;Q8;Mattia Scabeni;35663;Benzina;1.729;1;31/07/2025 07:48:43;Green
+227984129;node;45.2490140;8.7211280;36367;Tamoil;Tamoil;T.D.M. S.R.L.;36367;Benzina;1.649;1;01/08/2025 11:42:07;Green
+228037522;node;45.1811370;8.5973600;34184;Giap;Giap;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;34184;Benzina;1.739;1;02/08/2025 06:00:59;Green
+228042275;node;45.2895310;8.5845280;48106;Api;Api;Ghibriali Marco Nardino;48106;Benzina;1.739;1;29/07/2025 17:02:31;Green
+228063835;node;45.3156069;8.8635510;51483;Retitalia;;Di Palma Carlo;51483;Benzina;1.699;1;30/07/2025 08:19:37;Green
+228098879;node;45.3247280;8.8748360;17691;IP;IP;Ip Services S.R.L.;17691;Benzina;1.679;1;01/08/2025 09:03:50;Green
+228111636;node;45.3136192;9.2064137;14693;Eni;Eni;Servizio Sicuro S.N.C. di Samarati Stefano e Scaglioni Giancarlo;14693;Benzina;1.679;1;02/08/2025 07:12:09;Green
+228111813;node;45.2803490;9.2120260;21857;IP;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;21857;Benzina;1.728;1;02/08/2025 06:01:00;Green
+228111965;node;45.2337170;9.1833328;21401;Esso;Esso;Damiani Anita;21401;Benzina;1.739;1;30/07/2025 18:10:32;Green
+228114325;node;45.0674782;9.3291820;28396;Tamoil;Tamoil;T.D.M. S.R.L.;28396;Benzina;1.699;1;01/08/2025 11:48:14;Green
+228177068;node;45.2552750;9.2331460;12780;Tamoil;Tamoil;Bonizzoni Pietro Giuseppe;12780;Benzina;1.689;1;30/07/2025 12:02:08;Green
+228244699;node;45.1599019;9.3984749;9302;Tamoil;Tamoil;Rizzi Pierluigi;9302;Benzina;1.649;1;02/08/2025 07:28:05;Green
+229104711;node;45.3219086;8.8726601;6456;Q8;Q8;Servizi & Gestioni Italia Srl;6456;Benzina;1.659;1;30/07/2025 01:05:30;Green
+229104715;node;45.3012596;8.8626389;23012;Q8;Q8;Servizi & Gestioni Italia S.R.L.;23012;Benzina;1.629;1;30/07/2025 01:05:30;Green
+229104718;node;45.2926887;8.8534426;12179;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12179;Benzina;1.658;1;02/08/2025 06:00:58;Green
+229105138;node;45.3169050;8.8806010;32414;Esso;Esso;Vett -Amo Snc di Vettorello Roberta Luisa e Amolaro Fabio Walter;32414;Benzina;1.686;1;02/08/2025 07:27:55;Green
+229105313;node;45.2490477;8.7435361;17971;IP;IP;Gamma Petroli S.R.L.;17971;Benzina;1.649;1;29/07/2025 09:04:52;Green
+229106765;node;45.1212220;8.7965240;12178;Esso;Esso;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;12178;Benzina;1.759;1;02/08/2025 06:00:58;Yellow
+229106936;node;45.1134764;8.6690104;35002;Esso;IP;Servizi e Gestioni Zenit S.R.L. in Sigla - Zenit S.R.L.;35002;Benzina;1.739;1;02/08/2025 06:00:59;Green
+229120799;node;45.3205570;8.8719265;36257;IES;IES;Garbini S.P.A.;36257;Benzina;1.659;1;02/08/2025 00:19:29;Green
+370462094;node;45.1920956;9.3877929;6853;Total Erg;;Cerutti S.N.C. di Cerutti Silvio & Rosangela;6853;Benzina;1.729;1;01/08/2025 10:35:21;Green
+701747698;node;45.0252498;8.9138242;22417;Agip Eni;;Sirtam S.R.L.;22417;Benzina;1.684;1;30/07/2025 12:04:14;Green
+1495472366;node;44.9552263;9.0104093;10041;;Centro Calor;Centro Calor S.R.L.;10041;Benzina;1.699;1;31/07/2025 08:56:02;Green
+1559451480;node;45.0731130;9.3142463;31519;Vega Carburanti;;Vega Carburanti S.P.A.;31519;Benzina;1.709;1;30/07/2025 21:31:28;Green
+2426578393;node;45.2517457;9.1982102;37665;Api-Ip;IP;Clerici Renzo;37665;Benzina;1.729;1;31/07/2025 11:49:37;Green
+2481967673;node;45.3251958;9.2565233;31523;Vega;Vega;Vega Carburanti S.p.A.;31523;Benzina;1.679;1;31/07/2025 08:18:05;Green
+2544062163;node;45.1162222;9.3517781;13091;Tamoil;;Carburanti Olii Lubrificanti Bronese S.R.L.;13091;Benzina;1.699;1;01/08/2025 14:37:10;Green
+2662861247;node;45.1614289;9.3027145;19641;Esso;Distributore Esso;F.lli Boneschi S.N.C. di Boneschi Maurizio e Mario;19641;Benzina;1.699;1;02/08/2025 05:53:02;Green
+3085305270;node;45.1594754;9.4230461;4593;;;Af Petrol S.R.L.;4593;Benzina;1.645;1;02/08/2025 00:14:03;Green
+3600390500;node;45.1616312;9.2954779;8027;Tamoil;;Amatruda Giovanni;8027;Benzina;1.699;1;01/08/2025 15:05:05;Green
+4551188939;node;45.0836630;9.3155674;3935;Eni;Eni;Stazione Agip di Pietralunga P. & F. S.N.C.;3935;Benzina;1.849;1;02/08/2025 00:25:01;Yellow
+4690944200;node;44.9910050;9.3008073;33530;Keropetrol;;Braga Massimo;33530;Benzina;1.745;1;28/07/2025 09:49:10;Yellow
+4835476005;node;45.2035130;9.1706181;10332;IP;Api-Ip;Gestioni Europa - Società Per Azioni;10332;Benzina;1.719;1;01/08/2025 09:05:10;Green
+4880275593;node;45.2246930;9.2094233;32068;Pan Oil;;Ronzi Aldo;32068;Benzina;1.729;1;28/07/2025 08:08:44;Green
+5145963869;node;44.8667960;9.2644734;29142;;;Distributore Carburante Corradi Matteo;29142;Benzina;1.799;1;28/07/2025 14:18:11;Yellow
+5851831313;node;45.3138850;9.0242722;8408;Eni;Eni;Bonizzoni S.N.C. di Bonizzoni Marco e C.;8408;Benzina;1.749;1;02/08/2025 07:26:15;Yellow
+5851831517;node;45.3089377;9.0164478;6454;Q8;Q8;Servizi & Gestioni Italia Srl;6454;Benzina;1.669;1;02/08/2025 01:07:14;Green
+5851834988;node;45.2102344;9.3528253;37247;Tamoil;Tamoil;T.D.M. S.R.L.;37247;Benzina;1.689;1;01/08/2025 12:09:00;Green
+5851835031;node;45.1726237;9.3162332;36918;Europam;;Europam S.P.A.;36918;Benzina;1.697;1;01/08/2025 15:20:57;Green
+5851837555;node;45.1505917;9.1202134;31524;Vega Carburanti;Vega Carburanti;Vega Carburanti S.P.A.;31524;Benzina;1.699;1;30/07/2025 21:31:34;Green
+5851842790;node;44.9991188;9.0219094;22647;Esso;Esso;Pisello Giuseppe Fabrizio;22647;Benzina;1.639;1;30/07/2025 10:07:02;Green
+5851842812;node;45.2620871;8.8548612;22393;Tamoil;;F.lli Zerbi di Zerbi Davide e Zerbi Cesare S.N.C.;22393;Benzina;1.829;0;30/07/2025 00:03:30;Yellow
+5851844637;node;45.1976820;9.3184280;15103;Api-Ip;;Capelletti Maurizio;15103;Benzina;1.699;1;02/08/2025 07:36:52;Green
+5851845218;node;45.2796031;8.6042503;13643;Eni;Eni;Ferrari Claudio;13643;Benzina;1.759;1;02/08/2025 07:40:15;Yellow
+5851845661;node;45.0603024;9.3031321;10565;Q8;;F.lli Cassi di Cassi Maurizio Antonio e Cassi Gabriele Marco S.N.C.;10565;Benzina;1.709;1;01/08/2025 08:01:19;Green
+5853342997;node;45.2308335;9.0758369;9004;Indipendente;Indipendente;Ambrogio Moro S.P.A.;9004;Benzina;1.679;1;02/08/2025 00:19:32;Green
+5853343452;node;45.2062936;9.0118841;37442;;;Verri Cristiano;37442;Benzina;1.725;1;29/07/2025 19:10:39;Green
+28411635;way;45.2008877;9.1943867;31522;Vega;Vega;Vega Carburanti S.P.A.;31522;Benzina;1.709;1;30/07/2025 21:29:23;Green
+1068903167;way;45.2637249;8.7611921;29254;;;Dam Sas Carburanti di Cutrona G. e C.;29254;Benzina;1.649;1;02/08/2025 05:32:10;Green
